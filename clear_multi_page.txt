@@ -1,0 +1,296 @@
+
+
+Negócios realizados
+Q  NegociaçãoC/V  Tipo mercadoPrazoEspecificação do títuloObs. (*)  QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAC  FRACIONARIOAES BRASIL          ON ED NM3314,45476,85  D
+1-BOVESPAC  FRACIONARIOAES BRASIL          ON ED NM214,4728,94  D
+1-BOVESPAC  FRACIONARIOAMBEV S/A          ON917,41156,69  D
+1-BOVESPAC  FRACIONARIOAMBEV S/A          ON117,4117,41  D
+1-BOVESPAC  FRACIONARIOAMBEV S/A          ON1917,41330,79  D
+1-BOVESPAC  FRACIONARIOB3          ON EB NM2917,46506,34  D
+1-BOVESPAC  FRACIONARIOCOSAN          ON NM2222,59496,98  D
+1-BOVESPAC  FRACIONARIOENGIE BRASIL          ON ED NM140,0340,03  D
+1-BOVESPAC  FRACIONARIOENGIE BRASIL          ON ED NM1240,03480,36  D
+1-BOVESPAC  FRACIONARIOFLEURY          ON NM1926,44502,36  D
+1-BOVESPAC  FRACIONARIOITAUSA          PN N13810,68405,84  D
+1-BOVESPAC  FRACIONARIOITAUSA          PN N1910,6896,12  D
+1-BOVESPAC  FRACIONARIOKLABIN S/A          PN N2405,28211,20  D
+1-BOVESPAC  FRACIONARIOKLABIN S/A          PN N2#545,28285,12  D
+1-BOVESPAC  FRACIONARIOM.DIASBRANCO          ON NM1926,66506,54  D
+1-BOVESPAC  FRACIONARIORAIADROGASIL          ON NM1926,25498,75  D
+1-BOVESPAC  FRACIONARIOSANEPAR          PN N2#854,13351,05  D
+1-BOVESPAC  FRACIONARIOSANEPAR          PN N2#144,1357,82  D
+NOTA DE NEGOCIAÇÃO
+Nr. nota
+33333
+Folha
+1
+Data pregão
+18/05/2021
+CLEAR CORRETORA - GRUPO XP
+Av. Presidente Juscelino Kubitschek - Torre Sul, 1909 - 29º ANDAR VILA OLIMPIASAO PAULO - SP
+Tel. 4003-6245   Fax: (55 ) -
+Internet: www.clear.com.br SAC: 0800-774-0404e-mail: atendimento@clear.com.br
+C.N.P.J: 02.332.886/0011-78Carta Patente:
+Ouvidoria: Tel. 0800.774.0404e-mail ouvidoria: ouvidoria@clear.com.br
+    
+                
+     
+Participante destino do repasse
+-
+Cliente
+0
+Valor
+ AcionistaAdministrador
+ 
+   
+Assessor
+0
+Custodiante
+C.I
+N
+Complemento nome
+P. Vinc
+N
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações 
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado. 
+(*) Observações
+A - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.   C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+  
+Taxa Operacional
+ 
+Execução
+ 
+Taxa de Custódia
+ 
+Impostos
+I.R.R.F. s/ operações, base R$ 0,00
+Outros 
+Total Custos / Despesas
+D
+Resumo Financeiro
+Clearing
+Valor líquido das operações
+Taxa de liquidação
+Taxa de Registro
+Total CBLC
+Bolsa
+Taxa de termo/opções
+Taxa A.N.A.
+Emolumentos
+Total Bovespa / Soma CONTINUA...
+Corretagem / Despesas
+Líquido para
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 4003-6245 Demais localidades: 0800-887-9107 SAC: 0800-774-0404 Ouvidoria: 0800-200-5550
+
+1-BOVESPAC  FRACIONARIOSANEPAR          PN N2#104,1341,30  D
+1-BOVESPAC  FRACIONARIOSANEPAR          PN N2#124,1349,56  D
+1-BOVESPAC  FRACIONARIOTRAN PAULIST          PN N12026,10522,00  D
+1-BOVESPAC  FRACIONARIOWEG          ON NM1632,18514,88  D
+1-BOVESPAC  VISTAFII ALIANZA          ALZR11          CI1126,40126,40  D
+1-BOVESPAC  VISTAFII ALIANZA          ALZR11          CI3126,41379,23  D
+1-BOVESPAC  VISTAFII CSHG LOG          HGLG11          CI3170,85512,55  D
+1-BOVESPAC  VISTAFII CSHG URB          HGRU11          CI1118,25118,25  D
+1-BOVESPAC  VISTAFII CSHG URB          HGRU11          CI4118,26473,04  D
+1-BOVESPAC  VISTAFII HEDGEBS          HGBS11          CI1202,62202,62  D
+1-BOVESPAC  VISTAFII HEDGEBS          HGBS11          CI2202,63405,26  D
+1-BOVESPAC  VISTAFII HG REAL          HGRE11          CI1130,57130,57  D
+1-BOVESPAC  VISTAFII HG REAL          HGRE11          CI2130,58261,16  D
+1-BOVESPAC  VISTAFII HG REAL          HGRE11          CI1130,57130,57  D
+1-BOVESPAC  VISTAFII KINEA          KNRI11          CI1148,65148,65  D
+1-BOVESPAC  VISTAFII VINCI SC          VISC11          CI1109,37109,37  D
+1-BOVESPAC  VISTAFII XP LOG          XPLG11          CI1114,95114,95  D
+1-BOVESPAC  VISTAFII XP MALLS          XPML11          CI1104,48104,48  D
+Negócios realizados
+Q  NegociaçãoC/V  Tipo mercadoPrazoEspecificação do títuloObs. (*)  QuantidadePreço / AjusteValor Operação / AjusteD/C
+NOTA DE NEGOCIAÇÃO
+Nr. nota
+33333
+Folha
+2
+Data pregão
+18/05/2021
+CLEAR CORRETORA - GRUPO XP
+Av. Presidente Juscelino Kubitschek - Torre Sul, 1909 - 29º ANDAR VILA OLIMPIASAO PAULO - SP
+Tel. 4003-6245   Fax: (55 ) -
+Internet: www.clear.com.br SAC: 0800-774-0404e-mail: atendimento@clear.com.br
+C.N.P.J: 02.332.886/0011-78Carta Patente:
+Ouvidoria: Tel. 0800.774.0404e-mail ouvidoria: ouvidoria@clear.com.br
+    
+                
+     
+Participante destino do repasse
+-
+Cliente
+0
+Valor
+ AcionistaAdministrador
+ 
+   
+Assessor
+0
+Custodiante
+C.I
+N
+Complemento nome
+P. Vinc
+N
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações 
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado. 
+(*) Observações
+A - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.   C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+  
+Taxa Operacional
+ 
+Execução
+ 
+Taxa de Custódia
+ 
+Impostos
+I.R.R.F. s/ operações, base R$ 0,00
+Outros 
+Total Custos / Despesas
+D
+Resumo Financeiro
+Clearing
+Valor líquido das operações
+Taxa de liquidação
+Taxa de Registro
+Total CBLC
+Bolsa
+Taxa de termo/opções
+Taxa A.N.A.
+Emolumentos
+Total Bovespa / Soma CONTINUA...
+Corretagem / Despesas
+Líquido para
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 4003-6245 Demais localidades: 0800-887-9107 SAC: 0800-774-0404 Ouvidoria: 0800-200-5550
+
+1-BOVESPAC  VISTAFII XP MALLS          XPML11          CI1104,49104,49  D
+Negócios realizados
+Q  NegociaçãoC/V  Tipo mercadoPrazoEspecificação do títuloObs. (*)  QuantidadePreço / AjusteValor Operação / AjusteD/C
+NOTA DE NEGOCIAÇÃO
+Nr. nota
+33333
+Folha
+3
+Data pregão
+18/05/2021
+CLEAR CORRETORA - GRUPO XP
+Av. Presidente Juscelino Kubitschek - Torre Sul, 1909 - 29º ANDAR VILA OLIMPIASAO PAULO - SP
+Tel. 4003-6245   Fax: (55 ) -
+Internet: www.clear.com.br SAC: 0800-774-0404e-mail: atendimento@clear.com.br
+C.N.P.J: 02.332.886/0011-78Carta Patente:
+Ouvidoria: Tel. 0800.774.0404e-mail ouvidoria: ouvidoria@clear.com.br
+    
+                
+     
+Participante destino do repasse
+-
+Cliente
+0
+Valor
+ AcionistaAdministrador
+ 
+   
+Assessor
+0
+Custodiante
+C.I
+N
+Complemento nome
+P. Vinc
+N
+0,00
+0,00
+9.898,52
+0,00
+0,00
+0,00
+0,00
+9.898,52
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações 
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) Observações
+A - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.   C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+9.900,99Total CBLCD
+9.898,52Valor líquido das operações
+D
+2,47Taxa de liquidação
+D
+0,00Taxa de Registro
+D
+0,49Total Bovespa / Soma
+D
+0,00Taxa de termo/opções
+D
+0,00Taxa A.N.A.
+D
+0,49Emolumentos
+D
+ 
+0,00Total Custos / Despesas
+D
+ 
+0,00Taxa Operacional
+D
+0,00Execução
+0,00Taxa de Custódia
+0,00Impostos
+0,00I.R.R.F. s/ operações, base R$0,00
+0,00OutrosC
+9.901,48Líquido para 20/05/2021
+D
+Resumo Financeiro
+Clearing
+Bolsa
+Custos Operacionais
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 4003-6245 Demais localidades: 0800-887-9107 SAC: 0800-774-0404 Ouvidoria: 0800-200-5550
