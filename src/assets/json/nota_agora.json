@@ -1,0 +1,29 @@
+[
+  {
+    "number": "8690248",
+    "buyTotal": 0.0,
+    "sellTotal": 5585.6,
+    "buyFees": 0.0,
+    "sellFees": 95.48,
+    "fees": 95.48,
+    "date": "30/07/2020",
+    "liquidationDate": "03/08/2020",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A",
+    "deals": [
+      {
+        "type": "sell",
+        "code": "B2W DIGITAL",
+        "quantity": 107,
+        "average": 8.05,
+        "price": 861.00
+      },
+      {
+        "type": "sell",
+        "code": "CVC BRASIL",
+        "quantity": 268,
+        "average": 17.99,
+        "price": 4820.08
+      }
+    ]
+  }
+]

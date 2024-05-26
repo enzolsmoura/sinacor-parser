@@ -1,5 +1,6 @@
 import * as fs from "fs";
 import * as path from "path";
+import { noteNumberRegex } from "../regex/regexes";
 import pdf from "pdf-parse";
 
 async function extractTextFromPDF(filePath: string): Promise<string | null> {
@@ -25,9 +26,9 @@ async function writeFile(filePath: string, data: string): Promise<void> {
 async function main() {
   const text = await extractTextFromPDF(pdfPath); // Extract text from PDF
   if (text) {
-    const txtPath = path.join(__dirname, "clear_multi_page.txt");
+    const txtPath = "../assets/txt/nota_bradesco.txt";
     await writeFile(txtPath, text); // Write the text to a file
   }
 }
-const pdfPath: string = path.join(__dirname, "clear_multi_page.pdf");
+const pdfPath: string = "../assets/pdf/nota_bradesco.pdf";
 main();
