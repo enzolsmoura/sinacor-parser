@@ -37,6 +37,10 @@ export function groupNotes(notes: BrokerageNote[]): BrokerageNote[] {
 
   // Remove the trailing comma and space from settlementDate
   Object.values(groupedNotes).forEach((group) => {
+    group.buyTotal = Number(group.buyTotal.toFixed(2));
+    group.sellTotal = Number(group.sellTotal.toFixed(2));
+    group.total = Number(group.total.toFixed(2));
+    group.fees = Number(group.fees.toFixed(2));
     group.settlementDate = group.settlementDate.slice(0, -2);
     group.groupedDeals = groupDeals(group.deals);
   });

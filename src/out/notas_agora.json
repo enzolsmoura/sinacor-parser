@@ -62,7 +62,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 107,
-        "avgUnitPrice": 8.046728971962617,
+        "avgUnitPrice": 8.05,
         "totalPrice": 861
       },
       {
@@ -71,7 +71,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 268,
-        "avgUnitPrice": 17.98537313432836,
+        "avgUnitPrice": 17.99,
         "totalPrice": 4820.08
       }
     ]
@@ -171,7 +171,7 @@
         "termDeal": true,
         "termDays": 182,
         "quantity": 1100,
-        "avgUnitPrice": 62.52941818181818,
+        "avgUnitPrice": 62.53,
         "totalPrice": 68782.36
       },
       {
@@ -180,7 +180,7 @@
         "termDeal": true,
         "termDays": 182,
         "quantity": 4500,
-        "avgUnitPrice": 22.396815555555555,
+        "avgUnitPrice": 22.4,
         "totalPrice": 100785.67
       }
     ]
@@ -221,7 +221,7 @@
         "termDeal": true,
         "termDays": 120,
         "quantity": 3000,
-        "avgUnitPrice": 17.183943333333335,
+        "avgUnitPrice": 17.18,
         "totalPrice": 51551.83
       }
     ]
@@ -271,7 +271,7 @@
         "termDeal": true,
         "termDays": 90,
         "quantity": 3000,
-        "avgUnitPrice": 17.182063333333335,
+        "avgUnitPrice": 17.18,
         "totalPrice": 51546.19
       },
       {
@@ -330,7 +330,7 @@
         "termDeal": true,
         "termDays": 91,
         "quantity": 3000,
-        "avgUnitPrice": 19.427226666666666,
+        "avgUnitPrice": 19.43,
         "totalPrice": 58281.68
       },
       {
@@ -587,7 +587,7 @@
         "termDeal": true,
         "termDays": 180,
         "quantity": 10400,
-        "avgUnitPrice": 29.93144903846154,
+        "avgUnitPrice": 29.93,
         "totalPrice": 311287.07
       },
       {
@@ -596,7 +596,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 136,
-        "avgUnitPrice": 734.2780147058824,
+        "avgUnitPrice": 734.28,
         "totalPrice": 99861.81
       },
       {
@@ -714,7 +714,7 @@
         "termDeal": true,
         "termDays": 90,
         "quantity": 3000,
-        "avgUnitPrice": 22.41026666666667,
+        "avgUnitPrice": 22.41,
         "totalPrice": 67230.8
       },
       {
@@ -764,7 +764,7 @@
         "termDeal": true,
         "termDays": 90,
         "quantity": 18000,
-        "avgUnitPrice": 5.71012,
+        "avgUnitPrice": 5.71,
         "totalPrice": 102782.16
       }
     ]
@@ -814,7 +814,7 @@
         "termDeal": true,
         "termDays": 91,
         "quantity": 3000,
-        "avgUnitPrice": 24.46551,
+        "avgUnitPrice": 24.47,
         "totalPrice": 73396.53
       },
       {
@@ -873,7 +873,7 @@
         "termDeal": true,
         "termDays": 91,
         "quantity": 10400,
-        "avgUnitPrice": 20.056352884615386,
+        "avgUnitPrice": 20.06,
         "totalPrice": 208586.07
       },
       {
@@ -964,7 +964,7 @@
         "termDeal": true,
         "termDays": 90,
         "quantity": 18000,
-        "avgUnitPrice": 6.27031,
+        "avgUnitPrice": 6.27,
         "totalPrice": 112865.58
       },
       {
@@ -1114,7 +1114,7 @@
         "termDeal": true,
         "termDays": 61,
         "quantity": 10500,
-        "avgUnitPrice": 21.894,
+        "avgUnitPrice": 21.89,
         "totalPrice": 229887
       },
       {
@@ -1272,7 +1272,7 @@
         "termDeal": true,
         "termDays": 60,
         "quantity": 2500,
-        "avgUnitPrice": 20.632652,
+        "avgUnitPrice": 20.63,
         "totalPrice": 51581.63
       },
       {
@@ -1281,7 +1281,7 @@
         "termDeal": true,
         "termDays": 60,
         "quantity": 2100,
-        "avgUnitPrice": 15.017695238095238,
+        "avgUnitPrice": 15.02,
         "totalPrice": 31537.16
       },
       {
@@ -1290,7 +1290,7 @@
         "termDeal": true,
         "termDays": 60,
         "quantity": 4300,
-        "avgUnitPrice": 7.1444395348837215,
+        "avgUnitPrice": 7.14,
         "totalPrice": 30721.090000000004
       },
       {
@@ -1299,7 +1299,7 @@
         "termDeal": true,
         "termDays": 60,
         "quantity": 13400,
-        "avgUnitPrice": 2.2993597014925373,
+        "avgUnitPrice": 2.3,
         "totalPrice": 30811.42
       },
       {
@@ -1308,7 +1308,7 @@
         "termDeal": true,
         "termDays": null,
         "quantity": 600,
-        "avgUnitPrice": 51.52003333333334,
+        "avgUnitPrice": 51.52,
         "totalPrice": 30912.02
       },
       {
@@ -1317,7 +1317,7 @@
         "termDeal": true,
         "termDays": 60,
         "quantity": 2700,
-        "avgUnitPrice": 11.39414814814815,
+        "avgUnitPrice": 11.39,
         "totalPrice": 30764.2
       },
       {
@@ -1326,7 +1326,7 @@
         "termDeal": true,
         "termDays": 60,
         "quantity": 2300,
-        "avgUnitPrice": 13.744834782608697,
+        "avgUnitPrice": 13.74,
         "totalPrice": 31613.120000000003
       }
     ]
@@ -1367,7 +1367,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 4,
-        "avgUnitPrice": 5418.935,
+        "avgUnitPrice": 5418.94,
         "totalPrice": 21675.74
       }
     ]
@@ -1516,7 +1516,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 6100,
-        "avgUnitPrice": 8.230819672131148,
+        "avgUnitPrice": 8.23,
         "totalPrice": 50208
       },
       {
@@ -1525,7 +1525,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 22,
-        "avgUnitPrice": 4805.818181818182,
+        "avgUnitPrice": 4805.82,
         "totalPrice": 105728
       }
     ]
@@ -1832,7 +1832,7 @@
         "termDeal": true,
         "termDays": 91,
         "quantity": 10500,
-        "avgUnitPrice": 19.30068,
+        "avgUnitPrice": 19.3,
         "totalPrice": 202657.13999999998
       },
       {
@@ -1891,7 +1891,7 @@
         "termDeal": true,
         "termDays": 60,
         "quantity": 10500,
-        "avgUnitPrice": 18.71872,
+        "avgUnitPrice": 18.72,
         "totalPrice": 196546.56
       },
       {
@@ -2144,7 +2144,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 1200,
-        "avgUnitPrice": 40.87166666666667,
+        "avgUnitPrice": 40.87,
         "totalPrice": 49046
       },
       {
@@ -2162,7 +2162,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 4000,
-        "avgUnitPrice": 25.66975,
+        "avgUnitPrice": 25.67,
         "totalPrice": 102679
       }
     ]
@@ -2835,7 +2835,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 2800,
-        "avgUnitPrice": 35.142857142857146,
+        "avgUnitPrice": 35.14,
         "totalPrice": 98400
       }
     ]
@@ -2966,7 +2966,7 @@
         "termDeal": false,
         "termDays": null,
         "quantity": 4500,
-        "avgUnitPrice": 33.24666666666667,
+        "avgUnitPrice": 33.25,
         "totalPrice": 149610
       }
     ]
@@ -3007,7 +3007,7 @@
         "termDeal": true,
         "termDays": 120,
         "quantity": 10000,
-        "avgUnitPrice": 10.281088,
+        "avgUnitPrice": 10.28,
         "totalPrice": 102810.88
       }
     ]
@@ -3048,7 +3048,7 @@
         "termDeal": true,
         "termDays": 120,
         "quantity": 12300,
-        "avgUnitPrice": 8.39807967479675,
+        "avgUnitPrice": 8.4,
         "totalPrice": 103296.38
       }
     ]
@@ -3089,7 +3089,7 @@
         "termDeal": true,
         "termDays": 120,
         "quantity": 13600,
-        "avgUnitPrice": 7.657257352941176,
+        "avgUnitPrice": 7.66,
         "totalPrice": 104138.7
       }
     ]
@@ -3130,7 +3130,7 @@
         "termDeal": true,
         "termDays": 120,
         "quantity": 42200,
-        "avgUnitPrice": 6.20744644549763,
+        "avgUnitPrice": 6.21,
         "totalPrice": 261954.24
       }
     ]
