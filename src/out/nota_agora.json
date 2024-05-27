@@ -1,0 +1,3138 @@
+[
+  {
+    "noteNumber": "8690248",
+    "total": 5585.6,
+    "buyTotal": 0,
+    "sellTotal": 5681.08,
+    "fees": 95.48,
+    "settlementDate": "03/08/2020",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "B2W DIGITAL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 7,
+        "unitPrice": 8,
+        "totalPrice": 56
+      },
+      {
+        "type": "sell",
+        "asset": "CVC BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 84,
+        "unitPrice": 16.56,
+        "totalPrice": 1391.04
+      },
+      {
+        "type": "sell",
+        "asset": "CVC BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 84,
+        "unitPrice": 21.06,
+        "totalPrice": 1769.04
+      },
+      {
+        "type": "sell",
+        "asset": "B2W DIGITAL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 8.05,
+        "totalPrice": 805
+      },
+      {
+        "type": "sell",
+        "asset": "CVC BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.6,
+        "totalPrice": 1660
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "B2W DIGITAL",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 107,
+        "avgUnitPrice": 8.046728971962617,
+        "totalPrice": 861
+      },
+      {
+        "asset": "CVC BRASIL",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 268,
+        "avgUnitPrice": 17.98537313432836,
+        "totalPrice": 4820.08
+      }
+    ],
+    "date": "30/07/2020",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "9434510",
+    "total": 27378.87,
+    "buyTotal": 0,
+    "sellTotal": 27392,
+    "fees": 13.13,
+    "settlementDate": "11/02/2021",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "CIA HERING",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 400,
+        "unitPrice": 17.12,
+        "totalPrice": 6848
+      },
+      {
+        "type": "sell",
+        "asset": "CIA HERING",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1200,
+        "unitPrice": 17.12,
+        "totalPrice": 20544
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "CIA HERING",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1600,
+        "avgUnitPrice": 17.12,
+        "totalPrice": 27392
+      }
+    ],
+    "date": "09/02/2021",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "9479663",
+    "total": -1067.5,
+    "buyTotal": 0,
+    "sellTotal": 0,
+    "fees": 1067.5,
+    "settlementDate": "24/02/2021",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "LOCALIZA",
+        "termDeal": true,
+        "termDays": 182,
+        "quantity": 64,
+        "unitPrice": 62.52,
+        "totalPrice": 4001.28
+      },
+      {
+        "type": "buy",
+        "asset": "LOCALIZA",
+        "termDeal": true,
+        "termDays": 182,
+        "quantity": 1036,
+        "unitPrice": 62.53,
+        "totalPrice": 64781.08
+      },
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDeal": true,
+        "termDays": 182,
+        "quantity": 1433,
+        "unitPrice": 22.39,
+        "totalPrice": 32084.87
+      },
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDeal": true,
+        "termDays": 182,
+        "quantity": 3067,
+        "unitPrice": 22.4,
+        "totalPrice": 68700.8
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "LOCALIZA",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 182,
+        "quantity": 1100,
+        "avgUnitPrice": 62.52941818181818,
+        "totalPrice": 68782.36
+      },
+      {
+        "asset": "PETROBRAS",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 182,
+        "quantity": 4500,
+        "avgUnitPrice": 22.396815555555555,
+        "totalPrice": 100785.67
+      }
+    ],
+    "date": "22/02/2021",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "9687894",
+    "total": -343.75,
+    "buyTotal": 0,
+    "sellTotal": 0,
+    "fees": 343.75,
+    "settlementDate": "12/04/2021",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "CIA HERING",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 1817,
+        "unitPrice": 17.18,
+        "totalPrice": 31216.06
+      },
+      {
+        "type": "buy",
+        "asset": "CIA HERING",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 1183,
+        "unitPrice": 17.19,
+        "totalPrice": 20335.77
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "CIA HERING",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 3000,
+        "avgUnitPrice": 17.183943333333335,
+        "totalPrice": 51551.83
+      }
+    ],
+    "date": "08/04/2021",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "9717967",
+    "total": 63186.78,
+    "buyTotal": 0,
+    "sellTotal": 63900,
+    "fees": 713.22,
+    "settlementDate": "19/04/2021",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "LOG-IN",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 2381,
+        "unitPrice": 17.18,
+        "totalPrice": 40905.58
+      },
+      {
+        "type": "buy",
+        "asset": "LOG-IN",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 619,
+        "unitPrice": 17.19,
+        "totalPrice": 10640.61
+      },
+      {
+        "type": "sell",
+        "asset": "CIA HERING",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3000,
+        "unitPrice": 21.3,
+        "totalPrice": 63900
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "LOG-IN",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 3000,
+        "avgUnitPrice": 17.182063333333335,
+        "totalPrice": 51546.19
+      },
+      {
+        "asset": "CIA HERING",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3000,
+        "avgUnitPrice": 21.3,
+        "totalPrice": 63900
+      }
+    ],
+    "date": "15/04/2021",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10094121",
+    "total": 56613.47,
+    "buyTotal": 0,
+    "sellTotal": 57330,
+    "fees": 716.53,
+    "settlementDate": "16/07/2021",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "LOG-IN",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 832,
+        "unitPrice": 19.42,
+        "totalPrice": 16157.44
+      },
+      {
+        "type": "buy",
+        "asset": "LOG-IN",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 2168,
+        "unitPrice": 19.43,
+        "totalPrice": 42124.24
+      },
+      {
+        "type": "sell",
+        "asset": "LOG-IN",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3000,
+        "unitPrice": 19.11,
+        "totalPrice": 57330
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "LOG-IN",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 3000,
+        "avgUnitPrice": 19.427226666666666,
+        "totalPrice": 58281.68
+      },
+      {
+        "asset": "LOG-IN",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3000,
+        "avgUnitPrice": 19.11,
+        "totalPrice": 57330
+      }
+    ],
+    "date": "14/07/2021",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10130489",
+    "total": 4516.59,
+    "buyTotal": 100010,
+    "sellTotal": 106535,
+    "fees": 2008.41,
+    "settlementDate": ", 27/07/2021",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 180,
+        "quantity": 8893,
+        "unitPrice": 29.93,
+        "totalPrice": 266167.49
+      },
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 180,
+        "quantity": 1507,
+        "unitPrice": 29.94,
+        "totalPrice": 45119.58
+      },
+      {
+        "type": "buy",
+        "asset": "CIFII DEA CARE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 89,
+        "unitPrice": 0.73,
+        "totalPrice": 65259.81
+      },
+      {
+        "type": "buy",
+        "asset": "CIFII DEA CARE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 2,
+        "unitPrice": 0.73,
+        "totalPrice": 1752
+      },
+      {
+        "type": "buy",
+        "asset": "CIFII DEA CARE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10,
+        "unitPrice": 0.73,
+        "totalPrice": 7300
+      },
+      {
+        "type": "buy",
+        "asset": "CIFII DEA CARE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 25,
+        "unitPrice": 0.73,
+        "totalPrice": 18250
+      },
+      {
+        "type": "buy",
+        "asset": "CIFII DEA CARE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10,
+        "unitPrice": 0.73,
+        "totalPrice": 7300
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 16.39,
+        "totalPrice": 8195
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.39,
+        "totalPrice": 1639
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.39,
+        "totalPrice": 1639
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 400,
+        "unitPrice": 16.39,
+        "totalPrice": 6556
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.39,
+        "totalPrice": 1639
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 16.39,
+        "totalPrice": 4917
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 400,
+        "unitPrice": 16.39,
+        "totalPrice": 6556
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.39,
+        "totalPrice": 1639
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 900,
+        "unitPrice": 16.39,
+        "totalPrice": 14751
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 16.39,
+        "totalPrice": 9834
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 400,
+        "unitPrice": 16.39,
+        "totalPrice": 6556
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.39,
+        "totalPrice": 1639
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.39,
+        "totalPrice": 1639
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.39,
+        "totalPrice": 1639
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.39,
+        "totalPrice": 1639
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.39,
+        "totalPrice": 1639
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1000,
+        "unitPrice": 16.39,
+        "totalPrice": 16390
+      },
+      {
+        "type": "sell",
+        "asset": "B3",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1100,
+        "unitPrice": 16.39,
+        "totalPrice": 18029
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 180,
+        "quantity": 10400,
+        "avgUnitPrice": 29.93144903846154,
+        "totalPrice": 311287.07
+      },
+      {
+        "asset": "CIFII DEA CARE",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 136,
+        "avgUnitPrice": 734.2780147058824,
+        "totalPrice": 99861.81
+      },
+      {
+        "asset": "B3",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 6500,
+        "avgUnitPrice": 16.39,
+        "totalPrice": 106535
+      }
+    ],
+    "date": "23/07/2021",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10243936",
+    "total": 185627.58,
+    "buyTotal": 0,
+    "sellTotal": 186735,
+    "fees": 1107.42,
+    "settlementDate": "26/08/2021",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "LOCALIZA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 56.85,
+        "totalPrice": 5685
+      },
+      {
+        "type": "sell",
+        "asset": "LOCALIZA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1000,
+        "unitPrice": 56.85,
+        "totalPrice": 56850
+      },
+      {
+        "type": "sell",
+        "asset": "PETROBRAS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 4500,
+        "unitPrice": 27.6,
+        "totalPrice": 124200
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "LOCALIZA",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1100,
+        "avgUnitPrice": 56.85,
+        "totalPrice": 62535
+      },
+      {
+        "asset": "PETROBRAS",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 4500,
+        "avgUnitPrice": 27.6,
+        "totalPrice": 124200
+      }
+    ],
+    "date": "24/08/2021",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10399190",
+    "total": 64969.67,
+    "buyTotal": 0,
+    "sellTotal": 65790,
+    "fees": 820.33,
+    "settlementDate": "11/10/2021",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "LOG-IN",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 2920,
+        "unitPrice": 22.41,
+        "totalPrice": 65437.2
+      },
+      {
+        "type": "buy",
+        "asset": "LOG-IN",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 80,
+        "unitPrice": 22.42,
+        "totalPrice": 1793.6
+      },
+      {
+        "type": "sell",
+        "asset": "LOG-IN",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3000,
+        "unitPrice": 21.93,
+        "totalPrice": 65790
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "LOG-IN",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 3000,
+        "avgUnitPrice": 22.41026666666667,
+        "totalPrice": 67230.8
+      },
+      {
+        "asset": "LOG-IN",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3000,
+        "avgUnitPrice": 21.93,
+        "totalPrice": 65790
+      }
+    ],
+    "date": "07/10/2021",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10467750",
+    "total": -657.94,
+    "buyTotal": 0,
+    "sellTotal": 0,
+    "fees": 657.94,
+    "settlementDate": "01/11/2021",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 17784,
+        "unitPrice": 5.71,
+        "totalPrice": 101546.64
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 216,
+        "unitPrice": 5.72,
+        "totalPrice": 1235.52
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "SANTOS BRP",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 18000,
+        "avgUnitPrice": 5.71012,
+        "totalPrice": 102782.16
+      }
+    ],
+    "date": "28/10/2021",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10656960",
+    "total": 70211.14,
+    "buyTotal": 0,
+    "sellTotal": 71100,
+    "fees": 888.86,
+    "settlementDate": "05/01/2022",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "LOG-IN",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 1347,
+        "unitPrice": 24.46,
+        "totalPrice": 32947.62
+      },
+      {
+        "type": "buy",
+        "asset": "LOG-IN",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 1653,
+        "unitPrice": 24.47,
+        "totalPrice": 40448.91
+      },
+      {
+        "type": "sell",
+        "asset": "LOG-IN",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3000,
+        "unitPrice": 23.7,
+        "totalPrice": 71100
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "LOG-IN",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 3000,
+        "avgUnitPrice": 24.46551,
+        "totalPrice": 73396.53
+      },
+      {
+        "asset": "LOG-IN",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3000,
+        "avgUnitPrice": 23.7,
+        "totalPrice": 71100
+      }
+    ],
+    "date": "03/01/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10697433",
+    "total": 199389.95,
+    "buyTotal": 0,
+    "sellTotal": 201864,
+    "fees": 2474.05,
+    "settlementDate": "19/01/2022",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 3793,
+        "unitPrice": 20.05,
+        "totalPrice": 76049.65
+      },
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 6607,
+        "unitPrice": 20.06,
+        "totalPrice": 132536.42
+      },
+      {
+        "type": "sell",
+        "asset": "ALIANSCSONAE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10400,
+        "unitPrice": 19.41,
+        "totalPrice": 201864
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 10400,
+        "avgUnitPrice": 20.056352884615386,
+        "totalPrice": 208586.07
+      },
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10400,
+        "avgUnitPrice": 19.41,
+        "totalPrice": 201864
+      }
+    ],
+    "date": "17/01/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10705745",
+    "total": 30896.51,
+    "buyTotal": 0,
+    "sellTotal": 31104,
+    "fees": 207.49,
+    "settlementDate": "21/01/2022",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "PETROBRAS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 900,
+        "unitPrice": 34.56,
+        "totalPrice": 31104
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "PETROBRAS",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 900,
+        "avgUnitPrice": 34.56,
+        "totalPrice": 31104
+      }
+    ],
+    "date": "19/01/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10714553",
+    "total": 107908.45,
+    "buyTotal": 0,
+    "sellTotal": 109260,
+    "fees": 1351.55,
+    "settlementDate": "25/01/2022",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 17442,
+        "unitPrice": 6.27,
+        "totalPrice": 109361.34
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 558,
+        "unitPrice": 6.28,
+        "totalPrice": 3504.24
+      },
+      {
+        "type": "sell",
+        "asset": "SANTOS BRP",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 18000,
+        "unitPrice": 6.07,
+        "totalPrice": 109260
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "SANTOS BRP",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 90,
+        "quantity": 18000,
+        "avgUnitPrice": 6.27031,
+        "totalPrice": 112865.58
+      },
+      {
+        "asset": "SANTOS BRP",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 18000,
+        "avgUnitPrice": 6.07,
+        "totalPrice": 109260
+      }
+    ],
+    "date": "21/01/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10923117",
+    "total": 141350.09,
+    "buyTotal": 0,
+    "sellTotal": 142200,
+    "fees": 849.91,
+    "settlementDate": "29/03/2022",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "SANTOS BRP",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 12800,
+        "unitPrice": 7.9,
+        "totalPrice": 101120
+      },
+      {
+        "type": "sell",
+        "asset": "SANTOS BRP",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 5200,
+        "unitPrice": 7.9,
+        "totalPrice": 41080
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "SANTOS BRP",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 18000,
+        "avgUnitPrice": 7.9,
+        "totalPrice": 142200
+      }
+    ],
+    "date": "25/03/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10937604",
+    "total": 79161.79,
+    "buyTotal": 0,
+    "sellTotal": 79650,
+    "fees": 488.21,
+    "settlementDate": "01/04/2022",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "LOG-IN",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1000,
+        "unitPrice": 26.55,
+        "totalPrice": 26550
+      },
+      {
+        "type": "sell",
+        "asset": "LOG-IN",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1000,
+        "unitPrice": 26.55,
+        "totalPrice": 26550
+      },
+      {
+        "type": "sell",
+        "asset": "LOG-IN",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1000,
+        "unitPrice": 26.55,
+        "totalPrice": 26550
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "LOG-IN",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3000,
+        "avgUnitPrice": 26.55,
+        "totalPrice": 79650
+      }
+    ],
+    "date": "30/03/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "10981339",
+    "total": 219422.04,
+    "buyTotal": 0,
+    "sellTotal": 222144,
+    "fees": 2721.96,
+    "settlementDate": "18/04/2022",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 61,
+        "quantity": 6300,
+        "unitPrice": 21.89,
+        "totalPrice": 137907
+      },
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 61,
+        "quantity": 4200,
+        "unitPrice": 21.9,
+        "totalPrice": 91980
+      },
+      {
+        "type": "sell",
+        "asset": "ALIANSCSONAE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10400,
+        "unitPrice": 21.36,
+        "totalPrice": 222144
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 61,
+        "quantity": 10500,
+        "avgUnitPrice": 21.894,
+        "totalPrice": 229887
+      },
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10400,
+        "avgUnitPrice": 21.36,
+        "totalPrice": 222144
+      }
+    ],
+    "date": "13/04/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "11026889",
+    "total": -1486.78,
+    "buyTotal": 0,
+    "sellTotal": 0,
+    "fees": 1486.78,
+    "settlementDate": "04/05/2022",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "AZUL",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 1837,
+        "unitPrice": 20.63,
+        "totalPrice": 37897.31
+      },
+      {
+        "type": "buy",
+        "asset": "AZUL",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 663,
+        "unitPrice": 20.64,
+        "totalPrice": 13684.32
+      },
+      {
+        "type": "buy",
+        "asset": "BANCO INTER",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 484,
+        "unitPrice": 15.01,
+        "totalPrice": 7264.84
+      },
+      {
+        "type": "buy",
+        "asset": "BANCO INTER",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 1616,
+        "unitPrice": 15.02,
+        "totalPrice": 24272.32
+      },
+      {
+        "type": "buy",
+        "asset": "LOCAWEB",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 2391,
+        "unitPrice": 7.14,
+        "totalPrice": 17071.74
+      },
+      {
+        "type": "buy",
+        "asset": "LOCAWEB",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 1909,
+        "unitPrice": 7.15,
+        "totalPrice": 13649.35
+      },
+      {
+        "type": "buy",
+        "asset": "LOJAS MARISA",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 858,
+        "unitPrice": 2.29,
+        "totalPrice": 1964.82
+      },
+      {
+        "type": "buy",
+        "asset": "LOJAS MARISA",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 12542,
+        "unitPrice": 2.3,
+        "totalPrice": 28846.6
+      },
+      {
+        "type": "buy",
+        "asset": "SUZANO S.A",
+        "termDeal": true,
+        "termDays": null,
+        "quantity": 598,
+        "unitPrice": 51.52,
+        "totalPrice": 30808.96
+      },
+      {
+        "type": "buy",
+        "asset": "SUZANO S.A",
+        "termDeal": true,
+        "termDays": null,
+        "quantity": 2,
+        "unitPrice": 51.53,
+        "totalPrice": 103.06
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 1580,
+        "unitPrice": 11.39,
+        "totalPrice": 17996.2
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 1120,
+        "unitPrice": 11.4,
+        "totalPrice": 12768
+      },
+      {
+        "type": "buy",
+        "asset": "VAMOS",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 1188,
+        "unitPrice": 13.74,
+        "totalPrice": 16323.12
+      },
+      {
+        "type": "buy",
+        "asset": "VAMOS",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 1112,
+        "unitPrice": 13.75,
+        "totalPrice": 15290
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "AZUL",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 2500,
+        "avgUnitPrice": 20.632652,
+        "totalPrice": 51581.63
+      },
+      {
+        "asset": "BANCO INTER",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 2100,
+        "avgUnitPrice": 15.017695238095238,
+        "totalPrice": 31537.16
+      },
+      {
+        "asset": "LOCAWEB",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 4300,
+        "avgUnitPrice": 7.1444395348837215,
+        "totalPrice": 30721.090000000004
+      },
+      {
+        "asset": "LOJAS MARISA",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 13400,
+        "avgUnitPrice": 2.2993597014925373,
+        "totalPrice": 30811.42
+      },
+      {
+        "asset": "SUZANO S.A",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": null,
+        "quantity": 600,
+        "avgUnitPrice": 51.52003333333334,
+        "totalPrice": 30912.02
+      },
+      {
+        "asset": "USIMINAS",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 2700,
+        "avgUnitPrice": 11.39414814814815,
+        "totalPrice": 30764.2
+      },
+      {
+        "asset": "VAMOS",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 2300,
+        "avgUnitPrice": 13.744834782608697,
+        "totalPrice": 31613.120000000003
+      }
+    ],
+    "date": "02/05/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "11030840",
+    "total": 21707.91,
+    "buyTotal": 0,
+    "sellTotal": 21719.34,
+    "fees": 11.43,
+    "settlementDate": "05/05/2022",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "CIFII DEA CARE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1,
+        "unitPrice": 4.33,
+        "totalPrice": 6659.54
+      },
+      {
+        "type": "sell",
+        "asset": "CIFII DEA CARE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3,
+        "unitPrice": 4.35,
+        "totalPrice": 15016.2
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "CIFII DEA CARE",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 4,
+        "avgUnitPrice": 5418.935,
+        "totalPrice": 21675.74
+      }
+    ],
+    "date": "03/05/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "11048657",
+    "total": 55463.37,
+    "buyTotal": 50208,
+    "sellTotal": 105728,
+    "fees": 56.63,
+    "settlementDate": "11/05/2022",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 8.22,
+        "totalPrice": 6576
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 8.22,
+        "totalPrice": 822
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 8.22,
+        "totalPrice": 4110
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 400,
+        "unitPrice": 8.22,
+        "totalPrice": 3288
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 8.23,
+        "totalPrice": 823
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 8.23,
+        "totalPrice": 6584
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 8.23,
+        "totalPrice": 4115
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 8.23,
+        "totalPrice": 4938
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 8.24,
+        "totalPrice": 6592
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 8.24,
+        "totalPrice": 4944
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 8.24,
+        "totalPrice": 4120
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 8.24,
+        "totalPrice": 824
+      },
+      {
+        "type": "buy",
+        "asset": "PORTOBELLO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 8.24,
+        "totalPrice": 2472
+      },
+      {
+        "type": "sell",
+        "asset": "CIFII DEA CARE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 22,
+        "unitPrice": 4.72,
+        "totalPrice": 105728
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "PORTOBELLO",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 6100,
+        "avgUnitPrice": 8.230819672131148,
+        "totalPrice": 50208
+      },
+      {
+        "asset": "CIFII DEA CARE",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 22,
+        "avgUnitPrice": 4805.818181818182,
+        "totalPrice": 105728
+      }
+    ],
+    "date": "09/05/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "11053341",
+    "total": -31219.22,
+    "buyTotal": 31200,
+    "sellTotal": 0,
+    "fees": 19.22,
+    "settlementDate": "12/05/2022",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 4.16,
+        "totalPrice": 2080
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 4.16,
+        "totalPrice": 1248
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 4.16,
+        "totalPrice": 2080
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 4.16,
+        "totalPrice": 1248
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 4.16,
+        "totalPrice": 1248
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 4.16,
+        "totalPrice": 832
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 4.16,
+        "totalPrice": 832
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 4.16,
+        "totalPrice": 832
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 4.16,
+        "totalPrice": 7072
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 4.16,
+        "totalPrice": 1248
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 4.16,
+        "totalPrice": 1248
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 4.16,
+        "totalPrice": 1248
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 4.16,
+        "totalPrice": 3328
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 400,
+        "unitPrice": 4.16,
+        "totalPrice": 1664
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      },
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 4.16,
+        "totalPrice": 416
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "AERIS",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 7500,
+        "avgUnitPrice": 4.16,
+        "totalPrice": 31200
+      }
+    ],
+    "date": "10/05/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "11141130",
+    "total": 193213.45,
+    "buyTotal": 0,
+    "sellTotal": 195615,
+    "fees": 2401.55,
+    "settlementDate": "13/06/2022",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 9786,
+        "unitPrice": 19.3,
+        "totalPrice": 188869.8
+      },
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 714,
+        "unitPrice": 19.31,
+        "totalPrice": 13787.34
+      },
+      {
+        "type": "sell",
+        "asset": "ALIANSCSONAE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10500,
+        "unitPrice": 18.63,
+        "totalPrice": 195615
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 91,
+        "quantity": 10500,
+        "avgUnitPrice": 19.30068,
+        "totalPrice": 202657.13999999998
+      },
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10500,
+        "avgUnitPrice": 18.63,
+        "totalPrice": 195615
+      }
+    ],
+    "date": "09/06/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "11385962",
+    "total": 189597.18,
+    "buyTotal": 0,
+    "sellTotal": 191940,
+    "fees": 2342.82,
+    "settlementDate": "08/09/2022",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 1344,
+        "unitPrice": 18.71,
+        "totalPrice": 25146.24
+      },
+      {
+        "type": "buy",
+        "asset": "ALIANSCSONAE",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 9156,
+        "unitPrice": 18.72,
+        "totalPrice": 171400.32
+      },
+      {
+        "type": "sell",
+        "asset": "ALIANSCSONAE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10500,
+        "unitPrice": 18.28,
+        "totalPrice": 191940
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 60,
+        "quantity": 10500,
+        "avgUnitPrice": 18.71872,
+        "totalPrice": 196546.56
+      },
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10500,
+        "avgUnitPrice": 18.28,
+        "totalPrice": 191940
+      }
+    ],
+    "date": "05/09/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "11545211",
+    "total": 225460.89,
+    "buyTotal": 0,
+    "sellTotal": 226800,
+    "fees": 1339.11,
+    "settlementDate": "04/11/2022",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "ALIANSCSONAE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10500,
+        "unitPrice": 21.6,
+        "totalPrice": 226800
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ALIANSCSONAE",
+        "type": "sell",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10500,
+        "avgUnitPrice": 21.6,
+        "totalPrice": 226800
+      }
+    ],
+    "date": "01/11/2022",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "11783545",
+    "total": -259332.77,
+    "buyTotal": 259255,
+    "sellTotal": 0,
+    "fees": 77.77,
+    "settlementDate": "03/02/2023",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "AERIS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 20000,
+        "unitPrice": 1.58,
+        "totalPrice": 31600
+      },
+      {
+        "type": "buy",
+        "asset": "AMERICANAS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10000,
+        "unitPrice": 2,
+        "totalPrice": 20000
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 40.86,
+        "totalPrice": 8172
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 40.87,
+        "totalPrice": 8174
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 40.87,
+        "totalPrice": 8174
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 40.87,
+        "totalPrice": 4087
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 40.87,
+        "totalPrice": 4087
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 40.88,
+        "totalPrice": 8176
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 40.88,
+        "totalPrice": 8176
+      },
+      {
+        "type": "buy",
+        "asset": "SABESP",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 55.93,
+        "totalPrice": 16779
+      },
+      {
+        "type": "buy",
+        "asset": "SABESP",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 55.93,
+        "totalPrice": 11186
+      },
+      {
+        "type": "buy",
+        "asset": "SABESP",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 55.93,
+        "totalPrice": 16779
+      },
+      {
+        "type": "buy",
+        "asset": "SABESP",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 55.93,
+        "totalPrice": 11186
+      },
+      {
+        "type": "buy",
+        "asset": "SAO MARTINHO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 25.66,
+        "totalPrice": 2566
+      },
+      {
+        "type": "buy",
+        "asset": "SAO MARTINHO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 25.67,
+        "totalPrice": 2567
+      },
+      {
+        "type": "buy",
+        "asset": "SAO MARTINHO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 25.67,
+        "totalPrice": 2567
+      },
+      {
+        "type": "buy",
+        "asset": "SAO MARTINHO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 25.67,
+        "totalPrice": 2567
+      },
+      {
+        "type": "buy",
+        "asset": "SAO MARTINHO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3400,
+        "unitPrice": 25.67,
+        "totalPrice": 87278
+      },
+      {
+        "type": "buy",
+        "asset": "SAO MARTINHO",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 25.67,
+        "totalPrice": 5134
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "AERIS",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 20000,
+        "avgUnitPrice": 1.58,
+        "totalPrice": 31600
+      },
+      {
+        "asset": "AMERICANAS",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10000,
+        "avgUnitPrice": 2,
+        "totalPrice": 20000
+      },
+      {
+        "asset": "BRASIL",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1200,
+        "avgUnitPrice": 40.87166666666667,
+        "totalPrice": 49046
+      },
+      {
+        "asset": "SABESP",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1000,
+        "avgUnitPrice": 55.93,
+        "totalPrice": 55930
+      },
+      {
+        "asset": "SAO MARTINHO",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 4000,
+        "avgUnitPrice": 25.66975,
+        "totalPrice": 102679
+      }
+    ],
+    "date": "01/02/2023",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "11984351",
+    "total": -213614.05,
+    "buyTotal": 213550,
+    "sellTotal": 0,
+    "fees": 64.05,
+    "settlementDate": "03/05/2023",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 2600,
+        "unitPrice": 42.71,
+        "totalPrice": 111046
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1600,
+        "unitPrice": 42.71,
+        "totalPrice": 68336
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 42.71,
+        "totalPrice": 34168
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRASIL",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 5000,
+        "avgUnitPrice": 42.71,
+        "totalPrice": 213550
+      }
+    ],
+    "date": "28/04/2023",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "12086970",
+    "total": -195563.57,
+    "buyTotal": 195500,
+    "sellTotal": 0,
+    "fees": 63.57,
+    "settlementDate": "13/06/2023",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 400,
+        "unitPrice": 3.91,
+        "totalPrice": 1564
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1000,
+        "unitPrice": 3.91,
+        "totalPrice": 3910
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 400,
+        "unitPrice": 3.91,
+        "totalPrice": 1564
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 9800,
+        "unitPrice": 3.91,
+        "totalPrice": 38318
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 3500,
+        "unitPrice": 3.91,
+        "totalPrice": 13685
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1200,
+        "unitPrice": 3.91,
+        "totalPrice": 4692
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1200,
+        "unitPrice": 3.91,
+        "totalPrice": 4692
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1200,
+        "unitPrice": 3.91,
+        "totalPrice": 4692
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 2000,
+        "unitPrice": 3.91,
+        "totalPrice": 7820
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1900,
+        "unitPrice": 3.91,
+        "totalPrice": 7429
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 6800,
+        "unitPrice": 3.91,
+        "totalPrice": 26588
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 400,
+        "unitPrice": 3.91,
+        "totalPrice": 1564
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 6100,
+        "unitPrice": 3.91,
+        "totalPrice": 23851
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 3.91,
+        "totalPrice": 1955
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 3.91,
+        "totalPrice": 391
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10000,
+        "unitPrice": 3.91,
+        "totalPrice": 39100
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 3.91,
+        "totalPrice": 6647
+      },
+      {
+        "type": "buy",
+        "asset": "ANIMA",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 900,
+        "unitPrice": 3.91,
+        "totalPrice": 3519
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ANIMA",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 50000,
+        "avgUnitPrice": 3.91,
+        "totalPrice": 195500
+      }
+    ],
+    "date": "09/06/2023",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "12417003",
+    "total": -287901.34,
+    "buyTotal": 287815,
+    "sellTotal": 0,
+    "fees": 86.34,
+    "settlementDate": "23/10/2023",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "JBS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 19.06,
+        "totalPrice": 11436
+      },
+      {
+        "type": "buy",
+        "asset": "JBS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 2000,
+        "unitPrice": 19.06,
+        "totalPrice": 38120
+      },
+      {
+        "type": "buy",
+        "asset": "JBS",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 7400,
+        "unitPrice": 19.06,
+        "totalPrice": 141044
+      },
+      {
+        "type": "buy",
+        "asset": "VALE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1500,
+        "unitPrice": 64.81,
+        "totalPrice": 97215
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "JBS",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 10000,
+        "avgUnitPrice": 19.06,
+        "totalPrice": 190600
+      },
+      {
+        "asset": "VALE",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1500,
+        "avgUnitPrice": 64.81,
+        "totalPrice": 97215
+      }
+    ],
+    "date": "19/10/2023",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "12583225",
+    "total": -199439.8,
+    "buyTotal": 199380,
+    "sellTotal": 0,
+    "fees": 59.8,
+    "settlementDate": "22/12/2023",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 33.23,
+        "totalPrice": 6646
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 33.23,
+        "totalPrice": 9969
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 33.23,
+        "totalPrice": 9969
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 33.23,
+        "totalPrice": 6646
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 33.23,
+        "totalPrice": 6646
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 33.23,
+        "totalPrice": 9969
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 33.23,
+        "totalPrice": 9969
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 33.23,
+        "totalPrice": 6646
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 33.23,
+        "totalPrice": 19938
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 33.23,
+        "totalPrice": 9969
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 33.23,
+        "totalPrice": 16615
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 33.23,
+        "totalPrice": 9969
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1300,
+        "unitPrice": 33.23,
+        "totalPrice": 43199
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      },
+      {
+        "type": "buy",
+        "asset": "BBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.23,
+        "totalPrice": 3323
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BBSEGURIDADE",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 6000,
+        "avgUnitPrice": 33.23,
+        "totalPrice": 199380
+      }
+    ],
+    "date": "20/12/2023",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "12665464",
+    "total": -98431.27,
+    "buyTotal": 98400,
+    "sellTotal": 0,
+    "fees": 31.27,
+    "settlementDate": "25/01/2024",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "METAL LEVE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 2500,
+        "unitPrice": 35.13,
+        "totalPrice": 87825
+      },
+      {
+        "type": "buy",
+        "asset": "METAL LEVE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 35.25,
+        "totalPrice": 3525
+      },
+      {
+        "type": "buy",
+        "asset": "METAL LEVE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 35.25,
+        "totalPrice": 3525
+      },
+      {
+        "type": "buy",
+        "asset": "METAL LEVE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 35.25,
+        "totalPrice": 3525
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "METAL LEVE",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 2800,
+        "avgUnitPrice": 35.142857142857146,
+        "totalPrice": 98400
+      }
+    ],
+    "date": "23/01/2024",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "12748807",
+    "total": -149654.88,
+    "buyTotal": 149610,
+    "sellTotal": 0,
+    "fees": 44.88,
+    "settlementDate": "26/02/2024",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 1100,
+        "unitPrice": 33.24,
+        "totalPrice": 36564
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 33.24,
+        "totalPrice": 6648
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.24,
+        "totalPrice": 3324
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.24,
+        "totalPrice": 3324
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 33.25,
+        "totalPrice": 16625
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 33.25,
+        "totalPrice": 16625
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 700,
+        "unitPrice": 33.25,
+        "totalPrice": 23275
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.25,
+        "totalPrice": 3325
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 700,
+        "unitPrice": 33.25,
+        "totalPrice": 23275
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.25,
+        "totalPrice": 3325
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 33.25,
+        "totalPrice": 3325
+      },
+      {
+        "type": "buy",
+        "asset": "R NMBBSEGURIDADE",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 33.25,
+        "totalPrice": 9975
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "R NMBBSEGURIDADE",
+        "type": "buy",
+        "termDeal": false,
+        "termDays": null,
+        "quantity": 4500,
+        "avgUnitPrice": 33.24666666666667,
+        "totalPrice": 149610
+      }
+    ],
+    "date": "22/02/2024",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "12852838",
+    "total": -658.1,
+    "buyTotal": 0,
+    "sellTotal": 0,
+    "fees": 658.1,
+    "settlementDate": "28/03/2024",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ONCOCLINICAS",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 8912,
+        "unitPrice": 10.28,
+        "totalPrice": 91615.36
+      },
+      {
+        "type": "buy",
+        "asset": "ONCOCLINICAS",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 1088,
+        "unitPrice": 10.29,
+        "totalPrice": 11195.52
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ONCOCLINICAS",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 10000,
+        "avgUnitPrice": 10.281088,
+        "totalPrice": 102810.88
+      }
+    ],
+    "date": "26/03/2024",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "12871663",
+    "total": -661.09,
+    "buyTotal": 0,
+    "sellTotal": 0,
+    "fees": 661.09,
+    "settlementDate": "04/04/2024",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ONCOCLINICAS",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 2362,
+        "unitPrice": 8.39,
+        "totalPrice": 19817.18
+      },
+      {
+        "type": "buy",
+        "asset": "ONCOCLINICAS",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 9938,
+        "unitPrice": 8.4,
+        "totalPrice": 83479.2
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ONCOCLINICAS",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 12300,
+        "avgUnitPrice": 8.39807967479675,
+        "totalPrice": 103296.38
+      }
+    ],
+    "date": "02/04/2024",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "12943037",
+    "total": -666.24,
+    "buyTotal": 0,
+    "sellTotal": 0,
+    "fees": 666.24,
+    "settlementDate": "25/04/2024",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ONCOCLINICAS",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 3730,
+        "unitPrice": 7.65,
+        "totalPrice": 28534.5
+      },
+      {
+        "type": "buy",
+        "asset": "ONCOCLINICAS",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 9870,
+        "unitPrice": 7.66,
+        "totalPrice": 75604.2
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ONCOCLINICAS",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 13600,
+        "avgUnitPrice": 7.657257352941176,
+        "totalPrice": 104138.7
+      }
+    ],
+    "date": "23/04/2024",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  },
+  {
+    "noteNumber": "12996286",
+    "total": -1634.06,
+    "buyTotal": 0,
+    "sellTotal": 0,
+    "fees": 1634.06,
+    "settlementDate": "13/05/2024",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ONCOCLINICAS",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 10776,
+        "unitPrice": 6.2,
+        "totalPrice": 66811.2
+      },
+      {
+        "type": "buy",
+        "asset": "ONCOCLINICAS",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 31424,
+        "unitPrice": 6.21,
+        "totalPrice": 195143.04
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ONCOCLINICAS",
+        "type": "buy",
+        "termDeal": true,
+        "termDays": 120,
+        "quantity": 42200,
+        "avgUnitPrice": 6.20744644549763,
+        "totalPrice": 261954.24
+      }
+    ],
+    "date": "09/05/2024",
+    "holder": "AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A"
+  }
+]
