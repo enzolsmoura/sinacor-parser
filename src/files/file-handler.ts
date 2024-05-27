@@ -1,9 +1,7 @@
 import * as fs from "fs";
-import * as path from "path";
-import { noteNumberRegex } from "./regex/regexes";
 import pdf from "pdf-parse";
 
-async function extractTextFromPDF(filePath: string): Promise<string | null> {
+export async function extractTextFromPDF(filePath: string): Promise<string | null> {
   try {
     const dataBuffer = fs.readFileSync(filePath); // Read the file as a buffer
     const data = await pdf(dataBuffer); // Parse the PDF content
@@ -14,7 +12,7 @@ async function extractTextFromPDF(filePath: string): Promise<string | null> {
   }
 }
 
-async function writeFile(filePath: string, data: string): Promise<void> {
+export async function writeFile(filePath: string, data: string): Promise<void> {
   try {
     fs.writeFileSync(filePath, data); // Write the data to a file
     console.log("File written successfully");
@@ -26,9 +24,9 @@ async function writeFile(filePath: string, data: string): Promise<void> {
 async function main() {
   const text = await extractTextFromPDF(pdfPath); // Extract text from PDF
   if (text) {
-    const txtPath = "src/assets/txt/NC - 366685-89.txt";
+    const txtPath = "src/assets/txt/NC - 5406730-37.txt";
     await writeFile(txtPath, text); // Write the text to a file
   }
 }
-const pdfPath: string = "src/assets/pdf/NC - 366685-89.pdf";
-main();
+const pdfPath: string = "src/assets/pdf/NC - 5406730-37.pdf";
+// main();

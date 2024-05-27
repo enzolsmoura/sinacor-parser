@@ -1,0 +1,68 @@
+{
+  "noteNumber": "247145",
+  "total": 26548.22,
+  "buyTotal": 3350.1,
+  "sellTotal": 29992.48,
+  "fees": 94.16,
+  "date": "02/06/2017",
+  "settlementDate": "07/06/2017",
+  "holder": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+  "deals": [
+    {
+      "type": "buy",
+      "asset": "SANTOS BRP",
+      "termDeal": false,
+      "termDays": null,
+      "quantity": 18,
+      "unitPrice": 1.95,
+      "totalPrice": 35.1
+    },
+    {
+      "type": "sell",
+      "asset": "ITAUSA",
+      "termDeal": false,
+      "termDays": null,
+      "quantity": 16,
+      "unitPrice": 8.78,
+      "totalPrice": 140.48
+    },
+    {
+      "type": "buy",
+      "asset": "SANTOS BRP",
+      "termDeal": false,
+      "termDays": null,
+      "quantity": 1700,
+      "unitPrice": 1.95,
+      "totalPrice": 3315
+    },
+    {
+      "type": "sell",
+      "asset": "ITAUSA",
+      "termDeal": false,
+      "termDays": null,
+      "quantity": 3400,
+      "unitPrice": 8.78,
+      "totalPrice": 29852
+    }
+  ],
+  "groupedDeals": [
+    {
+      "asset": "SANTOS BRP",
+      "type": "buy",
+      "termDeal": false,
+      "termDays": null,
+      "quantity": 1718,
+      "avgUnitPrice": 1.95,
+      "totalPrice": 3350.1
+    },
+    {
+      "asset": "ITAUSA",
+      "type": "sell",
+      "termDeal": false,
+      "termDays": null,
+      "quantity": 3416,
+      "avgUnitPrice": 8.78,
+      "totalPrice": 29992.48
+    }
+  ]
+}
