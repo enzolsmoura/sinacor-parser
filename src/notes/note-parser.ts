@@ -1,19 +1,23 @@
 import {
   noteNumberRegex,
   dateRegex,
-  holderRegex,
+  brokerRegex,
   buyTotalRegex,
   sellTotalRegex,
   settlementDateRegex,
   debitCreditRegex,
-  totalRegex,
+  netTotalRegex,
   termDaysRegex,
   bradescoDealRegex,
   agoraDealRegex,
   pageNumberRegex,
+  alternativeBradescoDealRegex,
+  absoluteTotalRegex,
 } from "../regex/regexes";
+import { checkNote } from "../utils/checkNotes";
 import { cleanAssetName } from "../utils/cleanAssetName";
 import { groupDeals } from "../utils/groupDeals";
+import { transformToIsoDate } from "../utils/transformToIsoDate";
 
 export enum DealType {
   BUY = "buy",
@@ -23,32 +27,33 @@ export enum DealType {
 export interface Deal {
   type: DealType;
   asset: string;
-  termDeal: boolean;
   termDays: number | null;
   quantity: number;
   unitPrice: number;
-  totalPrice: number;
+  totalValue: number;
+  operationalCost: number;
 }
 
 export interface GroupDeal {
   type: DealType;
   asset: string;
-  termDeal: boolean;
   termDays: number | null;
   quantity: number;
   avgUnitPrice: number;
-  totalPrice: number;
+  totalValue: number;
+  operationalCost: number;
 }
 
 export interface BrokerageNote {
   noteNumber: string;
-  total: number;
+  absoluteTotal: number;
+  netTotal: number;
   buyTotal: number;
   sellTotal: number;
   fees: number;
   date: string;
   settlementDate: string;
-  holder: string;
+  broker: string;
   deals: Deal[];
   groupedDeals: GroupDeal[];
 }
@@ -59,76 +64,120 @@ export interface DealParserResponseType {
 }
 
 export function parseNote(input: string): BrokerageNote {
-  const date = dateRegex.exec(input)?.[1];
+  const date = transformToIsoDate(dateRegex.exec(input)?.[1]);
   const noteNumber = noteNumberRegex.exec(input)?.[1];
   const pageNumber = Number(pageNumberRegex.exec(input)?.[1]);
-  const holder = holderRegex.exec(input)?.[1].trim();
+  const broker = brokerRegex.exec(input)?.[1].trim();
   const buyTotal = Number(
     buyTotalRegex.exec(input)?.[1].replace(".", "").replace(",", ".")
   );
   const sellTotal = Number(
     sellTotalRegex.exec(input)?.[1].replace(".", "").replace(",", ".")
   );
-  const settlementDate = settlementDateRegex.exec(input)?.[1];
+  const settlementDate = transformToIsoDate(
+    settlementDateRegex.exec(input)?.[1]
+  );
   const debitCreditIndicator = debitCreditRegex.exec(input)?.[1].trim();
-  const total =
+  const absoluteTotal = Number(
+    absoluteTotalRegex.exec(input)?.[1].replace(".", "").replace(",", ".")
+  );
+  const netTotal =
     debitCreditIndicator === "C"
-      ? Number(totalRegex.exec(input)?.[1].replace(".", "").replace(",", "."))
-      : -Number(totalRegex.exec(input)?.[1].replace(".", "").replace(",", "."));
-  const fees = Number((sellTotal - buyTotal - total).toFixed(2));
+      ? Number(
+          netTotalRegex.exec(input)?.[1].replace(".", "").replace(",", ".")
+        )
+      : -Number(
+          netTotalRegex.exec(input)?.[1].replace(".", "").replace(",", ".")
+        );
+  const fees = Number((sellTotal - buyTotal - netTotal).toFixed(2));
 
-  if (!date || !noteNumber || !holder || !pageNumber) {
+  if (!date || !noteNumber || !broker || !pageNumber) {
     throw new Error("Error parsing brokerage note. Note number: " + noteNumber);
   } else if (
-    !total ||
+    !netTotal ||
     buyTotal === undefined ||
     sellTotal === undefined ||
     fees === undefined ||
     !settlementDate
   ) {
-    console.log(`Page overflow at note ${noteNumber}, page ${pageNumber}`);
-    const parsedDeals = holder.startsWith("AGORA")
+    console.log(
+      `Page overflow at note ${noteNumber}, page ${pageNumber}. Will parse next page for note details.`
+    );
+    const parsedDeals = broker.startsWith("AGORA")
       ? parseAgoraDeals(input)
       : parseBradescoDeals(input);
     return {
       noteNumber,
-      total: 0,
+      absoluteTotal: 0,
+      netTotal: 0,
       buyTotal: 0,
       sellTotal: 0,
       fees: 0,
       date,
       settlementDate: "",
-      holder,
+      broker,
       deals: parsedDeals.deals,
       groupedDeals: parsedDeals.groupedDeals,
     };
   }
 
-  const parsedDeals = holder.startsWith("AGORA")
+  let parsedDeals = broker.startsWith("AGORA")
     ? parseAgoraDeals(input)
     : parseBradescoDeals(input);
 
-  return {
+  let parsedNote = {
     noteNumber,
-    total,
+    absoluteTotal,
+    netTotal,
     buyTotal,
     sellTotal,
     fees,
     date,
     settlementDate,
-    holder,
+    broker,
     deals: parsedDeals.deals,
     groupedDeals: parsedDeals.groupedDeals,
   };
+
+  if (!checkNote(parsedNote) && broker.startsWith("BRADESCO")) {
+    console.error(
+      "Error parsing note " + noteNumber + ". Trying alternative regex..."
+    );
+    parsedDeals = parseAlternativeBradescoDeals(input);
+    parsedNote = {
+      noteNumber,
+      absoluteTotal,
+      netTotal,
+      buyTotal,
+      sellTotal,
+      fees,
+      date,
+      settlementDate,
+      broker,
+      deals: parsedDeals.deals,
+      groupedDeals: parsedDeals.groupedDeals,
+    };
+
+    if (!checkNote(parsedNote)) {
+      console.error(
+        "Error parsing note " + noteNumber + ". Could not parse deals."
+      );
+    } else {
+      console.log(
+        "Note " + noteNumber + " parsed successfully with alternative regex."
+      );
+    }
+  }
+
+  return parsedNote;
 }
 
 function parseBradescoDeals(input: string): DealParserResponseType {
   const deals: Deal[] = [];
   let deal;
-
   while ((deal = bradescoDealRegex.exec(input))) {
     const unitPrice = Number(deal[1].replace(".", "").replace(",", "."));
-    const totalPrice = Number(deal[2].replace(".", "").replace(",", "."));
+    const totalValue = Number(deal[2].replace(".", "").replace(",", "."));
     const quantity = Number(deal[3].replace(".", ""));
     const asset = deal[4].trim().substring(2);
     const type = deal[5].trim();
@@ -136,11 +185,38 @@ function parseBradescoDeals(input: string): DealParserResponseType {
     deals.push({
       type: type === "C" ? DealType.BUY : DealType.SELL,
       asset,
-      termDeal: false,
       termDays: null,
       quantity,
       unitPrice,
-      totalPrice,
+      totalValue,
+      operationalCost: 0,
+    });
+  }
+
+  const groupedDeals = groupDeals(deals);
+
+  return { deals, groupedDeals };
+}
+
+function parseAlternativeBradescoDeals(input: string): DealParserResponseType {
+  const deals: Deal[] = [];
+  let deal;
+
+  while ((deal = alternativeBradescoDealRegex.exec(input))) {
+    const unitPrice = Number(deal[1].replace(".", "").replace(",", "."));
+    const totalValue = Number(deal[2].replace(".", "").replace(",", "."));
+    const quantity = Number(deal[3].replace(".", ""));
+    const asset = deal[4].trim().substring(2);
+    const type = deal[5].trim();
+
+    deals.push({
+      type: type === "C" ? DealType.BUY : DealType.SELL,
+      asset,
+      termDays: null,
+      quantity,
+      unitPrice,
+      totalValue,
+      operationalCost: 0,
     });
   }
 
@@ -155,7 +231,7 @@ function parseAgoraDeals(input: string): DealParserResponseType {
 
   while ((deal = agoraDealRegex.exec(input))) {
     const unitPrice = Number(deal[1].replace(".", "").replace(",", "."));
-    const totalPrice = Number(deal[2].replace(".", "").replace(",", "."));
+    const totalValue = Number(deal[2].replace(".", "").replace(",", "."));
     const quantity = Number(deal[3].replace(".", ""));
     let asset = deal[4];
     const termDeal = deal[5].trim() === "TERMO";
@@ -172,11 +248,11 @@ function parseAgoraDeals(input: string): DealParserResponseType {
     deals.push({
       type: type === "C" ? DealType.BUY : DealType.SELL,
       asset,
-      termDeal,
       termDays: termDeal ? Number(termDays) : null,
       quantity,
       unitPrice,
-      totalPrice,
+      totalValue,
+      operationalCost: 0,
     });
   }
 
@@ -184,3 +260,5 @@ function parseAgoraDeals(input: string): DealParserResponseType {
 
   return { deals, groupedDeals };
 }
+
+

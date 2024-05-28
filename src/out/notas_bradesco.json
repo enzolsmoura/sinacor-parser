@@ -1,1 +1,4664 @@
-[{"noteNumber":"3259","date":"06/01/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-50140.55,"buyTotal":49999.32,"sellTotal":0,"fees":141.23,"settlementDate":"11/01/2016","deals":[{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":82,"unitPrice":1.26,"totalPrice":103.32},{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":39600,"unitPrice":1.26,"totalPrice":49896}],"groupedDeals":[{"asset":"GERDAU MET","type":"buy","termDeal":false,"termDays":null,"quantity":39682,"avgUnitPrice":1.26,"totalPrice":49999.32}]},{"noteNumber":"5002","date":"07/01/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":105645.85,"buyTotal":0,"sellTotal":105839,"fees":193.15,"settlementDate":"12/01/2016","deals":[{"type":"sell","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":59000,"unitPrice":1.19,"totalPrice":70210},{"type":"sell","asset":"VALE","termDeal":false,"termDays":null,"quantity":4100,"unitPrice":8.69,"totalPrice":35629}],"groupedDeals":[{"asset":"GERDAU MET","type":"sell","termDeal":false,"termDays":null,"quantity":59000,"avgUnitPrice":1.19,"totalPrice":70210},{"asset":"VALE","type":"sell","termDeal":false,"termDays":null,"quantity":4100,"avgUnitPrice":8.69,"totalPrice":35629}]},{"noteNumber":"37485","date":"18/01/2019","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-60129.74,"buyTotal":59990.59,"sellTotal":0,"fees":139.15,"settlementDate":"23/01/2019","deals":[{"type":"buy","asset":"EVEN","termDeal":false,"termDays":null,"quantity":71,"unitPrice":6.73,"totalPrice":477.83},{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":78,"unitPrice":5.92,"totalPrice":461.76},{"type":"buy","asset":"TRISUL","termDeal":false,"termDays":null,"quantity":44,"unitPrice":4.5,"totalPrice":198},{"type":"buy","asset":"EVEN","termDeal":false,"termDays":null,"quantity":2900,"unitPrice":6.73,"totalPrice":19517},{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":3300,"unitPrice":5.92,"totalPrice":19536},{"type":"buy","asset":"TRISUL","termDeal":false,"termDays":null,"quantity":4400,"unitPrice":4.5,"totalPrice":19800}],"groupedDeals":[{"asset":"EVEN","type":"buy","termDeal":false,"termDays":null,"quantity":2971,"avgUnitPrice":6.73,"totalPrice":19994.83},{"asset":"MILLS","type":"buy","termDeal":false,"termDays":null,"quantity":3378,"avgUnitPrice":5.92,"totalPrice":19997.76},{"asset":"TRISUL","type":"buy","termDeal":false,"termDays":null,"quantity":4444,"avgUnitPrice":4.5,"totalPrice":19998}]},{"noteNumber":"52596","date":"28/01/2019","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-102570.58,"buyTotal":102435.41,"sellTotal":0,"fees":135.17,"settlementDate":"31/01/2019","deals":[{"type":"buy","asset":"BRADESPAR","termDeal":false,"termDays":null,"quantity":13,"unitPrice":28,"totalPrice":364},{"type":"buy","asset":"BRADESPAR","termDeal":false,"termDays":null,"quantity":11,"unitPrice":28.15,"totalPrice":309.65},{"type":"buy","asset":"BRADESPAR","termDeal":false,"termDays":null,"quantity":92,"unitPrice":28.53,"totalPrice":2624.76},{"type":"buy","asset":"BRADESPAR","termDeal":false,"termDays":null,"quantity":1800,"unitPrice":28.15,"totalPrice":50670},{"type":"buy","asset":"BRADESPAR","termDeal":false,"termDays":null,"quantity":1700,"unitPrice":28.51,"totalPrice":48467}],"groupedDeals":[{"asset":"BRADESPAR","type":"buy","termDeal":false,"termDays":null,"quantity":3616,"avgUnitPrice":28.33,"totalPrice":102435.41}]},{"noteNumber":"76320","date":"20/02/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-162.29,"buyTotal":29908.12,"sellTotal":29884.8,"fees":138.97,"settlementDate":"23/02/2018","deals":[{"type":"sell","asset":"UNICASA INDÚ","termDeal":false,"termDays":null,"quantity":20,"unitPrice":2.64,"totalPrice":52.8},{"type":"sell","asset":"UNICASA INDÚ","termDeal":false,"termDays":null,"quantity":11300,"unitPrice":2.64,"totalPrice":29832}],"groupedDeals":[{"asset":"UNICASA INDÚ","type":"sell","termDeal":false,"termDays":null,"quantity":11320,"avgUnitPrice":2.64,"totalPrice":29884.8}]},{"noteNumber":"86559","date":"26/02/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-50212.04,"buyTotal":50095.61,"sellTotal":0,"fees":116.43,"settlementDate":"01/03/2018","deals":[{"type":"buy","asset":"CCR S.A.","termDeal":false,"termDays":null,"quantity":79,"unitPrice":12.59,"totalPrice":994.61},{"type":"buy","asset":"CCR S.A.","termDeal":false,"termDays":null,"quantity":3900,"unitPrice":12.59,"totalPrice":49101}],"groupedDeals":[{"asset":"CCR S.A.","type":"buy","termDeal":false,"termDays":null,"quantity":3979,"avgUnitPrice":12.59,"totalPrice":50095.61}]},{"noteNumber":"96442","date":"17/03/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":46640.38,"buyTotal":0,"sellTotal":46772.5,"fees":132.12,"settlementDate":"22/03/2016","deals":[{"type":"sell","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":65,"unitPrice":26.5,"totalPrice":1722.5},{"type":"sell","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":1700,"unitPrice":26.5,"totalPrice":45050}],"groupedDeals":[{"asset":"BRADESCO","type":"sell","termDeal":false,"termDays":null,"quantity":1765,"avgUnitPrice":26.5,"totalPrice":46772.5}]},{"noteNumber":"108221","date":"08/03/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-20056.26,"buyTotal":19999.85,"sellTotal":0,"fees":56.41,"settlementDate":"13/03/2018","deals":[{"type":"buy","asset":"SANTOS BRASI","termDeal":false,"termDays":null,"quantity":5,"unitPrice":3.77,"totalPrice":18.85},{"type":"buy","asset":"SANTOS BRASI","termDeal":false,"termDays":null,"quantity":5300,"unitPrice":3.77,"totalPrice":19981}],"groupedDeals":[{"asset":"SANTOS BRASI","type":"buy","termDeal":false,"termDays":null,"quantity":5305,"avgUnitPrice":3.77,"totalPrice":19999.85}]},{"noteNumber":"114338","date":"26/02/2019","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-100211.27,"buyTotal":99979.8,"sellTotal":0,"fees":231.47,"settlementDate":"01/03/2019","deals":[{"type":"buy","asset":"B","termDeal":false,"termDays":null,"quantity":65,"unitPrice":33.72,"totalPrice":2191.8},{"type":"buy","asset":"B","termDeal":false,"termDays":null,"quantity":2900,"unitPrice":33.72,"totalPrice":97788}],"groupedDeals":[{"asset":"B","type":"buy","termDeal":false,"termDays":null,"quantity":2965,"avgUnitPrice":33.72,"totalPrice":99979.8}]},{"noteNumber":"127495","date":"17/03/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-29904.24,"buyTotal":29820,"sellTotal":0,"fees":84.24,"settlementDate":"22/03/2017","deals":[{"type":"buy","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":14200,"unitPrice":2.1,"totalPrice":29820}],"groupedDeals":[{"asset":"SANTOS BRP","type":"buy","termDeal":false,"termDays":null,"quantity":14200,"avgUnitPrice":2.1,"totalPrice":29820}]},{"noteNumber":"131288","date":"22/03/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-80168.37,"buyTotal":79982.7,"sellTotal":0,"fees":185.67,"settlementDate":"27/03/2018","deals":[{"type":"buy","asset":"CIA LOCAÇÃO","termDeal":false,"termDays":null,"quantity":99,"unitPrice":31.26,"totalPrice":3094.74},{"type":"buy","asset":"SANTOS BRASI","termDeal":false,"termDays":null,"quantity":74,"unitPrice":3.54,"totalPrice":261.96},{"type":"buy","asset":"CIA LOCAÇÃO","termDeal":false,"termDays":null,"quantity":1500,"unitPrice":31.26,"totalPrice":46890},{"type":"buy","asset":"SANTOS BRASI","termDeal":false,"termDays":null,"quantity":8400,"unitPrice":3.54,"totalPrice":29736}],"groupedDeals":[{"asset":"CIA LOCAÇÃO","type":"buy","termDeal":false,"termDays":null,"quantity":1599,"avgUnitPrice":31.26,"totalPrice":49984.74},{"asset":"SANTOS BRASI","type":"buy","termDeal":false,"termDays":null,"quantity":8474,"avgUnitPrice":3.54,"totalPrice":29997.96}]},{"noteNumber":"132660","date":"21/03/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-40089.92,"buyTotal":39977,"sellTotal":0,"fees":112.92,"settlementDate":"24/03/2017","deals":[{"type":"buy","asset":"BRADESPAR","termDeal":false,"termDays":null,"quantity":61,"unitPrice":20.8,"totalPrice":1268.8},{"type":"buy","asset":"VALE","termDeal":false,"termDays":null,"quantity":19,"unitPrice":27.8,"totalPrice":528.2},{"type":"buy","asset":"BRADESPAR","termDeal":false,"termDays":null,"quantity":900,"unitPrice":20.8,"totalPrice":18720},{"type":"buy","asset":"VALE","termDeal":false,"termDays":null,"quantity":700,"unitPrice":27.8,"totalPrice":19460}],"groupedDeals":[{"asset":"BRADESPAR","type":"buy","termDeal":false,"termDays":null,"quantity":961,"avgUnitPrice":20.8,"totalPrice":19988.8},{"asset":"VALE","type":"buy","termDeal":false,"termDays":null,"quantity":719,"avgUnitPrice":27.8,"totalPrice":19988.2}]},{"noteNumber":"141337","date":"27/03/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-20053.57,"buyTotal":19997.1,"sellTotal":0,"fees":56.47,"settlementDate":"30/03/2017","deals":[{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":21,"unitPrice":5.1,"totalPrice":107.1},{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":3900,"unitPrice":5.1,"totalPrice":19890}],"groupedDeals":[{"asset":"GERDAU MET","type":"buy","termDeal":false,"termDays":null,"quantity":3921,"avgUnitPrice":5.1,"totalPrice":19997.1}]},{"noteNumber":"146107","date":"18/04/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-15040.44,"buyTotal":14998.08,"sellTotal":0,"fees":42.36,"settlementDate":"22/04/2016","deals":[{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":14,"unitPrice":2.72,"totalPrice":38.08},{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":5500,"unitPrice":2.72,"totalPrice":14960}],"groupedDeals":[{"asset":"GERDAU MET","type":"buy","termDeal":false,"termDays":null,"quantity":5514,"avgUnitPrice":2.72,"totalPrice":14998.08}]},{"noteNumber":"147944","date":"04/04/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-60133.02,"buyTotal":59993.64,"sellTotal":0,"fees":139.38,"settlementDate":"09/04/2018","deals":[{"type":"buy","asset":"M.DIAS BRANC","termDeal":false,"termDays":null,"quantity":97,"unitPrice":50.12,"totalPrice":4861.64},{"type":"buy","asset":"M.DIAS BRANC","termDeal":false,"termDays":null,"quantity":1100,"unitPrice":50.12,"totalPrice":55132}],"groupedDeals":[{"asset":"M.DIAS BRANC","type":"buy","termDeal":false,"termDays":null,"quantity":1197,"avgUnitPrice":50.12,"totalPrice":59993.64}]},{"noteNumber":"148466","date":"19/04/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":16294.17,"buyTotal":0,"sellTotal":16340.32,"fees":46.15,"settlementDate":"25/04/2016","deals":[{"type":"sell","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":96,"unitPrice":2.92,"totalPrice":280.32},{"type":"sell","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":5500,"unitPrice":2.92,"totalPrice":16060}],"groupedDeals":[{"asset":"GERDAU MET","type":"sell","termDeal":false,"termDays":null,"quantity":5596,"avgUnitPrice":2.92,"totalPrice":16340.32}]},{"noteNumber":"152178","date":"06/04/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-50987.06,"buyTotal":50868.88,"sellTotal":0,"fees":118.18,"settlementDate":"11/04/2018","deals":[{"type":"buy","asset":"MULTIPLUS S.","termDeal":false,"termDays":null,"quantity":48,"unitPrice":29.56,"totalPrice":1418.88},{"type":"buy","asset":"MULTIPLUS S.","termDeal":false,"termDays":null,"quantity":1000,"unitPrice":29.56,"totalPrice":29560},{"type":"buy","asset":"TRISUL S.A.","termDeal":false,"termDays":null,"quantity":3400,"unitPrice":5.85,"totalPrice":19890}],"groupedDeals":[{"asset":"MULTIPLUS S.","type":"buy","termDeal":false,"termDays":null,"quantity":1048,"avgUnitPrice":29.56,"totalPrice":30978.88},{"asset":"TRISUL S.A.","type":"buy","termDeal":false,"termDays":null,"quantity":3400,"avgUnitPrice":5.85,"totalPrice":19890}]},{"noteNumber":"154975","date":"25/04/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-15040.19,"buyTotal":14997.84,"sellTotal":0,"fees":42.35,"settlementDate":"28/04/2016","deals":[{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":34,"unitPrice":2.76,"totalPrice":93.84},{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":5400,"unitPrice":2.76,"totalPrice":14904}],"groupedDeals":[{"asset":"GERDAU MET","type":"buy","termDeal":false,"termDays":null,"quantity":5434,"avgUnitPrice":2.76,"totalPrice":14997.84}]},{"noteNumber":"158633","date":"11/04/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":9971.02,"buyTotal":0,"sellTotal":9999.23,"fees":28.21,"settlementDate":"16/04/2018","deals":[{"type":"sell","asset":"PBG S/A","termDeal":false,"termDays":null,"quantity":61,"unitPrice":5.33,"totalPrice":325.13},{"type":"sell","asset":"PBG S/A","termDeal":false,"termDays":null,"quantity":15,"unitPrice":5.34,"totalPrice":80.1},{"type":"sell","asset":"PBG S/A","termDeal":false,"termDays":null,"quantity":1800,"unitPrice":5.33,"totalPrice":9594}],"groupedDeals":[{"asset":"PBG S/A","type":"sell","termDeal":false,"termDays":null,"quantity":1876,"avgUnitPrice":5.33,"totalPrice":9999.23}]},{"noteNumber":"159110","date":"27/04/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-24164.55,"buyTotal":40064.04,"sellTotal":16030.3,"fees":130.81,"settlementDate":"02/05/2016","deals":[{"type":"buy","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":48,"unitPrice":26.73,"totalPrice":1283.04},{"type":"sell","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":34,"unitPrice":2.95,"totalPrice":100.3},{"type":"buy","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":700,"unitPrice":26.73,"totalPrice":18711},{"type":"buy","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":900,"unitPrice":22.3,"totalPrice":20070},{"type":"sell","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":5400,"unitPrice":2.95,"totalPrice":15930}],"groupedDeals":[{"asset":"BRADESCO","type":"buy","termDeal":false,"termDays":null,"quantity":748,"avgUnitPrice":26.73,"totalPrice":19994.04},{"asset":"GERDAU MET","type":"sell","termDeal":false,"termDays":null,"quantity":5434,"avgUnitPrice":2.95,"totalPrice":16030.3},{"asset":"BRASIL","type":"buy","termDeal":false,"termDays":null,"quantity":900,"avgUnitPrice":22.3,"totalPrice":20070}]},{"noteNumber":"164374","date":"11/04/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-10024.52,"buyTotal":9996.3,"sellTotal":0,"fees":28.22,"settlementDate":"17/04/2017","deals":[{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":98,"unitPrice":4.35,"totalPrice":426.3},{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":2200,"unitPrice":4.35,"totalPrice":9570}],"groupedDeals":[{"asset":"GERDAU MET","type":"buy","termDeal":false,"termDays":null,"quantity":2298,"avgUnitPrice":4.35,"totalPrice":9996.3}]},{"noteNumber":"166031","date":"02/05/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-19897.03,"buyTotal":19841,"sellTotal":0,"fees":56.03,"settlementDate":"05/05/2016","deals":[{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":68,"unitPrice":2.5,"totalPrice":170},{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":7900,"unitPrice":2.49,"totalPrice":19671}],"groupedDeals":[{"asset":"USIMINAS","type":"buy","termDeal":false,"termDays":null,"quantity":7968,"avgUnitPrice":2.49,"totalPrice":19841}]},{"noteNumber":"167992","date":"03/05/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-90137.03,"buyTotal":89927.95,"sellTotal":0,"fees":209.08,"settlementDate":"06/05/2016","deals":[{"type":"buy","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":69,"unitPrice":20.65,"totalPrice":1424.85},{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":18,"unitPrice":2.65,"totalPrice":47.7},{"type":"buy","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":90,"unitPrice":30.3,"totalPrice":2727},{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":20,"unitPrice":2.32,"totalPrice":46.4},{"type":"buy","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":900,"unitPrice":20.65,"totalPrice":18585},{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":7500,"unitPrice":2.65,"totalPrice":19875},{"type":"buy","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":900,"unitPrice":30.3,"totalPrice":27270},{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":8600,"unitPrice":2.32,"totalPrice":19952}],"groupedDeals":[{"asset":"BRASIL","type":"buy","termDeal":false,"termDays":null,"quantity":969,"avgUnitPrice":20.65,"totalPrice":20009.85},{"asset":"GERDAU MET","type":"buy","termDeal":false,"termDays":null,"quantity":7518,"avgUnitPrice":2.65,"totalPrice":19922.7},{"asset":"ITAUUNIBANCO","type":"buy","termDeal":false,"termDays":null,"quantity":990,"avgUnitPrice":30.3,"totalPrice":29997},{"asset":"USIMINAS","type":"buy","termDeal":false,"termDays":null,"quantity":8620,"avgUnitPrice":2.32,"totalPrice":19998.4}]},{"noteNumber":"176257","date":"09/05/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":29468.03,"buyTotal":0,"sellTotal":29551.5,"fees":83.47,"settlementDate":"12/05/2016","deals":[{"type":"sell","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":90,"unitPrice":29.85,"totalPrice":2686.5},{"type":"sell","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":900,"unitPrice":29.85,"totalPrice":26865}],"groupedDeals":[{"asset":"ITAUUNIBANCO","type":"sell","termDeal":false,"termDays":null,"quantity":990,"avgUnitPrice":29.85,"totalPrice":29551.5}]},{"noteNumber":"198470","date":"08/05/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-10024.22,"buyTotal":9996,"sellTotal":0,"fees":28.22,"settlementDate":"11/05/2017","deals":[{"type":"buy","asset":"ALIANSCE","termDeal":false,"termDays":null,"quantity":80,"unitPrice":14.7,"totalPrice":1176},{"type":"buy","asset":"ALIANSCE","termDeal":false,"termDays":null,"quantity":600,"unitPrice":14.7,"totalPrice":8820}],"groupedDeals":[{"asset":"ALIANSCE","type":"buy","termDeal":false,"termDays":null,"quantity":680,"avgUnitPrice":14.7,"totalPrice":9996}]},{"noteNumber":"200530","date":"09/05/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-29042.38,"buyTotal":28960,"sellTotal":0,"fees":82.38,"settlementDate":"14/05/2018","deals":[{"type":"buy","asset":"CIA HERING","termDeal":false,"termDays":null,"quantity":1600,"unitPrice":18.1,"totalPrice":28960}],"groupedDeals":[{"asset":"CIA HERING","type":"buy","termDeal":false,"termDays":null,"quantity":1600,"avgUnitPrice":18.1,"totalPrice":28960}]},{"noteNumber":"208916","date":"14/05/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":64359.41,"buyTotal":0,"sellTotal":64509.33,"fees":149.92,"settlementDate":"17/05/2018","deals":[{"type":"sell","asset":"VALE","termDeal":false,"termDays":null,"quantity":71,"unitPrice":53.91,"totalPrice":3827.61},{"type":"sell","asset":"TRISUL","termDeal":false,"termDays":null,"quantity":6800,"unitPrice":2.79,"totalPrice":18972},{"type":"sell","asset":"VALE","termDeal":false,"termDays":null,"quantity":600,"unitPrice":53.94,"totalPrice":32364}],"groupedDeals":[{"asset":"VALE","type":"sell","termDeal":false,"termDays":null,"quantity":671,"avgUnitPrice":53.94,"totalPrice":36191.61},{"asset":"TRISUL","type":"sell","termDeal":false,"termDays":null,"quantity":6800,"avgUnitPrice":2.79,"totalPrice":18972}]},{"noteNumber":"219841","date":"18/05/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":266.67,"buyTotal":62662.6,"sellTotal":63158.78,"fees":229.51,"settlementDate":"23/05/2018","deals":[{"type":"buy","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":1,"unitPrice":2.6,"totalPrice":2.6},{"type":"sell","asset":"LOJAS AMERIC","termDeal":false,"termDays":null,"quantity":68,"unitPrice":13.25,"totalPrice":901},{"type":"sell","asset":"LOJAS AMERIC","termDeal":false,"termDays":null,"quantity":14,"unitPrice":17.77,"totalPrice":248.78},{"type":"buy","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":24100,"unitPrice":2.6,"totalPrice":62660},{"type":"sell","asset":"LOJAS AMERIC","termDeal":false,"termDays":null,"quantity":2400,"unitPrice":13.25,"totalPrice":31800},{"type":"sell","asset":"LOJAS AMERIC","termDeal":false,"termDays":null,"quantity":1700,"unitPrice":17.77,"totalPrice":30209}],"groupedDeals":[{"asset":"SANTOS BRP","type":"buy","termDeal":false,"termDays":null,"quantity":24101,"avgUnitPrice":2.6,"totalPrice":62662.6},{"asset":"LOJAS AMERIC","type":"sell","termDeal":false,"termDays":null,"quantity":4182,"avgUnitPrice":15.1,"totalPrice":63158.78}]},{"noteNumber":"229936","date":"24/05/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-201678.66,"buyTotal":201311.44,"sellTotal":0,"fees":367.22,"settlementDate":"29/05/2018","deals":[{"type":"buy","asset":"PETROBRAS","termDeal":false,"termDays":null,"quantity":60,"unitPrice":20.49,"totalPrice":1229.4},{"type":"buy","asset":"PETROBRAS","termDeal":false,"termDays":null,"quantity":8,"unitPrice":20.63,"totalPrice":165.04},{"type":"buy","asset":"PETROBRAS","termDeal":false,"termDays":null,"quantity":9700,"unitPrice":20.61,"totalPrice":199917}],"groupedDeals":[{"asset":"PETROBRAS","type":"buy","termDeal":false,"termDays":null,"quantity":9768,"avgUnitPrice":20.61,"totalPrice":201311.44}]},{"noteNumber":"242005","date":"28/06/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-41.6,"buyTotal":31.6,"sellTotal":0,"fees":10,"settlementDate":"01/07/2016","deals":[{"type":"buy","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":2,"unitPrice":15.8,"totalPrice":31.6}],"groupedDeals":[{"asset":"BRASIL","type":"buy","termDeal":false,"termDays":null,"quantity":2,"avgUnitPrice":15.8,"totalPrice":31.6}]},{"noteNumber":"244009","date":"29/06/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-20054.87,"buyTotal":19998,"sellTotal":0,"fees":56.87,"settlementDate":"04/07/2016","deals":[{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":9900,"unitPrice":2.02,"totalPrice":19998}],"groupedDeals":[{"asset":"USIMINAS","type":"buy","termDeal":false,"termDays":null,"quantity":9900,"avgUnitPrice":2.02,"totalPrice":19998}]},{"noteNumber":"246107","date":"01/06/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-200258.09,"buyTotal":199993.28,"sellTotal":0,"fees":264.81,"settlementDate":"06/06/2018","deals":[{"type":"buy","asset":"PETROBRAS","termDeal":false,"termDays":null,"quantity":72,"unitPrice":18.74,"totalPrice":1349.28},{"type":"buy","asset":"PETROBRAS","termDeal":false,"termDays":null,"quantity":10600,"unitPrice":18.74,"totalPrice":198644}],"groupedDeals":[{"asset":"PETROBRAS","type":"buy","termDeal":false,"termDays":null,"quantity":10672,"avgUnitPrice":18.74,"totalPrice":199993.28}]},{"noteNumber":"247145","date":"02/06/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":26548.22,"buyTotal":3350.1,"sellTotal":29992.48,"fees":94.16,"settlementDate":"07/06/2017","deals":[{"type":"buy","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":18,"unitPrice":1.95,"totalPrice":35.1},{"type":"sell","asset":"ITAUSA","termDeal":false,"termDays":null,"quantity":16,"unitPrice":8.78,"totalPrice":140.48},{"type":"buy","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":1700,"unitPrice":1.95,"totalPrice":3315},{"type":"sell","asset":"ITAUSA","termDeal":false,"termDays":null,"quantity":3400,"unitPrice":8.78,"totalPrice":29852}],"groupedDeals":[{"asset":"SANTOS BRP","type":"buy","termDeal":false,"termDays":null,"quantity":1718,"avgUnitPrice":1.95,"totalPrice":3350.1},{"asset":"ITAUSA","type":"sell","termDeal":false,"termDays":null,"quantity":3416,"avgUnitPrice":8.78,"totalPrice":29992.48}]},{"noteNumber":"249235","date":"05/06/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-50107.46,"buyTotal":49966.33,"sellTotal":0,"fees":141.13,"settlementDate":"08/06/2017","deals":[{"type":"buy","asset":"RUMO S.A.","termDeal":false,"termDays":null,"quantity":21,"unitPrice":7.85,"totalPrice":164.85},{"type":"buy","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":50,"unitPrice":1.98,"totalPrice":99},{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":44,"unitPrice":3.92,"totalPrice":172.48},{"type":"buy","asset":"RUMO S.A.","termDeal":false,"termDays":null,"quantity":3800,"unitPrice":7.85,"totalPrice":29830},{"type":"buy","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":5000,"unitPrice":1.98,"totalPrice":9900},{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":2500,"unitPrice":3.92,"totalPrice":9800}],"groupedDeals":[{"asset":"RUMO S.A.","type":"buy","termDeal":false,"termDays":null,"quantity":3821,"avgUnitPrice":7.85,"totalPrice":29994.85},{"asset":"SANTOS BRP","type":"buy","termDeal":false,"termDays":null,"quantity":5050,"avgUnitPrice":1.98,"totalPrice":9999},{"asset":"USIMINAS","type":"buy","termDeal":false,"termDays":null,"quantity":2544,"avgUnitPrice":3.92,"totalPrice":9972.48}]},{"noteNumber":"254839","date":"08/06/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-50053.34,"buyTotal":49912.37,"sellTotal":0,"fees":140.97,"settlementDate":"13/06/2017","deals":[{"type":"buy","asset":"ALIANSCE","termDeal":false,"termDays":null,"quantity":13,"unitPrice":14.9,"totalPrice":193.7},{"type":"buy","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":11,"unitPrice":1.97,"totalPrice":21.67},{"type":"buy","asset":"ALIANSCE","termDeal":false,"termDays":null,"quantity":2000,"unitPrice":14.9,"totalPrice":29800},{"type":"buy","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":10100,"unitPrice":1.97,"totalPrice":19897}],"groupedDeals":[{"asset":"ALIANSCE","type":"buy","termDeal":false,"termDays":null,"quantity":2013,"avgUnitPrice":14.9,"totalPrice":29993.7},{"asset":"SANTOS BRP","type":"buy","termDeal":false,"termDays":null,"quantity":10111,"avgUnitPrice":1.97,"totalPrice":19918.67}]},{"noteNumber":"261588","date":"11/07/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":48047.28,"buyTotal":0,"sellTotal":48184.36,"fees":137.08,"settlementDate":"14/07/2016","deals":[],"groupedDeals":[]},{"noteNumber":"269353","date":"14/07/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":20787.87,"buyTotal":0,"sellTotal":20846.76,"fees":58.89,"settlementDate":"19/07/2016","deals":[{"type":"sell","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":48,"unitPrice":27.87,"totalPrice":1337.76},{"type":"sell","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":700,"unitPrice":27.87,"totalPrice":19509}],"groupedDeals":[{"asset":"BRADESCO","type":"sell","termDeal":false,"termDays":null,"quantity":748,"avgUnitPrice":27.87,"totalPrice":20846.76}]},{"noteNumber":"272047","date":"15/07/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":62901.55,"buyTotal":0,"sellTotal":63048.13,"fees":146.58,"settlementDate":"20/07/2016","deals":[{"type":"sell","asset":"VALE","termDeal":false,"termDays":null,"quantity":73,"unitPrice":13.81,"totalPrice":1008.13},{"type":"sell","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":26400,"unitPrice":2.35,"totalPrice":62040}],"groupedDeals":[{"asset":"VALE","type":"sell","termDeal":false,"termDays":null,"quantity":73,"avgUnitPrice":13.81,"totalPrice":1008.13},{"asset":"USIMINAS","type":"sell","termDeal":false,"termDays":null,"quantity":26400,"avgUnitPrice":2.35,"totalPrice":62040}]},{"noteNumber":"272073","date":"22/06/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-20050.46,"buyTotal":19994,"sellTotal":0,"fees":56.46,"settlementDate":"27/06/2017","deals":[{"type":"buy","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":69,"unitPrice":26,"totalPrice":1794},{"type":"buy","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":700,"unitPrice":26,"totalPrice":18200}],"groupedDeals":[{"asset":"BRASIL","type":"buy","termDeal":false,"termDays":null,"quantity":769,"avgUnitPrice":26,"totalPrice":19994}]},{"noteNumber":"277334","date":"19/07/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":43.12,"buyTotal":0,"sellTotal":53.13,"fees":10.01,"settlementDate":"22/07/2016","deals":[{"type":"sell","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":21,"unitPrice":2.53,"totalPrice":53.13}],"groupedDeals":[{"asset":"USIMINAS","type":"sell","termDeal":false,"termDays":null,"quantity":21,"avgUnitPrice":2.53,"totalPrice":53.13}]},{"noteNumber":"280403","date":"25/08/2015","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-70130.96,"buyTotal":69968.29,"sellTotal":0,"fees":162.67,"settlementDate":"28/08/2015","deals":[{"type":"buy","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":31,"unitPrice":23.27,"totalPrice":721.37},{"type":"buy","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":27,"unitPrice":23.3,"totalPrice":629.1},{"type":"buy","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":54,"unitPrice":26.5,"totalPrice":1431},{"type":"buy","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":800,"unitPrice":23.3,"totalPrice":18640},{"type":"buy","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":700,"unitPrice":26.5,"totalPrice":18550}],"groupedDeals":[{"asset":"BRADESCO","type":"buy","termDeal":false,"termDays":null,"quantity":858,"avgUnitPrice":23.3,"totalPrice":19990.47},{"asset":"ITAUUNIBANCO","type":"buy","termDeal":false,"termDays":null,"quantity":754,"avgUnitPrice":26.5,"totalPrice":19981}]},{"noteNumber":"283524","date":"27/08/2015","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":34520.38,"buyTotal":0,"sellTotal":34618.2,"fees":97.82,"settlementDate":"01/09/2015","deals":[{"type":"sell","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":54,"unitPrice":28.5,"totalPrice":1539}],"groupedDeals":[{"asset":"ITAUUNIBANCO","type":"sell","termDeal":false,"termDays":null,"quantity":54,"avgUnitPrice":28.5,"totalPrice":1539}]},{"noteNumber":"287035","date":"31/08/2015","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-40036.47,"buyTotal":39923.7,"sellTotal":0,"fees":112.77,"settlementDate":"03/09/2015","deals":[{"type":"buy","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":73,"unitPrice":22.9,"totalPrice":1671.7},{"type":"buy","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":55,"unitPrice":26.4,"totalPrice":1452},{"type":"buy","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":800,"unitPrice":22.9,"totalPrice":18320},{"type":"buy","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":700,"unitPrice":26.4,"totalPrice":18480}],"groupedDeals":[{"asset":"BRADESCO","type":"buy","termDeal":false,"termDays":null,"quantity":873,"avgUnitPrice":22.9,"totalPrice":19991.7},{"asset":"ITAUUNIBANCO","type":"buy","termDeal":false,"termDays":null,"quantity":755,"avgUnitPrice":26.4,"totalPrice":19932}]},{"noteNumber":"288718","date":"01/09/2015","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-40111.58,"buyTotal":39998.6,"sellTotal":0,"fees":112.98,"settlementDate":"04/09/2015","deals":[],"groupedDeals":[]},{"noteNumber":"301453","date":"13/07/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-4169.5,"buyTotal":4157.76,"sellTotal":0,"fees":11.74,"settlementDate":"18/07/2017","deals":[{"type":"buy","asset":"HYPERMARCAS","termDeal":false,"termDays":null,"quantity":42,"unitPrice":29.28,"totalPrice":1229.76},{"type":"buy","asset":"HYPERMARCAS","termDeal":false,"termDays":null,"quantity":100,"unitPrice":29.28,"totalPrice":2928}],"groupedDeals":[{"asset":"HYPERMARCAS","type":"buy","termDeal":false,"termDays":null,"quantity":142,"avgUnitPrice":29.28,"totalPrice":4157.76}]},{"noteNumber":"302866","date":"02/08/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":243.19,"buyTotal":0,"sellTotal":253.26,"fees":10.07,"settlementDate":"05/08/2016","deals":[{"type":"sell","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":67,"unitPrice":3.78,"totalPrice":253.26}],"groupedDeals":[{"asset":"USIMINAS","type":"sell","termDeal":false,"termDays":null,"quantity":67,"avgUnitPrice":3.78,"totalPrice":253.26}]},{"noteNumber":"303544","date":"14/07/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-50138.02,"buyTotal":49996.8,"sellTotal":0,"fees":141.22,"settlementDate":"19/07/2017","deals":[],"groupedDeals":[]},{"noteNumber":"306668","date":"16/09/2015","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":84538.96,"buyTotal":0,"sellTotal":84735.96,"fees":197,"settlementDate":"21/09/2015","deals":[{"type":"sell","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":31,"unitPrice":24.66,"totalPrice":764.46},{"type":"sell","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":55,"unitPrice":28.9,"totalPrice":1589.5},{"type":"sell","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":1700,"unitPrice":24.66,"totalPrice":41922},{"type":"sell","asset":"ITAUUNIBANCO","termDeal":false,"termDays":null,"quantity":1400,"unitPrice":28.9,"totalPrice":40460}],"groupedDeals":[{"asset":"BRADESCO","type":"sell","termDeal":false,"termDays":null,"quantity":1731,"avgUnitPrice":24.66,"totalPrice":42686.46},{"asset":"ITAUUNIBANCO","type":"sell","termDeal":false,"termDays":null,"quantity":1455,"avgUnitPrice":28.9,"totalPrice":42049.5}]},{"noteNumber":"307493","date":"18/07/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-15010.42,"buyTotal":14968.15,"sellTotal":0,"fees":42.27,"settlementDate":"21/07/2017","deals":[{"type":"buy","asset":"HYPERMARCAS","termDeal":false,"termDays":null,"quantity":19,"unitPrice":28.85,"totalPrice":548.15},{"type":"buy","asset":"HYPERMARCAS","termDeal":false,"termDays":null,"quantity":500,"unitPrice":28.84,"totalPrice":14420}],"groupedDeals":[{"asset":"HYPERMARCAS","type":"buy","termDeal":false,"termDays":null,"quantity":519,"avgUnitPrice":28.84,"totalPrice":14968.15}]},{"noteNumber":"312185","date":"21/09/2015","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-80160.98,"buyTotal":79975.05,"sellTotal":0,"fees":185.93,"settlementDate":"24/09/2015","deals":[{"type":"buy","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":65,"unitPrice":22.65,"totalPrice":1472.25},{"type":"buy","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":30,"unitPrice":16.46,"totalPrice":493.8},{"type":"buy","asset":"BRADESCO","termDeal":false,"termDays":null,"quantity":1700,"unitPrice":22.65,"totalPrice":38505},{"type":"buy","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":2400,"unitPrice":16.46,"totalPrice":39504}],"groupedDeals":[{"asset":"BRADESCO","type":"buy","termDeal":false,"termDays":null,"quantity":1765,"avgUnitPrice":22.65,"totalPrice":39977.25},{"asset":"BRASIL","type":"buy","termDeal":false,"termDays":null,"quantity":2430,"avgUnitPrice":16.46,"totalPrice":39997.8}]},{"noteNumber":"317843","date":"10/08/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":23239.98,"buyTotal":0,"sellTotal":23305.8,"fees":65.82,"settlementDate":"15/08/2016","deals":[{"type":"sell","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":18,"unitPrice":3.1,"totalPrice":55.8},{"type":"sell","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":7500,"unitPrice":3.1,"totalPrice":23250}],"groupedDeals":[{"asset":"GERDAU MET","type":"sell","termDeal":false,"termDays":null,"quantity":7518,"avgUnitPrice":3.1,"totalPrice":23305.8}]},{"noteNumber":"327414","date":"16/08/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-149288.02,"buyTotal":149016.08,"sellTotal":0,"fees":271.94,"settlementDate":"19/08/2016","deals":[{"type":"buy","asset":"ITAUSA","termDeal":false,"termDays":null,"quantity":88,"unitPrice":8.71,"totalPrice":766.48},{"type":"buy","asset":"RUMO LOG","termDeal":false,"termDays":null,"quantity":20,"unitPrice":6.83,"totalPrice":136.6},{"type":"buy","asset":"ALIANSCE","termDeal":false,"termDays":null,"quantity":2600,"unitPrice":15.01,"totalPrice":39026},{"type":"buy","asset":"ITAUSA","termDeal":false,"termDays":null,"quantity":6800,"unitPrice":8.71,"totalPrice":59228},{"type":"buy","asset":"RUMO LOG","termDeal":false,"termDays":null,"quantity":7300,"unitPrice":6.83,"totalPrice":49859}],"groupedDeals":[{"asset":"ITAUSA","type":"buy","termDeal":false,"termDays":null,"quantity":6888,"avgUnitPrice":8.71,"totalPrice":59994.48},{"asset":"RUMO LOG","type":"buy","termDeal":false,"termDays":null,"quantity":7320,"avgUnitPrice":6.83,"totalPrice":49995.6},{"asset":"ALIANSCE","type":"buy","termDeal":false,"termDays":null,"quantity":2600,"avgUnitPrice":15.01,"totalPrice":39026}]},{"noteNumber":"329705","date":"17/08/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-15036.34,"buyTotal":14994,"sellTotal":0,"fees":42.34,"settlementDate":"22/08/2016","deals":[{"type":"buy","asset":"EZTEC","termDeal":false,"termDays":null,"quantity":82,"unitPrice":17,"totalPrice":1394},{"type":"buy","asset":"EZTEC","termDeal":false,"termDays":null,"quantity":800,"unitPrice":17,"totalPrice":13600}],"groupedDeals":[{"asset":"EZTEC","type":"buy","termDeal":false,"termDays":null,"quantity":882,"avgUnitPrice":17,"totalPrice":14994}]},{"noteNumber":"336434","date":"22/08/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-35092.49,"buyTotal":34993.65,"sellTotal":0,"fees":98.84,"settlementDate":"25/08/2016","deals":[{"type":"buy","asset":"EZTEC","termDeal":false,"termDays":null,"quantity":82,"unitPrice":17,"totalPrice":1394},{"type":"buy","asset":"EZTEC","termDeal":false,"termDays":null,"quantity":73,"unitPrice":17.05,"totalPrice":1244.65},{"type":"buy","asset":"EZTEC","termDeal":false,"termDays":null,"quantity":800,"unitPrice":17,"totalPrice":13600},{"type":"buy","asset":"EZTEC","termDeal":false,"termDays":null,"quantity":1100,"unitPrice":17.05,"totalPrice":18755}],"groupedDeals":[{"asset":"EZTEC","type":"buy","termDeal":false,"termDays":null,"quantity":2055,"avgUnitPrice":17.03,"totalPrice":34993.65}]},{"noteNumber":"362382","date":"22/08/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":387909.78,"buyTotal":0,"sellTotal":388619,"fees":709.22,"settlementDate":"25/08/2017","deals":[{"type":"sell","asset":"ALIANSCE","termDeal":false,"termDays":null,"quantity":2300,"unitPrice":17.43,"totalPrice":40089},{"type":"sell","asset":"ALIANSCE","termDeal":false,"termDays":null,"quantity":200,"unitPrice":17.44,"totalPrice":3488},{"type":"sell","asset":"BRADESPAR","termDeal":false,"termDays":null,"quantity":500,"unitPrice":24.19,"totalPrice":12095},{"type":"sell","asset":"BRADESPAR","termDeal":false,"termDays":null,"quantity":200,"unitPrice":24.23,"totalPrice":4846},{"type":"sell","asset":"EZTEC","termDeal":false,"termDays":null,"quantity":1500,"unitPrice":21.26,"totalPrice":31890},{"type":"sell","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":1500,"unitPrice":5.33,"totalPrice":7995},{"type":"sell","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":3000,"unitPrice":5.34,"totalPrice":16020},{"type":"sell","asset":"ITAUSA","termDeal":false,"termDays":null,"quantity":1500,"unitPrice":10.07,"totalPrice":15105},{"type":"sell","asset":"LOCALIZA","termDeal":false,"termDays":null,"quantity":300,"unitPrice":56.76,"totalPrice":17028},{"type":"sell","asset":"LOCALIZA","termDeal":false,"termDays":null,"quantity":500,"unitPrice":56.77,"totalPrice":28385},{"type":"sell","asset":"RUMO S.A.","termDeal":false,"termDays":null,"quantity":8000,"unitPrice":10.26,"totalPrice":82080},{"type":"sell","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":7200,"unitPrice":2.39,"totalPrice":17208},{"type":"sell","asset":"SANTOS BRP","termDeal":false,"termDays":null,"quantity":7800,"unitPrice":2.4,"totalPrice":18720},{"type":"sell","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":4000,"unitPrice":6.22,"totalPrice":24880}],"groupedDeals":[{"asset":"ALIANSCE","type":"sell","termDeal":false,"termDays":null,"quantity":2500,"avgUnitPrice":17.43,"totalPrice":43577},{"asset":"BRADESPAR","type":"sell","termDeal":false,"termDays":null,"quantity":700,"avgUnitPrice":24.2,"totalPrice":16941},{"asset":"EZTEC","type":"sell","termDeal":false,"termDays":null,"quantity":1500,"avgUnitPrice":21.26,"totalPrice":31890},{"asset":"GERDAU MET","type":"sell","termDeal":false,"termDays":null,"quantity":4500,"avgUnitPrice":5.34,"totalPrice":24015},{"asset":"ITAUSA","type":"sell","termDeal":false,"termDays":null,"quantity":1500,"avgUnitPrice":10.07,"totalPrice":15105},{"asset":"LOCALIZA","type":"sell","termDeal":false,"termDays":null,"quantity":800,"avgUnitPrice":56.77,"totalPrice":45413},{"asset":"RUMO S.A.","type":"sell","termDeal":false,"termDays":null,"quantity":8000,"avgUnitPrice":10.26,"totalPrice":82080},{"asset":"SANTOS BRP","type":"sell","termDeal":false,"termDays":null,"quantity":15000,"avgUnitPrice":2.4,"totalPrice":35928},{"asset":"USIMINAS","type":"sell","termDeal":false,"termDays":null,"quantity":4000,"avgUnitPrice":6.22,"totalPrice":24880}]},{"noteNumber":"366388","date":"05/11/2015","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":43131.82,"buyTotal":0,"sellTotal":43254,"fees":122.18,"settlementDate":"10/11/2015","deals":[{"type":"sell","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":30,"unitPrice":17.8,"totalPrice":534},{"type":"sell","asset":"BRASIL","termDeal":false,"termDays":null,"quantity":2400,"unitPrice":17.8,"totalPrice":42720}],"groupedDeals":[{"asset":"BRASIL","type":"sell","termDeal":false,"termDays":null,"quantity":2430,"avgUnitPrice":17.8,"totalPrice":43254}]},{"noteNumber":"372801","date":"10/07/2019","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-40091.05,"buyTotal":39998.4,"sellTotal":0,"fees":92.65,"settlementDate":"12/07/2019","deals":[{"type":"buy","asset":"TECNISA","termDeal":false,"termDays":null,"quantity":12,"unitPrice":1.95,"totalPrice":23.4},{"type":"buy","asset":"TECNISA","termDeal":false,"termDays":null,"quantity":20500,"unitPrice":1.95,"totalPrice":39975}],"groupedDeals":[{"asset":"TECNISA","type":"buy","termDeal":false,"termDays":null,"quantity":20512,"avgUnitPrice":1.95,"totalPrice":39998.4}]},{"noteNumber":"380708","date":"18/11/2015","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-90166.47,"buyTotal":89956.54,"sellTotal":0,"fees":209.93,"settlementDate":"24/11/2015","deals":[{"type":"buy","asset":"VALE","termDeal":false,"termDays":null,"quantity":73,"unitPrice":11.98,"totalPrice":874.54},{"type":"buy","asset":"GERDAU MET","termDeal":false,"termDays":null,"quantity":19400,"unitPrice":2.06,"totalPrice":39964},{"type":"buy","asset":"VALE","termDeal":false,"termDays":null,"quantity":4100,"unitPrice":11.98,"totalPrice":49118}],"groupedDeals":[{"asset":"VALE","type":"buy","termDeal":false,"termDays":null,"quantity":4173,"avgUnitPrice":11.98,"totalPrice":49992.54},{"asset":"GERDAU MET","type":"buy","termDeal":false,"termDays":null,"quantity":19400,"avgUnitPrice":2.06,"totalPrice":39964}]},{"noteNumber":"385151","date":"04/09/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":31790.69,"buyTotal":0,"sellTotal":31880.74,"fees":90.05,"settlementDate":"08/09/2017","deals":[{"type":"sell","asset":"RUMO S.A.","termDeal":false,"termDays":null,"quantity":41,"unitPrice":10.14,"totalPrice":415.74},{"type":"sell","asset":"RUMO S.A.","termDeal":false,"termDays":null,"quantity":3100,"unitPrice":10.15,"totalPrice":31465}],"groupedDeals":[{"asset":"RUMO S.A.","type":"sell","termDeal":false,"termDays":null,"quantity":3141,"avgUnitPrice":10.15,"totalPrice":31880.74}]},{"noteNumber":"392340","date":"03/09/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-20483.94,"buyTotal":20436.44,"sellTotal":0,"fees":47.5,"settlementDate":"06/09/2018","deals":[{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":12,"unitPrice":2.17,"totalPrice":26.04},{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":40,"unitPrice":8.06,"totalPrice":322.4},{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":4800,"unitPrice":2.17,"totalPrice":10416},{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":1200,"unitPrice":8.06,"totalPrice":9672}],"groupedDeals":[{"asset":"MILLS","type":"buy","termDeal":false,"termDays":null,"quantity":4812,"avgUnitPrice":2.17,"totalPrice":10442.04},{"asset":"USIMINAS","type":"buy","termDeal":false,"termDays":null,"quantity":1240,"avgUnitPrice":8.06,"totalPrice":9994.4}]},{"noteNumber":"409259","date":"14/09/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-5036.67,"buyTotal":5025,"sellTotal":0,"fees":11.67,"settlementDate":"19/09/2018","deals":[{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":2500,"unitPrice":2.01,"totalPrice":5025}],"groupedDeals":[{"asset":"MILLS","type":"buy","termDeal":false,"termDays":null,"quantity":2500,"avgUnitPrice":2.01,"totalPrice":5025}]},{"noteNumber":"412079","date":"19/09/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-129825.76,"buyTotal":129589.28,"sellTotal":0,"fees":236.48,"settlementDate":"22/09/2017","deals":[{"type":"buy","asset":"BRF S.A.","termDeal":false,"termDays":null,"quantity":47,"unitPrice":46.32,"totalPrice":2177.04},{"type":"buy","asset":"INTERNATIONA","termDeal":false,"termDays":null,"quantity":8,"unitPrice":10.68,"totalPrice":85.44},{"type":"buy","asset":"RUMO S.A.","termDeal":false,"termDays":null,"quantity":73,"unitPrice":10.6,"totalPrice":773.8},{"type":"buy","asset":"AZUL S.A.","termDeal":false,"termDays":null,"quantity":1000,"unitPrice":29.65,"totalPrice":29650},{"type":"buy","asset":"BRF S.A.","termDeal":false,"termDays":null,"quantity":600,"unitPrice":46.32,"totalPrice":27792},{"type":"buy","asset":"INTERNATIONA","termDeal":false,"termDays":null,"quantity":1300,"unitPrice":10.67,"totalPrice":13871},{"type":"buy","asset":"INTERNATIONA","termDeal":false,"termDays":null,"quantity":1500,"unitPrice":10.68,"totalPrice":16020},{"type":"buy","asset":"RUMO S.A.","termDeal":false,"termDays":null,"quantity":3700,"unitPrice":10.6,"totalPrice":39220}],"groupedDeals":[{"asset":"BRF S.A.","type":"buy","termDeal":false,"termDays":null,"quantity":647,"avgUnitPrice":46.32,"totalPrice":29969.04},{"asset":"INTERNATIONA","type":"buy","termDeal":false,"termDays":null,"quantity":2808,"avgUnitPrice":10.68,"totalPrice":29976.440000000002},{"asset":"RUMO S.A.","type":"buy","termDeal":false,"termDays":null,"quantity":3773,"avgUnitPrice":10.6,"totalPrice":39993.8},{"asset":"AZUL S.A.","type":"buy","termDeal":false,"termDays":null,"quantity":1000,"avgUnitPrice":29.65,"totalPrice":29650}]},{"noteNumber":"414644","date":"20/09/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-50094.84,"buyTotal":49953.74,"sellTotal":0,"fees":141.1,"settlementDate":"25/09/2017","deals":[],"groupedDeals":[]},{"noteNumber":"421228","date":"21/09/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-10023.13,"buyTotal":9999.92,"sellTotal":0,"fees":23.21,"settlementDate":"26/09/2018","deals":[{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":102,"unitPrice":1.96,"totalPrice":199.92},{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":5000,"unitPrice":1.96,"totalPrice":9800}],"groupedDeals":[{"asset":"MILLS","type":"buy","termDeal":false,"termDays":null,"quantity":5102,"avgUnitPrice":1.96,"totalPrice":9999.92}]},{"noteNumber":"423541","date":"24/09/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-29838.82,"buyTotal":29769.33,"sellTotal":0,"fees":69.49,"settlementDate":"27/09/2018","deals":[{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":81,"unitPrice":1.93,"totalPrice":156.33},{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":9100,"unitPrice":1.7,"totalPrice":15470},{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":2500,"unitPrice":1.72,"totalPrice":4300},{"type":"buy","asset":"MILLS","termDeal":false,"termDays":null,"quantity":5100,"unitPrice":1.93,"totalPrice":9843}],"groupedDeals":[{"asset":"MILLS","type":"buy","termDeal":false,"termDays":null,"quantity":16781,"avgUnitPrice":1.77,"totalPrice":29769.33}]},{"noteNumber":"426374","date":"27/09/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-70151.38,"buyTotal":69988.68,"sellTotal":0,"fees":162.7,"settlementDate":"02/10/2017","deals":[{"type":"buy","asset":"METALURGICA","termDeal":false,"termDays":null,"quantity":43,"unitPrice":5.1,"totalPrice":219.3},{"type":"buy","asset":"USINAS SID D","termDeal":false,"termDays":null,"quantity":77,"unitPrice":7.94,"totalPrice":611.38},{"type":"buy","asset":"METALURGICA","termDeal":false,"termDays":null,"quantity":7800,"unitPrice":5.1,"totalPrice":39780},{"type":"buy","asset":"USINAS SID D","termDeal":false,"termDays":null,"quantity":3700,"unitPrice":7.94,"totalPrice":29378}],"groupedDeals":[{"asset":"METALURGICA","type":"buy","termDeal":false,"termDays":null,"quantity":7843,"avgUnitPrice":5.1,"totalPrice":39999.3},{"asset":"USINAS SID D","type":"buy","termDeal":false,"termDays":null,"quantity":3777,"avgUnitPrice":7.94,"totalPrice":29989.38}]},{"noteNumber":"432964","date":"02/10/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-80135.77,"buyTotal":79949.91,"sellTotal":0,"fees":185.86,"settlementDate":"05/10/2017","deals":[{"type":"buy","asset":"BRF S.A.","termDeal":false,"termDays":null,"quantity":28,"unitPrice":45.87,"totalPrice":1284.36},{"type":"buy","asset":"BRF S.A.","termDeal":false,"termDays":null,"quantity":43,"unitPrice":45.89,"totalPrice":1973.27},{"type":"buy","asset":"ESTACIO PART","termDeal":false,"termDays":null,"quantity":66,"unitPrice":31.58,"totalPrice":2084.28},{"type":"buy","asset":"BRF S.A.","termDeal":false,"termDays":null,"quantity":800,"unitPrice":45.89,"totalPrice":36712},{"type":"buy","asset":"ESTACIO PART","termDeal":false,"termDays":null,"quantity":1200,"unitPrice":31.58,"totalPrice":37896}],"groupedDeals":[{"asset":"BRF S.A.","type":"buy","termDeal":false,"termDays":null,"quantity":871,"avgUnitPrice":45.89,"totalPrice":39969.63},{"asset":"ESTACIO PART","type":"buy","termDeal":false,"termDays":null,"quantity":1266,"avgUnitPrice":31.58,"totalPrice":39980.28}]},{"noteNumber":"435520","date":"03/10/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-50139.85,"buyTotal":49998.65,"sellTotal":0,"fees":141.2,"settlementDate":"06/10/2017","deals":[{"type":"buy","asset":"MILLS ESTRUT","termDeal":false,"termDays":null,"quantity":9,"unitPrice":4.85,"totalPrice":43.65},{"type":"buy","asset":"MILLS ESTRUT","termDeal":false,"termDays":null,"quantity":10300,"unitPrice":4.85,"totalPrice":49955}],"groupedDeals":[{"asset":"MILLS ESTRUT","type":"buy","termDeal":false,"termDays":null,"quantity":10309,"avgUnitPrice":4.85,"totalPrice":49998.65}]},{"noteNumber":"440847","date":"05/10/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-40033.59,"buyTotal":39920.85,"sellTotal":0,"fees":112.74,"settlementDate":"10/10/2017","deals":[{"type":"buy","asset":"B2W - COMPAN","termDeal":false,"termDays":null,"quantity":27,"unitPrice":24.55,"totalPrice":662.85},{"type":"buy","asset":"B2W - COMPAN","termDeal":false,"termDays":null,"quantity":1100,"unitPrice":24.53,"totalPrice":26983},{"type":"buy","asset":"B2W - COMPAN","termDeal":false,"termDays":null,"quantity":200,"unitPrice":24.54,"totalPrice":4908},{"type":"buy","asset":"B2W - COMPAN","termDeal":false,"termDays":null,"quantity":200,"unitPrice":24.55,"totalPrice":4910},{"type":"buy","asset":"B2W - COMPAN","termDeal":false,"termDays":null,"quantity":100,"unitPrice":24.57,"totalPrice":2457}],"groupedDeals":[{"asset":"B2W - COMPAN","type":"buy","termDeal":false,"termDays":null,"quantity":1627,"avgUnitPrice":24.54,"totalPrice":39920.85}]},{"noteNumber":"447016","date":"12/08/2019","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":746.97,"buyTotal":19999.77,"sellTotal":20841.33,"fees":94.59,"settlementDate":"14/08/2019","deals":[{"type":"buy","asset":"TECNISA","termDeal":false,"termDays":null,"quantity":67,"unitPrice":1.31,"totalPrice":87.77},{"type":"sell","asset":"HYPERA","termDeal":false,"termDays":null,"quantity":61,"unitPrice":31.53,"totalPrice":1923.33},{"type":"buy","asset":"TECNISA","termDeal":false,"termDays":null,"quantity":15200,"unitPrice":1.31,"totalPrice":19912},{"type":"sell","asset":"HYPERA","termDeal":false,"termDays":null,"quantity":600,"unitPrice":31.53,"totalPrice":18918}],"groupedDeals":[{"asset":"TECNISA","type":"buy","termDeal":false,"termDays":null,"quantity":15267,"avgUnitPrice":1.31,"totalPrice":19999.77},{"asset":"HYPERA","type":"sell","termDeal":false,"termDays":null,"quantity":661,"avgUnitPrice":31.53,"totalPrice":20841.33}]},{"noteNumber":"449927","date":"11/10/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-30034.78,"buyTotal":29950.2,"sellTotal":0,"fees":84.58,"settlementDate":"17/10/2017","deals":[{"type":"buy","asset":"DIRECIONAL E","termDeal":false,"termDays":null,"quantity":54,"unitPrice":6.3,"totalPrice":340.2},{"type":"buy","asset":"DIRECIONAL E","termDeal":false,"termDays":null,"quantity":4700,"unitPrice":6.3,"totalPrice":29610}],"groupedDeals":[{"asset":"DIRECIONAL E","type":"buy","termDeal":false,"termDays":null,"quantity":4754,"avgUnitPrice":6.3,"totalPrice":29950.2}]},{"noteNumber":"472267","date":"26/10/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-71136.85,"buyTotal":70971.9,"sellTotal":0,"fees":164.95,"settlementDate":"31/10/2017","deals":[{"type":"buy","asset":"CVC BRASIL O","termDeal":false,"termDays":null,"quantity":70,"unitPrice":43.59,"totalPrice":3051.3},{"type":"buy","asset":"ESTACIO PART","termDeal":false,"termDays":null,"quantity":80,"unitPrice":29.37,"totalPrice":2349.6},{"type":"buy","asset":"CVC BRASIL O","termDeal":false,"termDays":null,"quantity":1100,"unitPrice":43.59,"totalPrice":47949},{"type":"buy","asset":"ESTACIO PART","termDeal":false,"termDays":null,"quantity":600,"unitPrice":29.37,"totalPrice":17622}],"groupedDeals":[{"asset":"CVC BRASIL O","type":"buy","termDeal":false,"termDays":null,"quantity":1170,"avgUnitPrice":43.59,"totalPrice":51000.3},{"asset":"ESTACIO PART","type":"buy","termDeal":false,"termDays":null,"quantity":680,"avgUnitPrice":29.37,"totalPrice":19971.6}]},{"noteNumber":"481864","date":"01/11/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-131204.72,"buyTotal":130965.8,"sellTotal":0,"fees":238.92,"settlementDate":"07/11/2017","deals":[{"type":"buy","asset":"EMBRAER S.A.","termDeal":false,"termDays":null,"quantity":155,"unitPrice":15.84,"totalPrice":2455.2},{"type":"buy","asset":"ITAUSA INVES","termDeal":false,"termDays":null,"quantity":20,"unitPrice":10.58,"totalPrice":211.6},{"type":"buy","asset":"LOJAS AMERIC","termDeal":false,"termDays":null,"quantity":14,"unitPrice":17.5,"totalPrice":245},{"type":"buy","asset":"EMBRAER S.A.","termDeal":false,"termDays":null,"quantity":3000,"unitPrice":15.84,"totalPrice":47520},{"type":"buy","asset":"ITAUSA INVES","termDeal":false,"termDays":null,"quantity":4800,"unitPrice":10.58,"totalPrice":50784},{"type":"buy","asset":"LOJAS AMERIC","termDeal":false,"termDays":null,"quantity":1700,"unitPrice":17.5,"totalPrice":29750}],"groupedDeals":[{"asset":"EMBRAER S.A.","type":"buy","termDeal":false,"termDays":null,"quantity":3155,"avgUnitPrice":15.84,"totalPrice":49975.2},{"asset":"ITAUSA INVES","type":"buy","termDeal":false,"termDays":null,"quantity":4820,"avgUnitPrice":10.58,"totalPrice":50995.6},{"asset":"LOJAS AMERIC","type":"buy","termDeal":false,"termDays":null,"quantity":1714,"avgUnitPrice":17.5,"totalPrice":29995}]},{"noteNumber":"491339","date":"08/11/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":19940.65,"buyTotal":0,"sellTotal":19997.12,"fees":56.47,"settlementDate":"13/11/2017","deals":[{"type":"sell","asset":"SANTOS BRASI","termDeal":false,"termDays":null,"quantity":88,"unitPrice":2.99,"totalPrice":263.12},{"type":"sell","asset":"SANTOS BRASI","termDeal":false,"termDays":null,"quantity":6600,"unitPrice":2.99,"totalPrice":19734}],"groupedDeals":[{"asset":"SANTOS BRASI","type":"sell","termDeal":false,"termDays":null,"quantity":6688,"avgUnitPrice":2.99,"totalPrice":19997.12}]},{"noteNumber":"505630","date":"06/12/2016","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-70151.39,"buyTotal":69988.7,"sellTotal":0,"fees":162.69,"settlementDate":"09/12/2016","deals":[{"type":"buy","asset":"LOCALIZA","termDeal":false,"termDays":null,"quantity":85,"unitPrice":34.18,"totalPrice":2905.3},{"type":"buy","asset":"LOCALIZA","termDeal":false,"termDays":null,"quantity":77,"unitPrice":34.2,"totalPrice":2633.4},{"type":"buy","asset":"LOCALIZA","termDeal":false,"termDays":null,"quantity":500,"unitPrice":34.18,"totalPrice":17090},{"type":"buy","asset":"LOCALIZA","termDeal":false,"termDays":null,"quantity":800,"unitPrice":34.2,"totalPrice":27360},{"type":"buy","asset":"USIMINAS","termDeal":false,"termDays":null,"quantity":5000,"unitPrice":4,"totalPrice":20000}],"groupedDeals":[{"asset":"LOCALIZA","type":"buy","termDeal":false,"termDays":null,"quantity":1462,"avgUnitPrice":34.19,"totalPrice":49988.7},{"asset":"USIMINAS","type":"buy","termDeal":false,"termDays":null,"quantity":5000,"avgUnitPrice":4,"totalPrice":20000}]},{"noteNumber":"515007","date":"28/11/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-100188.88,"buyTotal":99956.5,"sellTotal":0,"fees":232.38,"settlementDate":"01/12/2017","deals":[{"type":"buy","asset":"ATACADÃO S.A","termDeal":false,"termDays":null,"quantity":33,"unitPrice":16.24,"totalPrice":535.92},{"type":"buy","asset":"ATACADÃO S.A","termDeal":false,"termDays":null,"quantity":43,"unitPrice":16.26,"totalPrice":699.18},{"type":"buy","asset":"UNICASA INDÚ","termDeal":false,"termDays":null,"quantity":8,"unitPrice":2.55,"totalPrice":20.4},{"type":"buy","asset":"ATACADÃO S.A","termDeal":false,"termDays":null,"quantity":2900,"unitPrice":16.24,"totalPrice":47096},{"type":"buy","asset":"ATACADÃO S.A","termDeal":false,"termDays":null,"quantity":100,"unitPrice":16.25,"totalPrice":1625},{"type":"buy","asset":"UNICASA INDÚ","termDeal":false,"termDays":null,"quantity":19600,"unitPrice":2.55,"totalPrice":49980}],"groupedDeals":[{"asset":"ATACADÃO S.A","type":"buy","termDeal":false,"termDays":null,"quantity":3076,"avgUnitPrice":16.24,"totalPrice":49956.1},{"asset":"UNICASA INDÚ","type":"buy","termDeal":false,"termDays":null,"quantity":19608,"avgUnitPrice":2.55,"totalPrice":50000.4}]},{"noteNumber":"538867","date":"14/12/2017","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-53168.66,"buyTotal":53045.4,"sellTotal":0,"fees":123.26,"settlementDate":"19/12/2017","deals":[{"type":"buy","asset":"PBG S/A","termDeal":false,"termDays":null,"quantity":95,"unitPrice":5.2,"totalPrice":494},{"type":"buy","asset":"RUMO S.A.","termDeal":false,"termDays":null,"quantity":16,"unitPrice":11.65,"totalPrice":186.4},{"type":"buy","asset":"PBG S/A","termDeal":false,"termDays":null,"quantity":3700,"unitPrice":5.2,"totalPrice":19240},{"type":"buy","asset":"RUMO S.A.","termDeal":false,"termDays":null,"quantity":1700,"unitPrice":11.65,"totalPrice":19805},{"type":"buy","asset":"UNICASA INDÚ","termDeal":false,"termDays":null,"quantity":6000,"unitPrice":2.22,"totalPrice":13320}],"groupedDeals":[{"asset":"PBG S/A","type":"buy","termDeal":false,"termDays":null,"quantity":3795,"avgUnitPrice":5.2,"totalPrice":19734},{"asset":"RUMO S.A.","type":"buy","termDeal":false,"termDays":null,"quantity":1716,"avgUnitPrice":11.65,"totalPrice":19991.4},{"asset":"UNICASA INDÚ","type":"buy","termDeal":false,"termDays":null,"quantity":6000,"avgUnitPrice":2.22,"totalPrice":13320}]},{"noteNumber":"568664","date":"04/12/2018","holder":"BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS","total":-51115.26,"buyTotal":50997.1,"sellTotal":0,"fees":118.16,"settlementDate":"07/12/2018","deals":[{"type":"buy","asset":"VIAVAREJO","termDeal":false,"termDays":null,"quantity":45,"unitPrice":5.18,"totalPrice":233.1},{"type":"buy","asset":"VIAVAREJO","termDeal":false,"termDays":null,"quantity":9800,"unitPrice":5.18,"totalPrice":50764}],"groupedDeals":[{"asset":"VIAVAREJO","type":"buy","termDeal":false,"termDays":null,"quantity":9845,"avgUnitPrice":5.18,"totalPrice":50997.1}]}]
+[
+  {
+    "noteNumber": "3259",
+    "date": "2016-01-06",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 49999.32,
+    "netTotal": -50140.55,
+    "buyTotal": 49999.32,
+    "sellTotal": 0,
+    "fees": 141.23,
+    "settlementDate": "2016-01-11",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 82,
+        "unitPrice": 1.26,
+        "totalValue": 103.32,
+        "operationalCost": 0.29
+      },
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 39600,
+        "unitPrice": 1.26,
+        "totalValue": 49896,
+        "operationalCost": 140.94
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "GERDAU MET",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 39682,
+        "avgUnitPrice": 1.26,
+        "totalValue": 49999.32,
+        "operationalCost": 141.23
+      }
+    ]
+  },
+  {
+    "noteNumber": "5002",
+    "date": "2016-01-07",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 105839,
+    "netTotal": 105645.85,
+    "buyTotal": 0,
+    "sellTotal": 105839,
+    "fees": 193.15,
+    "settlementDate": "2016-01-12",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 59000,
+        "unitPrice": 1.19,
+        "totalValue": 70210,
+        "operationalCost": 128.13
+      },
+      {
+        "type": "sell",
+        "asset": "VALE",
+        "termDays": null,
+        "quantity": 4100,
+        "unitPrice": 8.69,
+        "totalValue": 35629,
+        "operationalCost": 65.02
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "GERDAU MET",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 59000,
+        "avgUnitPrice": 1.19,
+        "totalValue": 70210,
+        "operationalCost": 128.13
+      },
+      {
+        "asset": "VALE",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 4100,
+        "avgUnitPrice": 8.69,
+        "totalValue": 35629,
+        "operationalCost": 65.02
+      }
+    ]
+  },
+  {
+    "noteNumber": "37485",
+    "date": "2019-01-18",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 59990.59,
+    "netTotal": -60129.74,
+    "buyTotal": 59990.59,
+    "sellTotal": 0,
+    "fees": 139.15,
+    "settlementDate": "2019-01-23",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "EVEN",
+        "termDays": null,
+        "quantity": 71,
+        "unitPrice": 6.73,
+        "totalValue": 477.83,
+        "operationalCost": 1.11
+      },
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 78,
+        "unitPrice": 5.92,
+        "totalValue": 461.76,
+        "operationalCost": 1.07
+      },
+      {
+        "type": "buy",
+        "asset": "TRISUL",
+        "termDays": null,
+        "quantity": 44,
+        "unitPrice": 4.5,
+        "totalValue": 198,
+        "operationalCost": 0.46
+      },
+      {
+        "type": "buy",
+        "asset": "EVEN",
+        "termDays": null,
+        "quantity": 2900,
+        "unitPrice": 6.73,
+        "totalValue": 19517,
+        "operationalCost": 45.27
+      },
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 3300,
+        "unitPrice": 5.92,
+        "totalValue": 19536,
+        "operationalCost": 45.31
+      },
+      {
+        "type": "buy",
+        "asset": "TRISUL",
+        "termDays": null,
+        "quantity": 4400,
+        "unitPrice": 4.5,
+        "totalValue": 19800,
+        "operationalCost": 45.93
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "EVEN",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2971,
+        "avgUnitPrice": 6.73,
+        "totalValue": 19994.83,
+        "operationalCost": 46.38
+      },
+      {
+        "asset": "MILLS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3378,
+        "avgUnitPrice": 5.92,
+        "totalValue": 19997.76,
+        "operationalCost": 46.38
+      },
+      {
+        "asset": "TRISUL",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 4444,
+        "avgUnitPrice": 4.5,
+        "totalValue": 19998,
+        "operationalCost": 46.39
+      }
+    ]
+  },
+  {
+    "noteNumber": "52596",
+    "date": "2019-01-28",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 102435.41,
+    "netTotal": -102570.58,
+    "buyTotal": 102435.41,
+    "sellTotal": 0,
+    "fees": 135.17,
+    "settlementDate": "2019-01-31",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRADESPAR",
+        "termDays": null,
+        "quantity": 13,
+        "unitPrice": 28,
+        "totalValue": 364,
+        "operationalCost": 0.48
+      },
+      {
+        "type": "buy",
+        "asset": "BRADESPAR",
+        "termDays": null,
+        "quantity": 11,
+        "unitPrice": 28.15,
+        "totalValue": 309.65,
+        "operationalCost": 0.41
+      },
+      {
+        "type": "buy",
+        "asset": "BRADESPAR",
+        "termDays": null,
+        "quantity": 92,
+        "unitPrice": 28.53,
+        "totalValue": 2624.76,
+        "operationalCost": 3.46
+      },
+      {
+        "type": "buy",
+        "asset": "BRADESPAR",
+        "termDays": null,
+        "quantity": 1800,
+        "unitPrice": 28.15,
+        "totalValue": 50670,
+        "operationalCost": 66.86
+      },
+      {
+        "type": "buy",
+        "asset": "BRADESPAR",
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 28.51,
+        "totalValue": 48467,
+        "operationalCost": 63.96
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRADESPAR",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3616,
+        "avgUnitPrice": 28.33,
+        "totalValue": 102435.41,
+        "operationalCost": 135.17
+      }
+    ]
+  },
+  {
+    "noteNumber": "76320",
+    "date": "2018-02-20",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 59792.92,
+    "netTotal": -162.29,
+    "buyTotal": 29908.12,
+    "sellTotal": 29884.8,
+    "fees": 138.97,
+    "settlementDate": "2018-02-23",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "GUARARAPES C",
+        "termDays": null,
+        "quantity": 2,
+        "unitPrice": 148.06,
+        "totalValue": 296.12,
+        "operationalCost": 0.69
+      },
+      {
+        "type": "sell",
+        "asset": "      NMUNICASA INDÚ",
+        "termDays": null,
+        "quantity": 20,
+        "unitPrice": 2.64,
+        "totalValue": 52.8,
+        "operationalCost": 0.12
+      },
+      {
+        "type": "buy",
+        "asset": "GUARARAPES C",
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 148.06,
+        "totalValue": 29612,
+        "operationalCost": 68.82
+      },
+      {
+        "type": "sell",
+        "asset": "      NMUNICASA INDÚ",
+        "termDays": null,
+        "quantity": 11300,
+        "unitPrice": 2.64,
+        "totalValue": 29832,
+        "operationalCost": 69.34
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "GUARARAPES C",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 202,
+        "avgUnitPrice": 148.06,
+        "totalValue": 29908.12,
+        "operationalCost": 69.51
+      },
+      {
+        "asset": "      NMUNICASA INDÚ",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 11320,
+        "avgUnitPrice": 2.64,
+        "totalValue": 29884.8,
+        "operationalCost": 69.46
+      }
+    ]
+  },
+  {
+    "noteNumber": "86559",
+    "date": "2018-02-26",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 50095.61,
+    "netTotal": -50212.04,
+    "buyTotal": 50095.61,
+    "sellTotal": 0,
+    "fees": 116.43,
+    "settlementDate": "2018-03-01",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "CCR S.A.",
+        "termDays": null,
+        "quantity": 79,
+        "unitPrice": 12.59,
+        "totalValue": 994.61,
+        "operationalCost": 2.31
+      },
+      {
+        "type": "buy",
+        "asset": "CCR S.A.",
+        "termDays": null,
+        "quantity": 3900,
+        "unitPrice": 12.59,
+        "totalValue": 49101,
+        "operationalCost": 114.12
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "CCR S.A.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3979,
+        "avgUnitPrice": 12.59,
+        "totalValue": 50095.61,
+        "operationalCost": 116.43
+      }
+    ]
+  },
+  {
+    "noteNumber": "96442",
+    "date": "2016-03-17",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 46772.5,
+    "netTotal": 46640.38,
+    "buyTotal": 0,
+    "sellTotal": 46772.5,
+    "fees": 132.12,
+    "settlementDate": "2016-03-22",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 65,
+        "unitPrice": 26.5,
+        "totalValue": 1722.5,
+        "operationalCost": 4.87
+      },
+      {
+        "type": "sell",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 26.5,
+        "totalValue": 45050,
+        "operationalCost": 127.25
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRADESCO",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 1765,
+        "avgUnitPrice": 26.5,
+        "totalValue": 46772.5,
+        "operationalCost": 132.12
+      }
+    ]
+  },
+  {
+    "noteNumber": "108221",
+    "date": "2018-03-08",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 19999.85,
+    "netTotal": -20056.26,
+    "buyTotal": 19999.85,
+    "sellTotal": 0,
+    "fees": 56.41,
+    "settlementDate": "2018-03-13",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "SANTOS BRASI",
+        "termDays": null,
+        "quantity": 5,
+        "unitPrice": 3.77,
+        "totalValue": 18.85,
+        "operationalCost": 0.05
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRASI",
+        "termDays": null,
+        "quantity": 5300,
+        "unitPrice": 3.77,
+        "totalValue": 19981,
+        "operationalCost": 56.36
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "SANTOS BRASI",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 5305,
+        "avgUnitPrice": 3.77,
+        "totalValue": 19999.85,
+        "operationalCost": 56.41
+      }
+    ]
+  },
+  {
+    "noteNumber": "114338",
+    "date": "2019-02-26",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 99979.8,
+    "netTotal": -100211.27,
+    "buyTotal": 99979.8,
+    "sellTotal": 0,
+    "fees": 231.47,
+    "settlementDate": "2019-03-01",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "B",
+        "termDays": null,
+        "quantity": 65,
+        "unitPrice": 33.72,
+        "totalValue": 2191.8,
+        "operationalCost": 5.07
+      },
+      {
+        "type": "buy",
+        "asset": "B",
+        "termDays": null,
+        "quantity": 2900,
+        "unitPrice": 33.72,
+        "totalValue": 97788,
+        "operationalCost": 226.4
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "B",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2965,
+        "avgUnitPrice": 33.72,
+        "totalValue": 99979.8,
+        "operationalCost": 231.47
+      }
+    ]
+  },
+  {
+    "noteNumber": "127495",
+    "date": "2017-03-17",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 29820,
+    "netTotal": -29904.24,
+    "buyTotal": 29820,
+    "sellTotal": 0,
+    "fees": 84.24,
+    "settlementDate": "2017-03-22",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDays": null,
+        "quantity": 14200,
+        "unitPrice": 2.1,
+        "totalValue": 29820,
+        "operationalCost": 84.24
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "SANTOS BRP",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 14200,
+        "avgUnitPrice": 2.1,
+        "totalValue": 29820,
+        "operationalCost": 84.24
+      }
+    ]
+  },
+  {
+    "noteNumber": "131288",
+    "date": "2018-03-22",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 79982.7,
+    "netTotal": -80168.37,
+    "buyTotal": 79982.7,
+    "sellTotal": 0,
+    "fees": 185.67,
+    "settlementDate": "2018-03-27",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "CIA LOCAÇÃO",
+        "termDays": null,
+        "quantity": 99,
+        "unitPrice": 31.26,
+        "totalValue": 3094.74,
+        "operationalCost": 7.18
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRASI",
+        "termDays": null,
+        "quantity": 74,
+        "unitPrice": 3.54,
+        "totalValue": 261.96,
+        "operationalCost": 0.61
+      },
+      {
+        "type": "buy",
+        "asset": "CIA LOCAÇÃO",
+        "termDays": null,
+        "quantity": 1500,
+        "unitPrice": 31.26,
+        "totalValue": 46890,
+        "operationalCost": 108.85
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRASI",
+        "termDays": null,
+        "quantity": 8400,
+        "unitPrice": 3.54,
+        "totalValue": 29736,
+        "operationalCost": 69.03
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "CIA LOCAÇÃO",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1599,
+        "avgUnitPrice": 31.26,
+        "totalValue": 49984.74,
+        "operationalCost": 116.03
+      },
+      {
+        "asset": "SANTOS BRASI",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 8474,
+        "avgUnitPrice": 3.54,
+        "totalValue": 29997.96,
+        "operationalCost": 69.64
+      }
+    ]
+  },
+  {
+    "noteNumber": "132660",
+    "date": "2017-03-21",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 39977,
+    "netTotal": -40089.92,
+    "buyTotal": 39977,
+    "sellTotal": 0,
+    "fees": 112.92,
+    "settlementDate": "2017-03-24",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRADESPAR",
+        "termDays": null,
+        "quantity": 61,
+        "unitPrice": 20.8,
+        "totalValue": 1268.8,
+        "operationalCost": 3.58
+      },
+      {
+        "type": "buy",
+        "asset": "VALE",
+        "termDays": null,
+        "quantity": 19,
+        "unitPrice": 27.8,
+        "totalValue": 528.2,
+        "operationalCost": 1.49
+      },
+      {
+        "type": "buy",
+        "asset": "BRADESPAR",
+        "termDays": null,
+        "quantity": 900,
+        "unitPrice": 20.8,
+        "totalValue": 18720,
+        "operationalCost": 52.88
+      },
+      {
+        "type": "buy",
+        "asset": "VALE",
+        "termDays": null,
+        "quantity": 700,
+        "unitPrice": 27.8,
+        "totalValue": 19460,
+        "operationalCost": 54.97
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRADESPAR",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 961,
+        "avgUnitPrice": 20.8,
+        "totalValue": 19988.8,
+        "operationalCost": 56.46
+      },
+      {
+        "asset": "VALE",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 719,
+        "avgUnitPrice": 27.8,
+        "totalValue": 19988.2,
+        "operationalCost": 56.46
+      }
+    ]
+  },
+  {
+    "noteNumber": "141337",
+    "date": "2017-03-27",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 19997.1,
+    "netTotal": -20053.57,
+    "buyTotal": 19997.1,
+    "sellTotal": 0,
+    "fees": 56.47,
+    "settlementDate": "2017-03-30",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 21,
+        "unitPrice": 5.1,
+        "totalValue": 107.1,
+        "operationalCost": 0.3
+      },
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 3900,
+        "unitPrice": 5.1,
+        "totalValue": 19890,
+        "operationalCost": 56.17
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "GERDAU MET",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3921,
+        "avgUnitPrice": 5.1,
+        "totalValue": 19997.1,
+        "operationalCost": 56.47
+      }
+    ]
+  },
+  {
+    "noteNumber": "146107",
+    "date": "2016-04-18",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 14998.08,
+    "netTotal": -15040.44,
+    "buyTotal": 14998.08,
+    "sellTotal": 0,
+    "fees": 42.36,
+    "settlementDate": "2016-04-22",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 14,
+        "unitPrice": 2.72,
+        "totalValue": 38.08,
+        "operationalCost": 0.11
+      },
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 5500,
+        "unitPrice": 2.72,
+        "totalValue": 14960,
+        "operationalCost": 42.25
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "GERDAU MET",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 5514,
+        "avgUnitPrice": 2.72,
+        "totalValue": 14998.08,
+        "operationalCost": 42.36
+      }
+    ]
+  },
+  {
+    "noteNumber": "147944",
+    "date": "2018-04-04",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 59993.64,
+    "netTotal": -60133.02,
+    "buyTotal": 59993.64,
+    "sellTotal": 0,
+    "fees": 139.38,
+    "settlementDate": "2018-04-09",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "M.DIAS BRANC",
+        "termDays": null,
+        "quantity": 97,
+        "unitPrice": 50.12,
+        "totalValue": 4861.64,
+        "operationalCost": 11.29
+      },
+      {
+        "type": "buy",
+        "asset": "M.DIAS BRANC",
+        "termDays": null,
+        "quantity": 1100,
+        "unitPrice": 50.12,
+        "totalValue": 55132,
+        "operationalCost": 128.09
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "M.DIAS BRANC",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1197,
+        "avgUnitPrice": 50.12,
+        "totalValue": 59993.64,
+        "operationalCost": 139.38
+      }
+    ]
+  },
+  {
+    "noteNumber": "148466",
+    "date": "2016-04-19",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 16340.32,
+    "netTotal": 16294.17,
+    "buyTotal": 0,
+    "sellTotal": 16340.32,
+    "fees": 46.15,
+    "settlementDate": "2016-04-25",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 96,
+        "unitPrice": 2.92,
+        "totalValue": 280.32,
+        "operationalCost": 0.79
+      },
+      {
+        "type": "sell",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 5500,
+        "unitPrice": 2.92,
+        "totalValue": 16060,
+        "operationalCost": 45.36
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "GERDAU MET",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 5596,
+        "avgUnitPrice": 2.92,
+        "totalValue": 16340.32,
+        "operationalCost": 46.15
+      }
+    ]
+  },
+  {
+    "noteNumber": "152178",
+    "date": "2018-04-06",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 50868.88,
+    "netTotal": -50987.06,
+    "buyTotal": 50868.88,
+    "sellTotal": 0,
+    "fees": 118.18,
+    "settlementDate": "2018-04-11",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "MULTIPLUS S.",
+        "termDays": null,
+        "quantity": 48,
+        "unitPrice": 29.56,
+        "totalValue": 1418.88,
+        "operationalCost": 3.3
+      },
+      {
+        "type": "buy",
+        "asset": "MULTIPLUS S.",
+        "termDays": null,
+        "quantity": 1000,
+        "unitPrice": 29.56,
+        "totalValue": 29560,
+        "operationalCost": 68.67
+      },
+      {
+        "type": "buy",
+        "asset": "TRISUL S.A.",
+        "termDays": null,
+        "quantity": 3400,
+        "unitPrice": 5.85,
+        "totalValue": 19890,
+        "operationalCost": 46.21
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "MULTIPLUS S.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1048,
+        "avgUnitPrice": 29.56,
+        "totalValue": 30978.88,
+        "operationalCost": 71.97
+      },
+      {
+        "asset": "TRISUL S.A.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3400,
+        "avgUnitPrice": 5.85,
+        "totalValue": 19890,
+        "operationalCost": 46.21
+      }
+    ]
+  },
+  {
+    "noteNumber": "154975",
+    "date": "2016-04-25",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 14997.84,
+    "netTotal": -15040.19,
+    "buyTotal": 14997.84,
+    "sellTotal": 0,
+    "fees": 42.35,
+    "settlementDate": "2016-04-28",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 34,
+        "unitPrice": 2.76,
+        "totalValue": 93.84,
+        "operationalCost": 0.26
+      },
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 5400,
+        "unitPrice": 2.76,
+        "totalValue": 14904,
+        "operationalCost": 42.09
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "GERDAU MET",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 5434,
+        "avgUnitPrice": 2.76,
+        "totalValue": 14997.84,
+        "operationalCost": 42.35
+      }
+    ]
+  },
+  {
+    "noteNumber": "158633",
+    "date": "2018-04-11",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 9999.23,
+    "netTotal": 9971.02,
+    "buyTotal": 0,
+    "sellTotal": 9999.23,
+    "fees": 28.21,
+    "settlementDate": "2018-04-16",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "PBG S/A",
+        "termDays": null,
+        "quantity": 61,
+        "unitPrice": 5.33,
+        "totalValue": 325.13,
+        "operationalCost": 0.92
+      },
+      {
+        "type": "sell",
+        "asset": "PBG S/A",
+        "termDays": null,
+        "quantity": 15,
+        "unitPrice": 5.34,
+        "totalValue": 80.1,
+        "operationalCost": 0.23
+      },
+      {
+        "type": "sell",
+        "asset": "PBG S/A",
+        "termDays": null,
+        "quantity": 1800,
+        "unitPrice": 5.33,
+        "totalValue": 9594,
+        "operationalCost": 27.07
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "PBG S/A",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 1876,
+        "avgUnitPrice": 5.33,
+        "totalValue": 9999.23,
+        "operationalCost": 28.22
+      }
+    ]
+  },
+  {
+    "noteNumber": "159110",
+    "date": "2016-04-27",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 56094.34,
+    "netTotal": -24164.55,
+    "buyTotal": 40064.04,
+    "sellTotal": 16030.3,
+    "fees": 130.81,
+    "settlementDate": "2016-05-02",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 48,
+        "unitPrice": 26.73,
+        "totalValue": 1283.04,
+        "operationalCost": 2.99
+      },
+      {
+        "type": "sell",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 34,
+        "unitPrice": 2.95,
+        "totalValue": 100.3,
+        "operationalCost": 0.23
+      },
+      {
+        "type": "buy",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 700,
+        "unitPrice": 26.73,
+        "totalValue": 18711,
+        "operationalCost": 43.63
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 900,
+        "unitPrice": 22.3,
+        "totalValue": 20070,
+        "operationalCost": 46.8
+      },
+      {
+        "type": "sell",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 5400,
+        "unitPrice": 2.95,
+        "totalValue": 15930,
+        "operationalCost": 37.15
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRADESCO",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 748,
+        "avgUnitPrice": 26.73,
+        "totalValue": 19994.04,
+        "operationalCost": 46.62
+      },
+      {
+        "asset": "GERDAU MET",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 5434,
+        "avgUnitPrice": 2.95,
+        "totalValue": 16030.3,
+        "operationalCost": 37.38
+      },
+      {
+        "asset": "BRASIL",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 900,
+        "avgUnitPrice": 22.3,
+        "totalValue": 20070,
+        "operationalCost": 46.8
+      }
+    ]
+  },
+  {
+    "noteNumber": "164374",
+    "date": "2017-04-11",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 9996.3,
+    "netTotal": -10024.52,
+    "buyTotal": 9996.3,
+    "sellTotal": 0,
+    "fees": 28.22,
+    "settlementDate": "2017-04-17",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 98,
+        "unitPrice": 4.35,
+        "totalValue": 426.3,
+        "operationalCost": 1.2
+      },
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 2200,
+        "unitPrice": 4.35,
+        "totalValue": 9570,
+        "operationalCost": 27.02
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "GERDAU MET",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2298,
+        "avgUnitPrice": 4.35,
+        "totalValue": 9996.3,
+        "operationalCost": 28.22
+      }
+    ]
+  },
+  {
+    "noteNumber": "166031",
+    "date": "2016-05-02",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 19841,
+    "netTotal": -19897.03,
+    "buyTotal": 19841,
+    "sellTotal": 0,
+    "fees": 56.03,
+    "settlementDate": "2016-05-05",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 68,
+        "unitPrice": 2.5,
+        "totalValue": 170,
+        "operationalCost": 0.48
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 7900,
+        "unitPrice": 2.49,
+        "totalValue": 19671,
+        "operationalCost": 55.55
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "USIMINAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 7968,
+        "avgUnitPrice": 2.49,
+        "totalValue": 19841,
+        "operationalCost": 56.03
+      }
+    ]
+  },
+  {
+    "noteNumber": "167992",
+    "date": "2016-05-03",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 89927.95,
+    "netTotal": -90137.03,
+    "buyTotal": 89927.95,
+    "sellTotal": 0,
+    "fees": 209.08,
+    "settlementDate": "2016-05-06",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 69,
+        "unitPrice": 20.65,
+        "totalValue": 1424.85,
+        "operationalCost": 3.31
+      },
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 18,
+        "unitPrice": 2.65,
+        "totalValue": 47.7,
+        "operationalCost": 0.11
+      },
+      {
+        "type": "buy",
+        "asset": "ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 90,
+        "unitPrice": 30.3,
+        "totalValue": 2727,
+        "operationalCost": 6.34
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 20,
+        "unitPrice": 2.32,
+        "totalValue": 46.4,
+        "operationalCost": 0.11
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 900,
+        "unitPrice": 20.65,
+        "totalValue": 18585,
+        "operationalCost": 43.21
+      },
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 7500,
+        "unitPrice": 2.65,
+        "totalValue": 19875,
+        "operationalCost": 46.21
+      },
+      {
+        "type": "buy",
+        "asset": "ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 900,
+        "unitPrice": 30.3,
+        "totalValue": 27270,
+        "operationalCost": 63.4
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 8600,
+        "unitPrice": 2.32,
+        "totalValue": 19952,
+        "operationalCost": 46.39
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRASIL",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 969,
+        "avgUnitPrice": 20.65,
+        "totalValue": 20009.85,
+        "operationalCost": 46.52
+      },
+      {
+        "asset": "GERDAU MET",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 7518,
+        "avgUnitPrice": 2.65,
+        "totalValue": 19922.7,
+        "operationalCost": 46.32
+      },
+      {
+        "asset": "ITAUUNIBANCO",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 990,
+        "avgUnitPrice": 30.3,
+        "totalValue": 29997,
+        "operationalCost": 69.74
+      },
+      {
+        "asset": "USIMINAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 8620,
+        "avgUnitPrice": 2.32,
+        "totalValue": 19998.4,
+        "operationalCost": 46.5
+      }
+    ]
+  },
+  {
+    "noteNumber": "176257",
+    "date": "2016-05-09",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 29551.5,
+    "netTotal": 29468.03,
+    "buyTotal": 0,
+    "sellTotal": 29551.5,
+    "fees": 83.47,
+    "settlementDate": "2016-05-12",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 90,
+        "unitPrice": 29.85,
+        "totalValue": 2686.5,
+        "operationalCost": 7.59
+      },
+      {
+        "type": "sell",
+        "asset": "ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 900,
+        "unitPrice": 29.85,
+        "totalValue": 26865,
+        "operationalCost": 75.88
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ITAUUNIBANCO",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 990,
+        "avgUnitPrice": 29.85,
+        "totalValue": 29551.5,
+        "operationalCost": 83.47
+      }
+    ]
+  },
+  {
+    "noteNumber": "198470",
+    "date": "2017-05-08",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 9996,
+    "netTotal": -10024.22,
+    "buyTotal": 9996,
+    "sellTotal": 0,
+    "fees": 28.22,
+    "settlementDate": "2017-05-11",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ALIANSCE",
+        "termDays": null,
+        "quantity": 80,
+        "unitPrice": 14.7,
+        "totalValue": 1176,
+        "operationalCost": 3.32
+      },
+      {
+        "type": "buy",
+        "asset": "ALIANSCE",
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 14.7,
+        "totalValue": 8820,
+        "operationalCost": 24.9
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ALIANSCE",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 680,
+        "avgUnitPrice": 14.7,
+        "totalValue": 9996,
+        "operationalCost": 28.22
+      }
+    ]
+  },
+  {
+    "noteNumber": "200530",
+    "date": "2018-05-09",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 28960,
+    "netTotal": -29042.38,
+    "buyTotal": 28960,
+    "sellTotal": 0,
+    "fees": 82.38,
+    "settlementDate": "2018-05-14",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "CIA HERING",
+        "termDays": null,
+        "quantity": 1600,
+        "unitPrice": 18.1,
+        "totalValue": 28960,
+        "operationalCost": 82.38
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "CIA HERING",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1600,
+        "avgUnitPrice": 18.1,
+        "totalValue": 28960,
+        "operationalCost": 82.38
+      }
+    ]
+  },
+  {
+    "noteNumber": "208916",
+    "date": "2018-05-14",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 64509.33,
+    "netTotal": 64359.41,
+    "buyTotal": 0,
+    "sellTotal": 64509.33,
+    "fees": 149.92,
+    "settlementDate": "2018-05-17",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "  EDJ NMPORTOBELLO",
+        "termDays": null,
+        "quantity": 19,
+        "unitPrice": 4.88,
+        "totalValue": 92.72,
+        "operationalCost": 0.22
+      },
+      {
+        "type": "sell",
+        "asset": "      NMVALE",
+        "termDays": null,
+        "quantity": 71,
+        "unitPrice": 53.91,
+        "totalValue": 3827.61,
+        "operationalCost": 8.9
+      },
+      {
+        "type": "sell",
+        "asset": "  EDJ NMPORTOBELLO",
+        "termDays": null,
+        "quantity": 1900,
+        "unitPrice": 4.87,
+        "totalValue": 9253,
+        "operationalCost": 21.5
+      },
+      {
+        "type": "sell",
+        "asset": "      NMTRISUL",
+        "termDays": null,
+        "quantity": 6800,
+        "unitPrice": 2.79,
+        "totalValue": 18972,
+        "operationalCost": 44.09
+      },
+      {
+        "type": "sell",
+        "asset": "      NMVALE",
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 53.94,
+        "totalValue": 32364,
+        "operationalCost": 75.21
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "  EDJ NMPORTOBELLO",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 1919,
+        "avgUnitPrice": 4.87,
+        "totalValue": 9345.72,
+        "operationalCost": 21.72
+      },
+      {
+        "asset": "      NMVALE",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 671,
+        "avgUnitPrice": 53.94,
+        "totalValue": 36191.61,
+        "operationalCost": 84.11
+      },
+      {
+        "asset": "      NMTRISUL",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 6800,
+        "avgUnitPrice": 2.79,
+        "totalValue": 18972,
+        "operationalCost": 44.09
+      }
+    ]
+  },
+  {
+    "noteNumber": "219841",
+    "date": "2018-05-18",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 125821.38,
+    "netTotal": 266.67,
+    "buyTotal": 62662.6,
+    "sellTotal": 63158.78,
+    "fees": 229.51,
+    "settlementDate": "2018-05-23",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDays": null,
+        "quantity": 1,
+        "unitPrice": 2.6,
+        "totalValue": 2.6,
+        "operationalCost": 0
+      },
+      {
+        "type": "sell",
+        "asset": "LOJAS AMERIC",
+        "termDays": null,
+        "quantity": 68,
+        "unitPrice": 13.25,
+        "totalValue": 901,
+        "operationalCost": 1.64
+      },
+      {
+        "type": "sell",
+        "asset": "LOJAS AMERIC",
+        "termDays": null,
+        "quantity": 14,
+        "unitPrice": 17.77,
+        "totalValue": 248.78,
+        "operationalCost": 0.45
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDays": null,
+        "quantity": 24100,
+        "unitPrice": 2.6,
+        "totalValue": 62660,
+        "operationalCost": 114.3
+      },
+      {
+        "type": "sell",
+        "asset": "LOJAS AMERIC",
+        "termDays": null,
+        "quantity": 2400,
+        "unitPrice": 13.25,
+        "totalValue": 31800,
+        "operationalCost": 58.01
+      },
+      {
+        "type": "sell",
+        "asset": "LOJAS AMERIC",
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 17.77,
+        "totalValue": 30209,
+        "operationalCost": 55.1
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "SANTOS BRP",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 24101,
+        "avgUnitPrice": 2.6,
+        "totalValue": 62662.6,
+        "operationalCost": 114.3
+      },
+      {
+        "asset": "LOJAS AMERIC",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 4182,
+        "avgUnitPrice": 15.1,
+        "totalValue": 63158.78,
+        "operationalCost": 115.2
+      }
+    ]
+  },
+  {
+    "noteNumber": "229936",
+    "date": "2018-05-24",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 201311.44,
+    "netTotal": -201678.66,
+    "buyTotal": 201311.44,
+    "sellTotal": 0,
+    "fees": 367.22,
+    "settlementDate": "2018-05-29",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 60,
+        "unitPrice": 20.49,
+        "totalValue": 1229.4,
+        "operationalCost": 2.24
+      },
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 8,
+        "unitPrice": 20.63,
+        "totalValue": 165.04,
+        "operationalCost": 0.3
+      },
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 9700,
+        "unitPrice": 20.61,
+        "totalValue": 199917,
+        "operationalCost": 364.68
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "PETROBRAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 9768,
+        "avgUnitPrice": 20.61,
+        "totalValue": 201311.44,
+        "operationalCost": 367.22
+      }
+    ]
+  },
+  {
+    "noteNumber": "242005",
+    "date": "2016-06-28",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 31.6,
+    "netTotal": -41.6,
+    "buyTotal": 31.6,
+    "sellTotal": 0,
+    "fees": 10,
+    "settlementDate": "2016-07-01",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 2,
+        "unitPrice": 15.8,
+        "totalValue": 31.6,
+        "operationalCost": 10
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRASIL",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2,
+        "avgUnitPrice": 15.8,
+        "totalValue": 31.6,
+        "operationalCost": 10
+      }
+    ]
+  },
+  {
+    "noteNumber": "244009",
+    "date": "2016-06-29",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 19998,
+    "netTotal": -20054.87,
+    "buyTotal": 19998,
+    "sellTotal": 0,
+    "fees": 56.87,
+    "settlementDate": "2016-07-04",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 9900,
+        "unitPrice": 2.02,
+        "totalValue": 19998,
+        "operationalCost": 56.87
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "USIMINAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 9900,
+        "avgUnitPrice": 2.02,
+        "totalValue": 19998,
+        "operationalCost": 56.87
+      }
+    ]
+  },
+  {
+    "noteNumber": "246107",
+    "date": "2018-06-01",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 199993.28,
+    "netTotal": -200258.09,
+    "buyTotal": 199993.28,
+    "sellTotal": 0,
+    "fees": 264.81,
+    "settlementDate": "2018-06-06",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 72,
+        "unitPrice": 18.74,
+        "totalValue": 1349.28,
+        "operationalCost": 1.79
+      },
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 10600,
+        "unitPrice": 18.74,
+        "totalValue": 198644,
+        "operationalCost": 263.02
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "PETROBRAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 10672,
+        "avgUnitPrice": 18.74,
+        "totalValue": 199993.28,
+        "operationalCost": 264.81
+      }
+    ]
+  },
+  {
+    "noteNumber": "247145",
+    "date": "2017-06-02",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 33342.58,
+    "netTotal": 26548.22,
+    "buyTotal": 3350.1,
+    "sellTotal": 29992.48,
+    "fees": 94.16,
+    "settlementDate": "2017-06-07",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDays": null,
+        "quantity": 18,
+        "unitPrice": 1.95,
+        "totalValue": 35.1,
+        "operationalCost": 0.1
+      },
+      {
+        "type": "sell",
+        "asset": "ITAUSA",
+        "termDays": null,
+        "quantity": 16,
+        "unitPrice": 8.78,
+        "totalValue": 140.48,
+        "operationalCost": 0.4
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 1.95,
+        "totalValue": 3315,
+        "operationalCost": 9.36
+      },
+      {
+        "type": "sell",
+        "asset": "ITAUSA",
+        "termDays": null,
+        "quantity": 3400,
+        "unitPrice": 8.78,
+        "totalValue": 29852,
+        "operationalCost": 84.3
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "SANTOS BRP",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1718,
+        "avgUnitPrice": 1.95,
+        "totalValue": 3350.1,
+        "operationalCost": 9.46
+      },
+      {
+        "asset": "ITAUSA",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 3416,
+        "avgUnitPrice": 8.78,
+        "totalValue": 29992.48,
+        "operationalCost": 84.7
+      }
+    ]
+  },
+  {
+    "noteNumber": "249235",
+    "date": "2017-06-05",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 49966.33,
+    "netTotal": -50107.46,
+    "buyTotal": 49966.33,
+    "sellTotal": 0,
+    "fees": 141.13,
+    "settlementDate": "2017-06-08",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "RUMO S.A.",
+        "termDays": null,
+        "quantity": 21,
+        "unitPrice": 7.85,
+        "totalValue": 164.85,
+        "operationalCost": 0.47
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDays": null,
+        "quantity": 50,
+        "unitPrice": 1.98,
+        "totalValue": 99,
+        "operationalCost": 0.28
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 44,
+        "unitPrice": 3.92,
+        "totalValue": 172.48,
+        "operationalCost": 0.49
+      },
+      {
+        "type": "buy",
+        "asset": "RUMO S.A.",
+        "termDays": null,
+        "quantity": 3800,
+        "unitPrice": 7.85,
+        "totalValue": 29830,
+        "operationalCost": 84.25
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDays": null,
+        "quantity": 5000,
+        "unitPrice": 1.98,
+        "totalValue": 9900,
+        "operationalCost": 27.96
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 2500,
+        "unitPrice": 3.92,
+        "totalValue": 9800,
+        "operationalCost": 27.68
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "RUMO S.A.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3821,
+        "avgUnitPrice": 7.85,
+        "totalValue": 29994.85,
+        "operationalCost": 84.72
+      },
+      {
+        "asset": "SANTOS BRP",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 5050,
+        "avgUnitPrice": 1.98,
+        "totalValue": 9999,
+        "operationalCost": 28.24
+      },
+      {
+        "asset": "USIMINAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2544,
+        "avgUnitPrice": 3.92,
+        "totalValue": 9972.48,
+        "operationalCost": 28.17
+      }
+    ]
+  },
+  {
+    "noteNumber": "254839",
+    "date": "2017-06-08",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 49912.37,
+    "netTotal": -50053.34,
+    "buyTotal": 49912.37,
+    "sellTotal": 0,
+    "fees": 140.97,
+    "settlementDate": "2017-06-13",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ALIANSCE",
+        "termDays": null,
+        "quantity": 13,
+        "unitPrice": 14.9,
+        "totalValue": 193.7,
+        "operationalCost": 0.55
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDays": null,
+        "quantity": 11,
+        "unitPrice": 1.97,
+        "totalValue": 21.67,
+        "operationalCost": 0.06
+      },
+      {
+        "type": "buy",
+        "asset": "ALIANSCE",
+        "termDays": null,
+        "quantity": 2000,
+        "unitPrice": 14.9,
+        "totalValue": 29800,
+        "operationalCost": 84.17
+      },
+      {
+        "type": "buy",
+        "asset": "SANTOS BRP",
+        "termDays": null,
+        "quantity": 10100,
+        "unitPrice": 1.97,
+        "totalValue": 19897,
+        "operationalCost": 56.2
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ALIANSCE",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2013,
+        "avgUnitPrice": 14.9,
+        "totalValue": 29993.7,
+        "operationalCost": 84.72
+      },
+      {
+        "asset": "SANTOS BRP",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 10111,
+        "avgUnitPrice": 1.97,
+        "totalValue": 19918.67,
+        "operationalCost": 56.26
+      }
+    ]
+  },
+  {
+    "noteNumber": "261588",
+    "date": "2016-07-11",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 48184.36,
+    "netTotal": 48047.28,
+    "buyTotal": 0,
+    "sellTotal": 48184.36,
+    "fees": 137.08,
+    "settlementDate": "2016-07-14",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 51,
+        "unitPrice": 10.36,
+        "totalValue": 528.36,
+        "operationalCost": 1.5
+      },
+      {
+        "type": "sell",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 4600,
+        "unitPrice": 10.36,
+        "totalValue": 47656,
+        "operationalCost": 135.58
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "PETROBRAS",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 4651,
+        "avgUnitPrice": 10.36,
+        "totalValue": 48184.36,
+        "operationalCost": 137.08
+      }
+    ]
+  },
+  {
+    "noteNumber": "269353",
+    "date": "2016-07-14",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 20846.76,
+    "netTotal": 20787.87,
+    "buyTotal": 0,
+    "sellTotal": 20846.76,
+    "fees": 58.89,
+    "settlementDate": "2016-07-19",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 48,
+        "unitPrice": 27.87,
+        "totalValue": 1337.76,
+        "operationalCost": 3.78
+      },
+      {
+        "type": "sell",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 700,
+        "unitPrice": 27.87,
+        "totalValue": 19509,
+        "operationalCost": 55.11
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRADESCO",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 748,
+        "avgUnitPrice": 27.87,
+        "totalValue": 20846.76,
+        "operationalCost": 58.89
+      }
+    ]
+  },
+  {
+    "noteNumber": "272047",
+    "date": "2016-07-15",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 63048.13,
+    "netTotal": 62901.55,
+    "buyTotal": 0,
+    "sellTotal": 63048.13,
+    "fees": 146.58,
+    "settlementDate": "2016-07-20",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "VALE",
+        "termDays": null,
+        "quantity": 73,
+        "unitPrice": 13.81,
+        "totalValue": 1008.13,
+        "operationalCost": 2.34
+      },
+      {
+        "type": "sell",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 26400,
+        "unitPrice": 2.35,
+        "totalValue": 62040,
+        "operationalCost": 144.24
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "VALE",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 73,
+        "avgUnitPrice": 13.81,
+        "totalValue": 1008.13,
+        "operationalCost": 2.34
+      },
+      {
+        "asset": "USIMINAS",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 26400,
+        "avgUnitPrice": 2.35,
+        "totalValue": 62040,
+        "operationalCost": 144.24
+      }
+    ]
+  },
+  {
+    "noteNumber": "272073",
+    "date": "2017-06-22",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 19994,
+    "netTotal": -20050.46,
+    "buyTotal": 19994,
+    "sellTotal": 0,
+    "fees": 56.46,
+    "settlementDate": "2017-06-27",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 69,
+        "unitPrice": 26,
+        "totalValue": 1794,
+        "operationalCost": 5.07
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 700,
+        "unitPrice": 26,
+        "totalValue": 18200,
+        "operationalCost": 51.39
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRASIL",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 769,
+        "avgUnitPrice": 26,
+        "totalValue": 19994,
+        "operationalCost": 56.46
+      }
+    ]
+  },
+  {
+    "noteNumber": "277334",
+    "date": "2016-07-19",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 53.13,
+    "netTotal": 43.12,
+    "buyTotal": 0,
+    "sellTotal": 53.13,
+    "fees": 10.01,
+    "settlementDate": "2016-07-22",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 21,
+        "unitPrice": 2.53,
+        "totalValue": 53.13,
+        "operationalCost": 10.01
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "USIMINAS",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 21,
+        "avgUnitPrice": 2.53,
+        "totalValue": 53.13,
+        "operationalCost": 10.01
+      }
+    ]
+  },
+  {
+    "noteNumber": "280403",
+    "date": "2015-08-25",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 69968.29,
+    "netTotal": -70130.96,
+    "buyTotal": 69968.29,
+    "sellTotal": 0,
+    "fees": 162.67,
+    "settlementDate": "2015-08-28",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "      N1BRADESCO",
+        "termDays": null,
+        "quantity": 31,
+        "unitPrice": 23.27,
+        "totalValue": 721.37,
+        "operationalCost": 1.68
+      },
+      {
+        "type": "buy",
+        "asset": "      N1BRADESCO",
+        "termDays": null,
+        "quantity": 27,
+        "unitPrice": 23.3,
+        "totalValue": 629.1,
+        "operationalCost": 1.46
+      },
+      {
+        "type": "buy",
+        "asset": "      N1ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 54,
+        "unitPrice": 26.5,
+        "totalValue": 1431,
+        "operationalCost": 3.33
+      },
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 59,
+        "unitPrice": 7.98,
+        "totalValue": 470.82,
+        "operationalCost": 1.09
+      },
+      {
+        "type": "buy",
+        "asset": "      N1BRADESCO",
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 23.3,
+        "totalValue": 18640,
+        "operationalCost": 43.34
+      },
+      {
+        "type": "buy",
+        "asset": "      N1ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 700,
+        "unitPrice": 26.5,
+        "totalValue": 18550,
+        "operationalCost": 43.13
+      },
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 3700,
+        "unitPrice": 7.98,
+        "totalValue": 29526,
+        "operationalCost": 68.65
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "      N1BRADESCO",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 858,
+        "avgUnitPrice": 23.3,
+        "totalValue": 19990.47,
+        "operationalCost": 46.48
+      },
+      {
+        "asset": "      N1ITAUUNIBANCO",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 754,
+        "avgUnitPrice": 26.5,
+        "totalValue": 19981,
+        "operationalCost": 46.46
+      },
+      {
+        "asset": "PETROBRAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3759,
+        "avgUnitPrice": 7.98,
+        "totalValue": 29996.82,
+        "operationalCost": 69.74
+      }
+    ]
+  },
+  {
+    "noteNumber": "283524",
+    "date": "2015-08-27",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 34618.2,
+    "netTotal": 34520.38,
+    "buyTotal": 0,
+    "sellTotal": 34618.2,
+    "fees": 97.82,
+    "settlementDate": "2015-09-01",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "      N1ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 54,
+        "unitPrice": 28.5,
+        "totalValue": 1539,
+        "operationalCost": 4.35
+      },
+      {
+        "type": "sell",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 59,
+        "unitPrice": 8.8,
+        "totalValue": 519.2,
+        "operationalCost": 1.47
+      },
+      {
+        "type": "sell",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 3700,
+        "unitPrice": 8.8,
+        "totalValue": 32560,
+        "operationalCost": 92
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "      N1ITAUUNIBANCO",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 54,
+        "avgUnitPrice": 28.5,
+        "totalValue": 1539,
+        "operationalCost": 4.35
+      },
+      {
+        "asset": "PETROBRAS",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 3759,
+        "avgUnitPrice": 8.8,
+        "totalValue": 33079.2,
+        "operationalCost": 93.47
+      }
+    ]
+  },
+  {
+    "noteNumber": "287035",
+    "date": "2015-08-31",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 39923.7,
+    "netTotal": -40036.47,
+    "buyTotal": 39923.7,
+    "sellTotal": 0,
+    "fees": 112.77,
+    "settlementDate": "2015-09-03",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 73,
+        "unitPrice": 22.9,
+        "totalValue": 1671.7,
+        "operationalCost": 4.72
+      },
+      {
+        "type": "buy",
+        "asset": "ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 55,
+        "unitPrice": 26.4,
+        "totalValue": 1452,
+        "operationalCost": 4.1
+      },
+      {
+        "type": "buy",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 22.9,
+        "totalValue": 18320,
+        "operationalCost": 51.75
+      },
+      {
+        "type": "buy",
+        "asset": "ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 700,
+        "unitPrice": 26.4,
+        "totalValue": 18480,
+        "operationalCost": 52.2
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRADESCO",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 873,
+        "avgUnitPrice": 22.9,
+        "totalValue": 19991.7,
+        "operationalCost": 56.47
+      },
+      {
+        "asset": "ITAUUNIBANCO",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 755,
+        "avgUnitPrice": 26.4,
+        "totalValue": 19932,
+        "operationalCost": 56.3
+      }
+    ]
+  },
+  {
+    "noteNumber": "288718",
+    "date": "2015-09-01",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 39998.6,
+    "netTotal": -40111.58,
+    "buyTotal": 39998.6,
+    "sellTotal": 0,
+    "fees": 112.98,
+    "settlementDate": "2015-09-04",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 51,
+        "unitPrice": 8.6,
+        "totalValue": 438.6,
+        "operationalCost": 1.24
+      },
+      {
+        "type": "buy",
+        "asset": "PETROBRAS",
+        "termDays": null,
+        "quantity": 4600,
+        "unitPrice": 8.6,
+        "totalValue": 39560,
+        "operationalCost": 111.74
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "PETROBRAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 4651,
+        "avgUnitPrice": 8.6,
+        "totalValue": 39998.6,
+        "operationalCost": 112.98
+      }
+    ]
+  },
+  {
+    "noteNumber": "301453",
+    "date": "2017-07-13",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 4157.76,
+    "netTotal": -4169.5,
+    "buyTotal": 4157.76,
+    "sellTotal": 0,
+    "fees": 11.74,
+    "settlementDate": "2017-07-18",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "HYPERMARCAS",
+        "termDays": null,
+        "quantity": 42,
+        "unitPrice": 29.28,
+        "totalValue": 1229.76,
+        "operationalCost": 3.47
+      },
+      {
+        "type": "buy",
+        "asset": "HYPERMARCAS",
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 29.28,
+        "totalValue": 2928,
+        "operationalCost": 8.27
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "HYPERMARCAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 142,
+        "avgUnitPrice": 29.28,
+        "totalValue": 4157.76,
+        "operationalCost": 11.74
+      }
+    ]
+  },
+  {
+    "noteNumber": "302866",
+    "date": "2016-08-02",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 253.26,
+    "netTotal": 243.19,
+    "buyTotal": 0,
+    "sellTotal": 253.26,
+    "fees": 10.07,
+    "settlementDate": "2016-08-05",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 67,
+        "unitPrice": 3.78,
+        "totalValue": 253.26,
+        "operationalCost": 10.07
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "USIMINAS",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 67,
+        "avgUnitPrice": 3.78,
+        "totalValue": 253.26,
+        "operationalCost": 10.07
+      }
+    ]
+  },
+  {
+    "noteNumber": "303544",
+    "date": "2017-07-14",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 49996.8,
+    "netTotal": -50138.02,
+    "buyTotal": 49996.8,
+    "sellTotal": 0,
+    "fees": 141.22,
+    "settlementDate": "2017-07-19",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "LOJAS AMERIC",
+        "termDays": null,
+        "quantity": 68,
+        "unitPrice": 12.6,
+        "totalValue": 856.8,
+        "operationalCost": 2.42
+      },
+      {
+        "type": "buy",
+        "asset": "LOJAS AMERIC",
+        "termDays": null,
+        "quantity": 3900,
+        "unitPrice": 12.6,
+        "totalValue": 49140,
+        "operationalCost": 138.8
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "LOJAS AMERIC",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3968,
+        "avgUnitPrice": 12.6,
+        "totalValue": 49996.8,
+        "operationalCost": 141.22
+      }
+    ]
+  },
+  {
+    "noteNumber": "306668",
+    "date": "2015-09-16",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 84735.96,
+    "netTotal": 84538.96,
+    "buyTotal": 0,
+    "sellTotal": 84735.96,
+    "fees": 197,
+    "settlementDate": "2015-09-21",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 31,
+        "unitPrice": 24.66,
+        "totalValue": 764.46,
+        "operationalCost": 1.78
+      },
+      {
+        "type": "sell",
+        "asset": "ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 55,
+        "unitPrice": 28.9,
+        "totalValue": 1589.5,
+        "operationalCost": 3.7
+      },
+      {
+        "type": "sell",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 24.66,
+        "totalValue": 41922,
+        "operationalCost": 97.46
+      },
+      {
+        "type": "sell",
+        "asset": "ITAUUNIBANCO",
+        "termDays": null,
+        "quantity": 1400,
+        "unitPrice": 28.9,
+        "totalValue": 40460,
+        "operationalCost": 94.06
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRADESCO",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 1731,
+        "avgUnitPrice": 24.66,
+        "totalValue": 42686.46,
+        "operationalCost": 99.24
+      },
+      {
+        "asset": "ITAUUNIBANCO",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 1455,
+        "avgUnitPrice": 28.9,
+        "totalValue": 42049.5,
+        "operationalCost": 97.76
+      }
+    ]
+  },
+  {
+    "noteNumber": "307493",
+    "date": "2017-07-18",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 14968.15,
+    "netTotal": -15010.42,
+    "buyTotal": 14968.15,
+    "sellTotal": 0,
+    "fees": 42.27,
+    "settlementDate": "2017-07-21",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "HYPERMARCAS",
+        "termDays": null,
+        "quantity": 19,
+        "unitPrice": 28.85,
+        "totalValue": 548.15,
+        "operationalCost": 1.55
+      },
+      {
+        "type": "buy",
+        "asset": "HYPERMARCAS",
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 28.84,
+        "totalValue": 14420,
+        "operationalCost": 40.72
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "HYPERMARCAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 519,
+        "avgUnitPrice": 28.84,
+        "totalValue": 14968.15,
+        "operationalCost": 42.27
+      }
+    ]
+  },
+  {
+    "noteNumber": "312185",
+    "date": "2015-09-21",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 79975.05,
+    "netTotal": -80160.98,
+    "buyTotal": 79975.05,
+    "sellTotal": 0,
+    "fees": 185.93,
+    "settlementDate": "2015-09-24",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 65,
+        "unitPrice": 22.65,
+        "totalValue": 1472.25,
+        "operationalCost": 3.42
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 30,
+        "unitPrice": 16.46,
+        "totalValue": 493.8,
+        "operationalCost": 1.15
+      },
+      {
+        "type": "buy",
+        "asset": "BRADESCO",
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 22.65,
+        "totalValue": 38505,
+        "operationalCost": 89.52
+      },
+      {
+        "type": "buy",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 2400,
+        "unitPrice": 16.46,
+        "totalValue": 39504,
+        "operationalCost": 91.84
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRADESCO",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1765,
+        "avgUnitPrice": 22.65,
+        "totalValue": 39977.25,
+        "operationalCost": 92.94
+      },
+      {
+        "asset": "BRASIL",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2430,
+        "avgUnitPrice": 16.46,
+        "totalValue": 39997.8,
+        "operationalCost": 92.99
+      }
+    ]
+  },
+  {
+    "noteNumber": "317843",
+    "date": "2016-08-10",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 23305.8,
+    "netTotal": 23239.98,
+    "buyTotal": 0,
+    "sellTotal": 23305.8,
+    "fees": 65.82,
+    "settlementDate": "2016-08-15",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 18,
+        "unitPrice": 3.1,
+        "totalValue": 55.8,
+        "operationalCost": 0.16
+      },
+      {
+        "type": "sell",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 7500,
+        "unitPrice": 3.1,
+        "totalValue": 23250,
+        "operationalCost": 65.66
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "GERDAU MET",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 7518,
+        "avgUnitPrice": 3.1,
+        "totalValue": 23305.8,
+        "operationalCost": 65.82
+      }
+    ]
+  },
+  {
+    "noteNumber": "327414",
+    "date": "2016-08-16",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 149016.08,
+    "netTotal": -149288.02,
+    "buyTotal": 149016.08,
+    "sellTotal": 0,
+    "fees": 271.94,
+    "settlementDate": "2016-08-19",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ITAUSA",
+        "termDays": null,
+        "quantity": 88,
+        "unitPrice": 8.71,
+        "totalValue": 766.48,
+        "operationalCost": 1.4
+      },
+      {
+        "type": "buy",
+        "asset": "RUMO LOG",
+        "termDays": null,
+        "quantity": 20,
+        "unitPrice": 6.83,
+        "totalValue": 136.6,
+        "operationalCost": 0.25
+      },
+      {
+        "type": "buy",
+        "asset": "ALIANSCE",
+        "termDays": null,
+        "quantity": 2600,
+        "unitPrice": 15.01,
+        "totalValue": 39026,
+        "operationalCost": 71.22
+      },
+      {
+        "type": "buy",
+        "asset": "ITAUSA",
+        "termDays": null,
+        "quantity": 6800,
+        "unitPrice": 8.71,
+        "totalValue": 59228,
+        "operationalCost": 108.09
+      },
+      {
+        "type": "buy",
+        "asset": "RUMO LOG",
+        "termDays": null,
+        "quantity": 7300,
+        "unitPrice": 6.83,
+        "totalValue": 49859,
+        "operationalCost": 90.99
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ITAUSA",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 6888,
+        "avgUnitPrice": 8.71,
+        "totalValue": 59994.48,
+        "operationalCost": 109.49
+      },
+      {
+        "asset": "RUMO LOG",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 7320,
+        "avgUnitPrice": 6.83,
+        "totalValue": 49995.6,
+        "operationalCost": 91.24
+      },
+      {
+        "asset": "ALIANSCE",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2600,
+        "avgUnitPrice": 15.01,
+        "totalValue": 39026,
+        "operationalCost": 71.22
+      }
+    ]
+  },
+  {
+    "noteNumber": "329705",
+    "date": "2016-08-17",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 14994,
+    "netTotal": -15036.34,
+    "buyTotal": 14994,
+    "sellTotal": 0,
+    "fees": 42.34,
+    "settlementDate": "2016-08-22",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "EZTEC",
+        "termDays": null,
+        "quantity": 82,
+        "unitPrice": 17,
+        "totalValue": 1394,
+        "operationalCost": 3.94
+      },
+      {
+        "type": "buy",
+        "asset": "EZTEC",
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 17,
+        "totalValue": 13600,
+        "operationalCost": 38.4
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "EZTEC",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 882,
+        "avgUnitPrice": 17,
+        "totalValue": 14994,
+        "operationalCost": 42.34
+      }
+    ]
+  },
+  {
+    "noteNumber": "336434",
+    "date": "2016-08-22",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 34993.65,
+    "netTotal": -35092.49,
+    "buyTotal": 34993.65,
+    "sellTotal": 0,
+    "fees": 98.84,
+    "settlementDate": "2016-08-25",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "EZTEC",
+        "termDays": null,
+        "quantity": 82,
+        "unitPrice": 17,
+        "totalValue": 1394,
+        "operationalCost": 3.94
+      },
+      {
+        "type": "buy",
+        "asset": "EZTEC",
+        "termDays": null,
+        "quantity": 73,
+        "unitPrice": 17.05,
+        "totalValue": 1244.65,
+        "operationalCost": 3.52
+      },
+      {
+        "type": "buy",
+        "asset": "EZTEC",
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 17,
+        "totalValue": 13600,
+        "operationalCost": 38.41
+      },
+      {
+        "type": "buy",
+        "asset": "EZTEC",
+        "termDays": null,
+        "quantity": 1100,
+        "unitPrice": 17.05,
+        "totalValue": 18755,
+        "operationalCost": 52.97
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "EZTEC",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2055,
+        "avgUnitPrice": 17.03,
+        "totalValue": 34993.65,
+        "operationalCost": 98.84
+      }
+    ]
+  },
+  {
+    "noteNumber": "362382",
+    "date": "2017-08-22",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 388619,
+    "netTotal": 387909.78,
+    "buyTotal": 0,
+    "sellTotal": 388619,
+    "fees": 709.22,
+    "settlementDate": "2017-08-25",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "      NMALIANSCE",
+        "termDays": null,
+        "quantity": 2300,
+        "unitPrice": 17.43,
+        "totalValue": 40089,
+        "operationalCost": 73.16
+      },
+      {
+        "type": "sell",
+        "asset": "      NMALIANSCE",
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 17.44,
+        "totalValue": 3488,
+        "operationalCost": 6.37
+      },
+      {
+        "type": "sell",
+        "asset": "      N1BRADESPAR",
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 24.19,
+        "totalValue": 12095,
+        "operationalCost": 22.07
+      },
+      {
+        "type": "sell",
+        "asset": "      N1BRADESPAR",
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 24.23,
+        "totalValue": 4846,
+        "operationalCost": 8.84
+      },
+      {
+        "type": "sell",
+        "asset": "  ERJ NMBRASIL",
+        "termDays": null,
+        "quantity": 1500,
+        "unitPrice": 31.91,
+        "totalValue": 47865,
+        "operationalCost": 87.35
+      },
+      {
+        "type": "sell",
+        "asset": "      NMEZTEC",
+        "termDays": null,
+        "quantity": 1500,
+        "unitPrice": 21.26,
+        "totalValue": 31890,
+        "operationalCost": 58.2
+      },
+      {
+        "type": "sell",
+        "asset": "      N1GERDAU MET",
+        "termDays": null,
+        "quantity": 1500,
+        "unitPrice": 5.33,
+        "totalValue": 7995,
+        "operationalCost": 14.59
+      },
+      {
+        "type": "sell",
+        "asset": "      N1GERDAU MET",
+        "termDays": null,
+        "quantity": 3000,
+        "unitPrice": 5.34,
+        "totalValue": 16020,
+        "operationalCost": 29.24
+      },
+      {
+        "type": "sell",
+        "asset": "  EJ  N1ITAUSA",
+        "termDays": null,
+        "quantity": 1500,
+        "unitPrice": 10.07,
+        "totalValue": 15105,
+        "operationalCost": 27.57
+      },
+      {
+        "type": "sell",
+        "asset": "      NMLOCALIZA",
+        "termDays": null,
+        "quantity": 300,
+        "unitPrice": 56.76,
+        "totalValue": 17028,
+        "operationalCost": 31.08
+      },
+      {
+        "type": "sell",
+        "asset": "      NMLOCALIZA",
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 56.77,
+        "totalValue": 28385,
+        "operationalCost": 51.8
+      },
+      {
+        "type": "sell",
+        "asset": "LOJAS AMERIC",
+        "termDays": null,
+        "quantity": 1500,
+        "unitPrice": 13.95,
+        "totalValue": 20925,
+        "operationalCost": 38.19
+      },
+      {
+        "type": "sell",
+        "asset": "      NMRUMO S.A.",
+        "termDays": null,
+        "quantity": 8000,
+        "unitPrice": 10.26,
+        "totalValue": 82080,
+        "operationalCost": 149.79
+      },
+      {
+        "type": "sell",
+        "asset": "      NMSANTOS BRP",
+        "termDays": null,
+        "quantity": 7200,
+        "unitPrice": 2.39,
+        "totalValue": 17208,
+        "operationalCost": 31.4
+      },
+      {
+        "type": "sell",
+        "asset": "      NMSANTOS BRP",
+        "termDays": null,
+        "quantity": 7800,
+        "unitPrice": 2.4,
+        "totalValue": 18720,
+        "operationalCost": 34.16
+      },
+      {
+        "type": "sell",
+        "asset": "A     N1USIMINAS",
+        "termDays": null,
+        "quantity": 4000,
+        "unitPrice": 6.22,
+        "totalValue": 24880,
+        "operationalCost": 45.41
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "      NMALIANSCE",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 2500,
+        "avgUnitPrice": 17.43,
+        "totalValue": 43577,
+        "operationalCost": 79.53
+      },
+      {
+        "asset": "      N1BRADESPAR",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 700,
+        "avgUnitPrice": 24.2,
+        "totalValue": 16941,
+        "operationalCost": 30.91
+      },
+      {
+        "asset": "  ERJ NMBRASIL",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 1500,
+        "avgUnitPrice": 31.91,
+        "totalValue": 47865,
+        "operationalCost": 87.35
+      },
+      {
+        "asset": "      NMEZTEC",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 1500,
+        "avgUnitPrice": 21.26,
+        "totalValue": 31890,
+        "operationalCost": 58.2
+      },
+      {
+        "asset": "      N1GERDAU MET",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 4500,
+        "avgUnitPrice": 5.34,
+        "totalValue": 24015,
+        "operationalCost": 43.83
+      },
+      {
+        "asset": "  EJ  N1ITAUSA",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 1500,
+        "avgUnitPrice": 10.07,
+        "totalValue": 15105,
+        "operationalCost": 27.57
+      },
+      {
+        "asset": "      NMLOCALIZA",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 800,
+        "avgUnitPrice": 56.77,
+        "totalValue": 45413,
+        "operationalCost": 82.88
+      },
+      {
+        "asset": "LOJAS AMERIC",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 1500,
+        "avgUnitPrice": 13.95,
+        "totalValue": 20925,
+        "operationalCost": 38.19
+      },
+      {
+        "asset": "      NMRUMO S.A.",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 8000,
+        "avgUnitPrice": 10.26,
+        "totalValue": 82080,
+        "operationalCost": 149.79
+      },
+      {
+        "asset": "      NMSANTOS BRP",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 15000,
+        "avgUnitPrice": 2.4,
+        "totalValue": 35928,
+        "operationalCost": 65.56
+      },
+      {
+        "asset": "A     N1USIMINAS",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 4000,
+        "avgUnitPrice": 6.22,
+        "totalValue": 24880,
+        "operationalCost": 45.41
+      }
+    ]
+  },
+  {
+    "noteNumber": "366388",
+    "date": "2015-11-05",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 43254,
+    "netTotal": 43131.82,
+    "buyTotal": 0,
+    "sellTotal": 43254,
+    "fees": 122.18,
+    "settlementDate": "2015-11-10",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 30,
+        "unitPrice": 17.8,
+        "totalValue": 534,
+        "operationalCost": 1.51
+      },
+      {
+        "type": "sell",
+        "asset": "BRASIL",
+        "termDays": null,
+        "quantity": 2400,
+        "unitPrice": 17.8,
+        "totalValue": 42720,
+        "operationalCost": 120.67
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRASIL",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 2430,
+        "avgUnitPrice": 17.8,
+        "totalValue": 43254,
+        "operationalCost": 122.18
+      }
+    ]
+  },
+  {
+    "noteNumber": "372801",
+    "date": "2019-07-10",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 39998.4,
+    "netTotal": -40091.05,
+    "buyTotal": 39998.4,
+    "sellTotal": 0,
+    "fees": 92.65,
+    "settlementDate": "2019-07-12",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "TECNISA",
+        "termDays": null,
+        "quantity": 12,
+        "unitPrice": 1.95,
+        "totalValue": 23.4,
+        "operationalCost": 0.05
+      },
+      {
+        "type": "buy",
+        "asset": "TECNISA",
+        "termDays": null,
+        "quantity": 20500,
+        "unitPrice": 1.95,
+        "totalValue": 39975,
+        "operationalCost": 92.6
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "TECNISA",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 20512,
+        "avgUnitPrice": 1.95,
+        "totalValue": 39998.4,
+        "operationalCost": 92.65
+      }
+    ]
+  },
+  {
+    "noteNumber": "380708",
+    "date": "2015-11-18",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 89956.54,
+    "netTotal": -90166.47,
+    "buyTotal": 89956.54,
+    "sellTotal": 0,
+    "fees": 209.93,
+    "settlementDate": "2015-11-24",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "VALE",
+        "termDays": null,
+        "quantity": 73,
+        "unitPrice": 11.98,
+        "totalValue": 874.54,
+        "operationalCost": 2.04
+      },
+      {
+        "type": "buy",
+        "asset": "GERDAU MET",
+        "termDays": null,
+        "quantity": 19400,
+        "unitPrice": 2.06,
+        "totalValue": 39964,
+        "operationalCost": 93.26
+      },
+      {
+        "type": "buy",
+        "asset": "VALE",
+        "termDays": null,
+        "quantity": 4100,
+        "unitPrice": 11.98,
+        "totalValue": 49118,
+        "operationalCost": 114.63
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "VALE",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 4173,
+        "avgUnitPrice": 11.98,
+        "totalValue": 49992.54,
+        "operationalCost": 116.67
+      },
+      {
+        "asset": "GERDAU MET",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 19400,
+        "avgUnitPrice": 2.06,
+        "totalValue": 39964,
+        "operationalCost": 93.26
+      }
+    ]
+  },
+  {
+    "noteNumber": "385151",
+    "date": "2017-09-04",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 31880.74,
+    "netTotal": 31790.69,
+    "buyTotal": 0,
+    "sellTotal": 31880.74,
+    "fees": 90.05,
+    "settlementDate": "2017-09-08",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "RUMO S.A.",
+        "termDays": null,
+        "quantity": 41,
+        "unitPrice": 10.14,
+        "totalValue": 415.74,
+        "operationalCost": 1.17
+      },
+      {
+        "type": "sell",
+        "asset": "RUMO S.A.",
+        "termDays": null,
+        "quantity": 3100,
+        "unitPrice": 10.15,
+        "totalValue": 31465,
+        "operationalCost": 88.88
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "RUMO S.A.",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 3141,
+        "avgUnitPrice": 10.15,
+        "totalValue": 31880.74,
+        "operationalCost": 90.05
+      }
+    ]
+  },
+  {
+    "noteNumber": "392340",
+    "date": "2018-09-03",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 20436.44,
+    "netTotal": -20483.94,
+    "buyTotal": 20436.44,
+    "sellTotal": 0,
+    "fees": 47.5,
+    "settlementDate": "2018-09-06",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 12,
+        "unitPrice": 2.17,
+        "totalValue": 26.04,
+        "operationalCost": 0.06
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 40,
+        "unitPrice": 8.06,
+        "totalValue": 322.4,
+        "operationalCost": 0.75
+      },
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 4800,
+        "unitPrice": 2.17,
+        "totalValue": 10416,
+        "operationalCost": 24.21
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 1200,
+        "unitPrice": 8.06,
+        "totalValue": 9672,
+        "operationalCost": 22.48
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "MILLS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 4812,
+        "avgUnitPrice": 2.17,
+        "totalValue": 10442.04,
+        "operationalCost": 24.27
+      },
+      {
+        "asset": "USIMINAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1240,
+        "avgUnitPrice": 8.06,
+        "totalValue": 9994.4,
+        "operationalCost": 23.23
+      }
+    ]
+  },
+  {
+    "noteNumber": "409259",
+    "date": "2018-09-14",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 5025,
+    "netTotal": -5036.67,
+    "buyTotal": 5025,
+    "sellTotal": 0,
+    "fees": 11.67,
+    "settlementDate": "2018-09-19",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 2500,
+        "unitPrice": 2.01,
+        "totalValue": 5025,
+        "operationalCost": 11.67
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "MILLS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2500,
+        "avgUnitPrice": 2.01,
+        "totalValue": 5025,
+        "operationalCost": 11.67
+      }
+    ]
+  },
+  {
+    "noteNumber": "412079",
+    "date": "2017-09-19",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 129589.28,
+    "netTotal": -129825.76,
+    "buyTotal": 129589.28,
+    "sellTotal": 0,
+    "fees": 236.48,
+    "settlementDate": "2017-09-22",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRF S.A.",
+        "termDays": null,
+        "quantity": 47,
+        "unitPrice": 46.32,
+        "totalValue": 2177.04,
+        "operationalCost": 3.97
+      },
+      {
+        "type": "buy",
+        "asset": "INTERNATIONA",
+        "termDays": null,
+        "quantity": 8,
+        "unitPrice": 10.68,
+        "totalValue": 85.44,
+        "operationalCost": 0.16
+      },
+      {
+        "type": "buy",
+        "asset": "RUMO S.A.",
+        "termDays": null,
+        "quantity": 73,
+        "unitPrice": 10.6,
+        "totalValue": 773.8,
+        "operationalCost": 1.41
+      },
+      {
+        "type": "buy",
+        "asset": "AZUL S.A.",
+        "termDays": null,
+        "quantity": 1000,
+        "unitPrice": 29.65,
+        "totalValue": 29650,
+        "operationalCost": 54.11
+      },
+      {
+        "type": "buy",
+        "asset": "BRF S.A.",
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 46.32,
+        "totalValue": 27792,
+        "operationalCost": 50.72
+      },
+      {
+        "type": "buy",
+        "asset": "INTERNATIONA",
+        "termDays": null,
+        "quantity": 1300,
+        "unitPrice": 10.67,
+        "totalValue": 13871,
+        "operationalCost": 25.31
+      },
+      {
+        "type": "buy",
+        "asset": "INTERNATIONA",
+        "termDays": null,
+        "quantity": 1500,
+        "unitPrice": 10.68,
+        "totalValue": 16020,
+        "operationalCost": 29.23
+      },
+      {
+        "type": "buy",
+        "asset": "RUMO S.A.",
+        "termDays": null,
+        "quantity": 3700,
+        "unitPrice": 10.6,
+        "totalValue": 39220,
+        "operationalCost": 71.57
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRF S.A.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 647,
+        "avgUnitPrice": 46.32,
+        "totalValue": 29969.04,
+        "operationalCost": 54.69
+      },
+      {
+        "asset": "INTERNATIONA",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 2808,
+        "avgUnitPrice": 10.68,
+        "totalValue": 29976.44,
+        "operationalCost": 54.7
+      },
+      {
+        "asset": "RUMO S.A.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3773,
+        "avgUnitPrice": 10.6,
+        "totalValue": 39993.8,
+        "operationalCost": 72.98
+      },
+      {
+        "asset": "AZUL S.A.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1000,
+        "avgUnitPrice": 29.65,
+        "totalValue": 29650,
+        "operationalCost": 54.11
+      }
+    ]
+  },
+  {
+    "noteNumber": "414644",
+    "date": "2017-09-20",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 49953.74,
+    "netTotal": -50094.84,
+    "buyTotal": 49953.74,
+    "sellTotal": 0,
+    "fees": 141.1,
+    "settlementDate": "2017-09-25",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "PETROLEO BRA",
+        "termDays": null,
+        "quantity": 98,
+        "unitPrice": 15.63,
+        "totalValue": 1531.74,
+        "operationalCost": 4.33
+      },
+      {
+        "type": "buy",
+        "asset": "PETROLEO BRA",
+        "termDays": null,
+        "quantity": 3100,
+        "unitPrice": 15.62,
+        "totalValue": 48422,
+        "operationalCost": 136.77
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "PETROLEO BRA",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3198,
+        "avgUnitPrice": 15.62,
+        "totalValue": 49953.74,
+        "operationalCost": 141.1
+      }
+    ]
+  },
+  {
+    "noteNumber": "421228",
+    "date": "2018-09-21",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 9999.92,
+    "netTotal": -10023.13,
+    "buyTotal": 9999.92,
+    "sellTotal": 0,
+    "fees": 23.21,
+    "settlementDate": "2018-09-26",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 102,
+        "unitPrice": 1.96,
+        "totalValue": 199.92,
+        "operationalCost": 0.46
+      },
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 5000,
+        "unitPrice": 1.96,
+        "totalValue": 9800,
+        "operationalCost": 22.75
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "MILLS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 5102,
+        "avgUnitPrice": 1.96,
+        "totalValue": 9999.92,
+        "operationalCost": 23.21
+      }
+    ]
+  },
+  {
+    "noteNumber": "423541",
+    "date": "2018-09-24",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 29769.33,
+    "netTotal": -29838.82,
+    "buyTotal": 29769.33,
+    "sellTotal": 0,
+    "fees": 69.49,
+    "settlementDate": "2018-09-27",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 81,
+        "unitPrice": 1.93,
+        "totalValue": 156.33,
+        "operationalCost": 0.36
+      },
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 9100,
+        "unitPrice": 1.7,
+        "totalValue": 15470,
+        "operationalCost": 36.11
+      },
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 2500,
+        "unitPrice": 1.72,
+        "totalValue": 4300,
+        "operationalCost": 10.04
+      },
+      {
+        "type": "buy",
+        "asset": "MILLS",
+        "termDays": null,
+        "quantity": 5100,
+        "unitPrice": 1.93,
+        "totalValue": 9843,
+        "operationalCost": 22.98
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "MILLS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 16781,
+        "avgUnitPrice": 1.77,
+        "totalValue": 29769.33,
+        "operationalCost": 69.49
+      }
+    ]
+  },
+  {
+    "noteNumber": "426374",
+    "date": "2017-09-27",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 69988.68,
+    "netTotal": -70151.38,
+    "buyTotal": 69988.68,
+    "sellTotal": 0,
+    "fees": 162.7,
+    "settlementDate": "2017-10-02",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "METALURGICA",
+        "termDays": null,
+        "quantity": 43,
+        "unitPrice": 5.1,
+        "totalValue": 219.3,
+        "operationalCost": 0.51
+      },
+      {
+        "type": "buy",
+        "asset": "USINAS SID D",
+        "termDays": null,
+        "quantity": 77,
+        "unitPrice": 7.94,
+        "totalValue": 611.38,
+        "operationalCost": 1.42
+      },
+      {
+        "type": "buy",
+        "asset": "METALURGICA",
+        "termDays": null,
+        "quantity": 7800,
+        "unitPrice": 5.1,
+        "totalValue": 39780,
+        "operationalCost": 92.48
+      },
+      {
+        "type": "buy",
+        "asset": "USINAS SID D",
+        "termDays": null,
+        "quantity": 3700,
+        "unitPrice": 7.94,
+        "totalValue": 29378,
+        "operationalCost": 68.29
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "METALURGICA",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 7843,
+        "avgUnitPrice": 5.1,
+        "totalValue": 39999.3,
+        "operationalCost": 92.99
+      },
+      {
+        "asset": "USINAS SID D",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3777,
+        "avgUnitPrice": 7.94,
+        "totalValue": 29989.38,
+        "operationalCost": 69.71
+      }
+    ]
+  },
+  {
+    "noteNumber": "432964",
+    "date": "2017-10-02",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 79949.91,
+    "netTotal": -80135.77,
+    "buyTotal": 79949.91,
+    "sellTotal": 0,
+    "fees": 185.86,
+    "settlementDate": "2017-10-05",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "BRF S.A.",
+        "termDays": null,
+        "quantity": 28,
+        "unitPrice": 45.87,
+        "totalValue": 1284.36,
+        "operationalCost": 2.99
+      },
+      {
+        "type": "buy",
+        "asset": "BRF S.A.",
+        "termDays": null,
+        "quantity": 43,
+        "unitPrice": 45.89,
+        "totalValue": 1973.27,
+        "operationalCost": 4.59
+      },
+      {
+        "type": "buy",
+        "asset": "ESTACIO PART",
+        "termDays": null,
+        "quantity": 66,
+        "unitPrice": 31.58,
+        "totalValue": 2084.28,
+        "operationalCost": 4.85
+      },
+      {
+        "type": "buy",
+        "asset": "BRF S.A.",
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 45.89,
+        "totalValue": 36712,
+        "operationalCost": 85.34
+      },
+      {
+        "type": "buy",
+        "asset": "ESTACIO PART",
+        "termDays": null,
+        "quantity": 1200,
+        "unitPrice": 31.58,
+        "totalValue": 37896,
+        "operationalCost": 88.1
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "BRF S.A.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 871,
+        "avgUnitPrice": 45.89,
+        "totalValue": 39969.63,
+        "operationalCost": 92.92
+      },
+      {
+        "asset": "ESTACIO PART",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1266,
+        "avgUnitPrice": 31.58,
+        "totalValue": 39980.28,
+        "operationalCost": 92.95
+      }
+    ]
+  },
+  {
+    "noteNumber": "435520",
+    "date": "2017-10-03",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 49998.65,
+    "netTotal": -50139.85,
+    "buyTotal": 49998.65,
+    "sellTotal": 0,
+    "fees": 141.2,
+    "settlementDate": "2017-10-06",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "MILLS ESTRUT",
+        "termDays": null,
+        "quantity": 9,
+        "unitPrice": 4.85,
+        "totalValue": 43.65,
+        "operationalCost": 0.12
+      },
+      {
+        "type": "buy",
+        "asset": "MILLS ESTRUT",
+        "termDays": null,
+        "quantity": 10300,
+        "unitPrice": 4.85,
+        "totalValue": 49955,
+        "operationalCost": 141.08
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "MILLS ESTRUT",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 10309,
+        "avgUnitPrice": 4.85,
+        "totalValue": 49998.65,
+        "operationalCost": 141.2
+      }
+    ]
+  },
+  {
+    "noteNumber": "440847",
+    "date": "2017-10-05",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 39920.85,
+    "netTotal": -40033.59,
+    "buyTotal": 39920.85,
+    "sellTotal": 0,
+    "fees": 112.74,
+    "settlementDate": "2017-10-10",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "B2W - COMPAN",
+        "termDays": null,
+        "quantity": 27,
+        "unitPrice": 24.55,
+        "totalValue": 662.85,
+        "operationalCost": 1.87
+      },
+      {
+        "type": "buy",
+        "asset": "B2W - COMPAN",
+        "termDays": null,
+        "quantity": 1100,
+        "unitPrice": 24.53,
+        "totalValue": 26983,
+        "operationalCost": 76.2
+      },
+      {
+        "type": "buy",
+        "asset": "B2W - COMPAN",
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 24.54,
+        "totalValue": 4908,
+        "operationalCost": 13.86
+      },
+      {
+        "type": "buy",
+        "asset": "B2W - COMPAN",
+        "termDays": null,
+        "quantity": 200,
+        "unitPrice": 24.55,
+        "totalValue": 4910,
+        "operationalCost": 13.87
+      },
+      {
+        "type": "buy",
+        "asset": "B2W - COMPAN",
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 24.57,
+        "totalValue": 2457,
+        "operationalCost": 6.94
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "B2W - COMPAN",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1627,
+        "avgUnitPrice": 24.54,
+        "totalValue": 39920.85,
+        "operationalCost": 112.74
+      }
+    ]
+  },
+  {
+    "noteNumber": "447016",
+    "date": "2019-08-12",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 40841.1,
+    "netTotal": 746.97,
+    "buyTotal": 19999.77,
+    "sellTotal": 20841.33,
+    "fees": 94.59,
+    "settlementDate": "2019-08-14",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "TECNISA",
+        "termDays": null,
+        "quantity": 67,
+        "unitPrice": 1.31,
+        "totalValue": 87.77,
+        "operationalCost": 0.2
+      },
+      {
+        "type": "sell",
+        "asset": "HYPERA",
+        "termDays": null,
+        "quantity": 61,
+        "unitPrice": 31.53,
+        "totalValue": 1923.33,
+        "operationalCost": 4.45
+      },
+      {
+        "type": "buy",
+        "asset": "TECNISA",
+        "termDays": null,
+        "quantity": 15200,
+        "unitPrice": 1.31,
+        "totalValue": 19912,
+        "operationalCost": 46.12
+      },
+      {
+        "type": "sell",
+        "asset": "HYPERA",
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 31.53,
+        "totalValue": 18918,
+        "operationalCost": 43.82
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "TECNISA",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 15267,
+        "avgUnitPrice": 1.31,
+        "totalValue": 19999.77,
+        "operationalCost": 46.32
+      },
+      {
+        "asset": "HYPERA",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 661,
+        "avgUnitPrice": 31.53,
+        "totalValue": 20841.33,
+        "operationalCost": 48.27
+      }
+    ]
+  },
+  {
+    "noteNumber": "449927",
+    "date": "2017-10-11",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 29950.2,
+    "netTotal": -30034.78,
+    "buyTotal": 29950.2,
+    "sellTotal": 0,
+    "fees": 84.58,
+    "settlementDate": "2017-10-17",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "DIRECIONAL E",
+        "termDays": null,
+        "quantity": 54,
+        "unitPrice": 6.3,
+        "totalValue": 340.2,
+        "operationalCost": 0.96
+      },
+      {
+        "type": "buy",
+        "asset": "DIRECIONAL E",
+        "termDays": null,
+        "quantity": 4700,
+        "unitPrice": 6.3,
+        "totalValue": 29610,
+        "operationalCost": 83.62
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "DIRECIONAL E",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 4754,
+        "avgUnitPrice": 6.3,
+        "totalValue": 29950.2,
+        "operationalCost": 84.58
+      }
+    ]
+  },
+  {
+    "noteNumber": "472267",
+    "date": "2017-10-26",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 70971.9,
+    "netTotal": -71136.85,
+    "buyTotal": 70971.9,
+    "sellTotal": 0,
+    "fees": 164.95,
+    "settlementDate": "2017-10-31",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "CVC BRASIL O",
+        "termDays": null,
+        "quantity": 70,
+        "unitPrice": 43.59,
+        "totalValue": 3051.3,
+        "operationalCost": 7.09
+      },
+      {
+        "type": "buy",
+        "asset": "ESTACIO PART",
+        "termDays": null,
+        "quantity": 80,
+        "unitPrice": 29.37,
+        "totalValue": 2349.6,
+        "operationalCost": 5.46
+      },
+      {
+        "type": "buy",
+        "asset": "CVC BRASIL O",
+        "termDays": null,
+        "quantity": 1100,
+        "unitPrice": 43.59,
+        "totalValue": 47949,
+        "operationalCost": 111.44
+      },
+      {
+        "type": "buy",
+        "asset": "ESTACIO PART",
+        "termDays": null,
+        "quantity": 600,
+        "unitPrice": 29.37,
+        "totalValue": 17622,
+        "operationalCost": 40.96
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "CVC BRASIL O",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1170,
+        "avgUnitPrice": 43.59,
+        "totalValue": 51000.3,
+        "operationalCost": 118.53
+      },
+      {
+        "asset": "ESTACIO PART",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 680,
+        "avgUnitPrice": 29.37,
+        "totalValue": 19971.6,
+        "operationalCost": 46.42
+      }
+    ]
+  },
+  {
+    "noteNumber": "481864",
+    "date": "2017-11-01",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 130965.8,
+    "netTotal": -131204.72,
+    "buyTotal": 130965.8,
+    "sellTotal": 0,
+    "fees": 238.92,
+    "settlementDate": "2017-11-07",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "EMBRAER S.A.",
+        "termDays": null,
+        "quantity": 155,
+        "unitPrice": 15.84,
+        "totalValue": 2455.2,
+        "operationalCost": 4.48
+      },
+      {
+        "type": "buy",
+        "asset": "ITAUSA INVES",
+        "termDays": null,
+        "quantity": 20,
+        "unitPrice": 10.58,
+        "totalValue": 211.6,
+        "operationalCost": 0.39
+      },
+      {
+        "type": "buy",
+        "asset": "LOJAS AMERIC",
+        "termDays": null,
+        "quantity": 14,
+        "unitPrice": 17.5,
+        "totalValue": 245,
+        "operationalCost": 0.45
+      },
+      {
+        "type": "buy",
+        "asset": "EMBRAER S.A.",
+        "termDays": null,
+        "quantity": 3000,
+        "unitPrice": 15.84,
+        "totalValue": 47520,
+        "operationalCost": 86.69
+      },
+      {
+        "type": "buy",
+        "asset": "ITAUSA INVES",
+        "termDays": null,
+        "quantity": 4800,
+        "unitPrice": 10.58,
+        "totalValue": 50784,
+        "operationalCost": 92.64
+      },
+      {
+        "type": "buy",
+        "asset": "LOJAS AMERIC",
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 17.5,
+        "totalValue": 29750,
+        "operationalCost": 54.27
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "EMBRAER S.A.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3155,
+        "avgUnitPrice": 15.84,
+        "totalValue": 49975.2,
+        "operationalCost": 91.17
+      },
+      {
+        "asset": "ITAUSA INVES",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 4820,
+        "avgUnitPrice": 10.58,
+        "totalValue": 50995.6,
+        "operationalCost": 93.03
+      },
+      {
+        "asset": "LOJAS AMERIC",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1714,
+        "avgUnitPrice": 17.5,
+        "totalValue": 29995,
+        "operationalCost": 54.72
+      }
+    ]
+  },
+  {
+    "noteNumber": "491339",
+    "date": "2017-11-08",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 19997.12,
+    "netTotal": 19940.65,
+    "buyTotal": 0,
+    "sellTotal": 19997.12,
+    "fees": 56.47,
+    "settlementDate": "2017-11-13",
+    "deals": [
+      {
+        "type": "sell",
+        "asset": "SANTOS BRASI",
+        "termDays": null,
+        "quantity": 88,
+        "unitPrice": 2.99,
+        "totalValue": 263.12,
+        "operationalCost": 0.74
+      },
+      {
+        "type": "sell",
+        "asset": "SANTOS BRASI",
+        "termDays": null,
+        "quantity": 6600,
+        "unitPrice": 2.99,
+        "totalValue": 19734,
+        "operationalCost": 55.73
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "SANTOS BRASI",
+        "type": "sell",
+        "termDays": null,
+        "quantity": 6688,
+        "avgUnitPrice": 2.99,
+        "totalValue": 19997.12,
+        "operationalCost": 56.47
+      }
+    ]
+  },
+  {
+    "noteNumber": "505630",
+    "date": "2016-12-06",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 69988.7,
+    "netTotal": -70151.39,
+    "buyTotal": 69988.7,
+    "sellTotal": 0,
+    "fees": 162.69,
+    "settlementDate": "2016-12-09",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "LOCALIZA",
+        "termDays": null,
+        "quantity": 85,
+        "unitPrice": 34.18,
+        "totalValue": 2905.3,
+        "operationalCost": 6.75
+      },
+      {
+        "type": "buy",
+        "asset": "LOCALIZA",
+        "termDays": null,
+        "quantity": 77,
+        "unitPrice": 34.2,
+        "totalValue": 2633.4,
+        "operationalCost": 6.12
+      },
+      {
+        "type": "buy",
+        "asset": "LOCALIZA",
+        "termDays": null,
+        "quantity": 500,
+        "unitPrice": 34.18,
+        "totalValue": 17090,
+        "operationalCost": 39.73
+      },
+      {
+        "type": "buy",
+        "asset": "LOCALIZA",
+        "termDays": null,
+        "quantity": 800,
+        "unitPrice": 34.2,
+        "totalValue": 27360,
+        "operationalCost": 63.6
+      },
+      {
+        "type": "buy",
+        "asset": "USIMINAS",
+        "termDays": null,
+        "quantity": 5000,
+        "unitPrice": 4,
+        "totalValue": 20000,
+        "operationalCost": 46.49
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "LOCALIZA",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1462,
+        "avgUnitPrice": 34.19,
+        "totalValue": 49988.7,
+        "operationalCost": 116.2
+      },
+      {
+        "asset": "USIMINAS",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 5000,
+        "avgUnitPrice": 4,
+        "totalValue": 20000,
+        "operationalCost": 46.49
+      }
+    ]
+  },
+  {
+    "noteNumber": "515007",
+    "date": "2017-11-28",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 99956.5,
+    "netTotal": -100188.88,
+    "buyTotal": 99956.5,
+    "sellTotal": 0,
+    "fees": 232.38,
+    "settlementDate": "2017-12-01",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "ATACADÃO S.A",
+        "termDays": null,
+        "quantity": 33,
+        "unitPrice": 16.24,
+        "totalValue": 535.92,
+        "operationalCost": 1.25
+      },
+      {
+        "type": "buy",
+        "asset": "ATACADÃO S.A",
+        "termDays": null,
+        "quantity": 43,
+        "unitPrice": 16.26,
+        "totalValue": 699.18,
+        "operationalCost": 1.63
+      },
+      {
+        "type": "buy",
+        "asset": "UNICASA INDÚ",
+        "termDays": null,
+        "quantity": 8,
+        "unitPrice": 2.55,
+        "totalValue": 20.4,
+        "operationalCost": 0.05
+      },
+      {
+        "type": "buy",
+        "asset": "ATACADÃO S.A",
+        "termDays": null,
+        "quantity": 2900,
+        "unitPrice": 16.24,
+        "totalValue": 47096,
+        "operationalCost": 109.49
+      },
+      {
+        "type": "buy",
+        "asset": "ATACADÃO S.A",
+        "termDays": null,
+        "quantity": 100,
+        "unitPrice": 16.25,
+        "totalValue": 1625,
+        "operationalCost": 3.78
+      },
+      {
+        "type": "buy",
+        "asset": "UNICASA INDÚ",
+        "termDays": null,
+        "quantity": 19600,
+        "unitPrice": 2.55,
+        "totalValue": 49980,
+        "operationalCost": 116.19
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "ATACADÃO S.A",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3076,
+        "avgUnitPrice": 16.24,
+        "totalValue": 49956.1,
+        "operationalCost": 116.15
+      },
+      {
+        "asset": "UNICASA INDÚ",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 19608,
+        "avgUnitPrice": 2.55,
+        "totalValue": 50000.4,
+        "operationalCost": 116.24
+      }
+    ]
+  },
+  {
+    "noteNumber": "538867",
+    "date": "2017-12-14",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 53045.4,
+    "netTotal": -53168.66,
+    "buyTotal": 53045.4,
+    "sellTotal": 0,
+    "fees": 123.26,
+    "settlementDate": "2017-12-19",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "PBG S/A",
+        "termDays": null,
+        "quantity": 95,
+        "unitPrice": 5.2,
+        "totalValue": 494,
+        "operationalCost": 1.15
+      },
+      {
+        "type": "buy",
+        "asset": "RUMO S.A.",
+        "termDays": null,
+        "quantity": 16,
+        "unitPrice": 11.65,
+        "totalValue": 186.4,
+        "operationalCost": 0.43
+      },
+      {
+        "type": "buy",
+        "asset": "PBG S/A",
+        "termDays": null,
+        "quantity": 3700,
+        "unitPrice": 5.2,
+        "totalValue": 19240,
+        "operationalCost": 44.71
+      },
+      {
+        "type": "buy",
+        "asset": "RUMO S.A.",
+        "termDays": null,
+        "quantity": 1700,
+        "unitPrice": 11.65,
+        "totalValue": 19805,
+        "operationalCost": 46.02
+      },
+      {
+        "type": "buy",
+        "asset": "UNICASA INDÚ",
+        "termDays": null,
+        "quantity": 6000,
+        "unitPrice": 2.22,
+        "totalValue": 13320,
+        "operationalCost": 30.95
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "PBG S/A",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 3795,
+        "avgUnitPrice": 5.2,
+        "totalValue": 19734,
+        "operationalCost": 45.86
+      },
+      {
+        "asset": "RUMO S.A.",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 1716,
+        "avgUnitPrice": 11.65,
+        "totalValue": 19991.4,
+        "operationalCost": 46.45
+      },
+      {
+        "asset": "UNICASA INDÚ",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 6000,
+        "avgUnitPrice": 2.22,
+        "totalValue": 13320,
+        "operationalCost": 30.95
+      }
+    ]
+  },
+  {
+    "noteNumber": "568664",
+    "date": "2018-12-04",
+    "broker": "BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "absoluteTotal": 50997.1,
+    "netTotal": -51115.26,
+    "buyTotal": 50997.1,
+    "sellTotal": 0,
+    "fees": 118.16,
+    "settlementDate": "2018-12-07",
+    "deals": [
+      {
+        "type": "buy",
+        "asset": "VIAVAREJO",
+        "termDays": null,
+        "quantity": 45,
+        "unitPrice": 5.18,
+        "totalValue": 233.1,
+        "operationalCost": 0.54
+      },
+      {
+        "type": "buy",
+        "asset": "VIAVAREJO",
+        "termDays": null,
+        "quantity": 9800,
+        "unitPrice": 5.18,
+        "totalValue": 50764,
+        "operationalCost": 117.62
+      }
+    ],
+    "groupedDeals": [
+      {
+        "asset": "VIAVAREJO",
+        "type": "buy",
+        "termDays": null,
+        "quantity": 9845,
+        "avgUnitPrice": 5.18,
+        "totalValue": 50997.1,
+        "operationalCost": 118.16
+      }
+    ]
+  }
+]
