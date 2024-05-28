@@ -1,0 +1,53 @@
+
+
+NOTA DE CORRETAGEM
+Data pregãoFolhaNr.Nota
+05/09/2022111385962
+AGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A
+04538-132 SÃO PAULO - SPAV. BRIGADEIRO FARIA LIMA, 3950 - 4º ANDARITAIM BIBI
+Tel. (55 11) 40004-8282  
+atendimento@agoraivestimentos.com.bre-mail :www.agorainvestimentos.com.brInternet :
+C.N.P.J.: 74.014.747/0001-35Carta Patente: A-39
+e-mail ouvidoria:Tel. Ouvidoria :
+ 
+C.P.F./C.N.P.J./C.V.M./C.O.B.Cliente
+029.256.683-21MARCUS PINTO ROLA FILHO3005406730-
+ AssessorCódigo clienteDOUTOR EDUARDO DE SOUZA ARANHA, 255 - AP 150   VILA NOVA CONCEICA
+ 70023-54067306-3904543-120  SAO PAULO - SP 
+Participante destino do repasseC.I.ValorClienteCustodiante
+N- C0,00
+P. VincComplemento nomeAdministradorAcionistaConta correnteAgênciaBanco
+N00137855 01233-PRIVATE BANK237
+Negócios realizados
+QD/CValor Operação / AjustePreço / AjusteQuantidadeObs. (*)Especificação do títuloPrazoTipo mercadoC/VNegociação
+#18,71D25.146,241.344ON      NMALIANSCSONAE   60TERMOCBOVESPA
+#18,72D171.400,329.156ON      NMALIANSCSONAE   60TERMOCBOVESPA
+#18,28C191.940,0010.500ON      NMALIANSCSONAEVISTAVBOVESPA
+Resumo dos NegóciosResumo FinanceiroD/C
+0,00DebênturesClearing
+191.940,00Vendas à vistaC191.940,00Valor líquido das operações
+0,00Compras à vistaD102,03Taxa de liquidação
+0,00Opções - comprasD38,32Taxa de Registro
+0,00Opções - vendasC191.799,65Total  CBLC
+196.546,56Operações à termoBolsa
+0,00Valor das oper. c/ títulos públ. (v. nom.)D0,00Taxa de termo/opções
+388.486,56Valor das operaçõesD0,00Taxa A.N.A.
+D44,96Emolumentos
+44,96 DTotal Bovespa / Soma
+Especificações diversasCorretagem / Despesas
+ClearingD1.967,64
+Execução0,00 DA coluna Q indica liquidação no Agente do Qualificado.
+0,00Execução casaD
+D189,87ISS  (  SAO PAULO  )
+9,59I.R.R.F. s/ operações, base   R$ 191.940,00
+D0,00Outras
+2.157,51DTotal corretagem / Despesas
+T - Liquidação pelo BrutoA - Posição Futuro(*) - Observações:Líquido para  08/09/2022189.597,18 C
+I - POPObservação:  (1) As operações a termo não são computadas no líquido da faturaC - Clubes e Fundos de Ações 2 - Corretora ou pessoa vinculada atuou na contra parte.
+P - Carteira Própria # - Negócio direto
+H - Home Broker 8 - Liquidação Institucional.
+X - Box D - Day-Trade
+Y - Desmanche de Box F - Cobertura________________________________________________________________________________________________
+L - Precatório B - DebênturesAGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S/A
+Obs: Sobre a taxa de corretagem são aplicados os seguintes impostos: ISS, PIS e COFINS, no total de 9,65%, previstos na Lei nº 12.741, de 8/12/2012. Esse valor está consolidado acima com a descrição ISS (SÃO PAULO).
+orrlnota.qrp

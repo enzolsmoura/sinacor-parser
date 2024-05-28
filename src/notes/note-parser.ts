@@ -179,7 +179,7 @@ function parseBradescoDeals(input: string): DealParserResponseType {
     const unitPrice = Number(deal[1].replace(".", "").replace(",", "."));
     const totalValue = Number(deal[2].replace(".", "").replace(",", "."));
     const quantity = Number(deal[3].replace(".", ""));
-    const asset = deal[4].trim().substring(2);
+    const asset = deal[4].trim();
     const type = deal[5].trim();
 
     deals.push({
@@ -206,7 +206,7 @@ function parseAlternativeBradescoDeals(input: string): DealParserResponseType {
     const unitPrice = Number(deal[1].replace(".", "").replace(",", "."));
     const totalValue = Number(deal[2].replace(".", "").replace(",", "."));
     const quantity = Number(deal[3].replace(".", ""));
-    const asset = deal[4].trim().substring(2);
+    const asset = deal[4].trim();
     const type = deal[5].trim();
 
     deals.push({
@@ -260,5 +260,3 @@ function parseAgoraDeals(input: string): DealParserResponseType {
 
   return { deals, groupedDeals };
 }
-
-

@@ -1,0 +1,49 @@
+
+
+NOTA DE CORRETAGEM
+Data pregãoFolhaNr.Nota
+08/05/20171198470
+BRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS 
+01310-917 SAO PAULO - SPAV. PAULISTA, 1450, 1450 - 7ºANDARBELA VISTA
+Tel.  4020-1414  
+e-mail :www.bradescocorretora.com.brInternet :
+C.N.P.J.: 61.855.045/0001-32Carta Patente: A-67/801
+e-mail ouvidoria:Tel. 0800727-9933Ouvidoria :
+ 
+C.P.F./C.N.P.J./C.V.M./C.O.B.Cliente
+029.256.683-21MARCUS PINTO ROLA FILHO3000366685-
+ AssessorCódigo clienteR DR EDUARDO DE SOUZA ARANHA, 255 - AP 150   VL NOVA CONCEICAO
+(011) 98932-427710553-3666858-7204543-120  SAO PAULO - SP 
+Agente de CompensaçãoC.I.ValorClienteCustodiante
+N- C0,00-
+P. VincComplemento nomeAdministradorAcionistaConta correnteAgênciaBanco
+N1378551217237
+Negócios realizados
+QD/CValor Operação / AjustePreço / AjusteQuantidadeObs. (*)Especificação do títuloPrazoTipo mercadoC/VNegociação
+14,70D1.176,0080ON      NMALIANSCEFRACIONARIOC1-BOVESPA
+14,70D8.820,00600ON      NMALIANSCEVISTAC1-BOVESPA
+Resumo dos NegóciosResumo FinanceiroD/C
+0,00DebênturesClearing
+0,00Vendas à vistaD9.996,00Valor líquido das operações
+9.996,00Compras à vistaD2,74Taxa de liquidação
+0,00Opções - comprasD0,00Taxa de Registro
+0,00Opções - vendasD9.998,74Total  CBLC
+0,00Operações à termoBolsa
+0,00Valor das oper. c/ títulos públ. (v. nom.)D0,00Taxa de termo/opções
+9.996,00Valor das operaçõesD0,00Taxa A.N.A.
+D0,49Emolumentos
+0,49 DTotal Bovespa / Soma
+Especificações diversasCorretagem / Despesas
+CorretagemD24,99
+A coluna Q indica liquidação no Agente do Qualificado.
+D0,00Outras
+24,99DTotal corretagem / Despesas
+T - Liquidação pelo BrutoA - Posição Futuro(*) - Observações:Líquido para  11/05/201710.024,22 D
+I - POPObservação:  (1) As operações a termo não são computadas no líquido da faturaC - Clubes e Fundos de Ações 2 - Corretora ou pessoa vinculada atuou na contra parte.
+P - Carteira Própria # - Negócio direto
+H - Home Broker 8 - Liquidação Institucional.
+X - Box D - Day-Trade
+Y - Desmanche de Box F - Cobertura________________________________________________________________________________________________
+L - Precatório B - DebênturesBRADESCO S/A CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS 
+Obs: Sobre a taxa de corretagem são aplicados os seguintes impostos: ISS, PIS e COFINS, no total de 9,65%, previstos na Lei nº 12.741, de 8/12/2012. Esse valor está consolidado acima com a descrição ISS (SÃO PAULO).
+orrlnota.qrp
